@@ -3,3 +3,4 @@ Syllabus_Intro/
 output/
 *.pyc
 *.pid
+.DS_Store
