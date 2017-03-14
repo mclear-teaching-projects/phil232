@@ -1,0 +1,33 @@
+* Materialism & Mechanism
+
+- Materialism :: a metaphysical view about what there is -- viz. matter (i.e.
+                 stuff with properties of extension and perhaps impenetrability)
+
+                 
+- Mechanism :: an explanatory view about what explains what. Specifically,
+               concerning how (sub)microscopic bodies with size, shape,
+               motion, etc., interact and explain all manifest properties of
+               macroscopic things
+
+** Galileo's Conceivably Argument
+
+#+BEGIN_QUOTE
+     Now I say that whenever I conceive any material or corporeal substance, I
+     immediately feel the need to think of it as bounded, and as having this or
+     that shape…[etc.]…From these conditions I cannot separate such a substance
+     by any stretch of my imagination. But that it must be white or red, bitter
+     or sweet, noisy or silent, and of sweet or foul odor, my mind does not feel
+     compelled to bring in as necessary accompaniments. Without the senses as
+     our guides, reason or imagination unaided would probably never arrive at
+     qualities like these. Hence I think that tastes, odors, colors, and so on
+     are no more than mere names so far as the object in which we place them is
+     concerned, and that they reside only in the consciousness (Galileo, p.
+     274).
+#+END_QUOTE
+
+- Galileo espouses "eliminitivism" about secondary qualities 
+  
+*** Determinate vs Determinable Qualities
+
+- Determinable :: general class/genus
+- Determinate :: specific species or member of a class 
