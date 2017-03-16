@@ -12,22 +12,81 @@
 ** Galileo's Conceivably Argument
 
 #+BEGIN_QUOTE
-     Now I say that whenever I conceive any material or corporeal substance, I
-     immediately feel the need to think of it as bounded, and as having this or
-     that shape…[etc.]…From these conditions I cannot separate such a substance
-     by any stretch of my imagination. But that it must be white or red, bitter
-     or sweet, noisy or silent, and of sweet or foul odor, my mind does not feel
-     compelled to bring in as necessary accompaniments. Without the senses as
-     our guides, reason or imagination unaided would probably never arrive at
-     qualities like these. Hence I think that tastes, odors, colors, and so on
-     are no more than mere names so far as the object in which we place them is
-     concerned, and that they reside only in the consciousness (Galileo, p.
-     274).
+  Now I say that whenever I conceive any material or corporeal substance, I
+  immediately feel the need to think of it as bounded, and as having this or
+  that shape…[etc.]…From these conditions I cannot separate such a substance
+  by any stretch of my imagination. But that it must be white or red, bitter
+  or sweet, noisy or silent, and of sweet or foul odor, my mind does not feel
+  compelled to bring in as necessary accompaniments. Without the senses as
+  our guides, reason or imagination unaided would probably never arrive at
+  qualities like these. Hence I think that tastes, odors, colors, and so on
+  are no more than mere names so far as the object in which we place them is
+  concerned, and that they reside only in the consciousness (Galileo, p.
+  274).
 #+END_QUOTE
 
 - Galileo espouses "eliminitivism" about secondary qualities 
   
+1. Thinking of a material object requires thinking of it as having a particular
+   set of qualities (i.e. size, shape, location, motion, etc.)
+2. Thinking of a material object does not require thinking of it as having
+   specific sensory qualities (e.g. color, taste, smell, sound)
+3. The only qualities possessed by a material object are those which we must
+   attribute to it in thought
+4. ∴ Sensory qualities are not qualities of material objects, but rather
+   features of our consciousness of those objects — i.e. “sensations” [from 2, 3]
+5. ∴ If there were no conscious beings there would be no sensory qualities (e.g.
+   colors, tastes, smells, etc.). [from 4]
+   
 *** Determinate vs Determinable Qualities
 
 - Determinable :: general class/genus
 - Determinate :: specific species or member of a class 
+                 
+                 
+**** Inseperability argument
+1. Every physical change in an object is a change to its determinate qualities
+2. Some qualities of bodies are present through all changes---viz., the determines of size, shape, solidity, and motion
+3. ∴ Color?, Size, shape, solidity, and motion are inseparable from any existing body
+
+
+** Secondary Qualities
+ - Sec qualities are "mere" powers
+     - colors, tastes, smells
+       
+*** Problems with Locke's distinction
+- Aren't all qualities powers?
+  1. Shape is a primary quality
+  2. If shape is a primary quality then it is a quality
+  3. Qualities are powers to produce ideas
+  4. ∴ Shape is a power to produce an idea—presumably the idea of shape
+  5. But secondary qualities are also powers to produce ideas
+  6. ∴ There is no primary/secondary distinction between qualities
+
+
+Maintain that there is only one sense to “quality” but distinguish between
+real qualities and mere qualities
+
+    - “Real” qualities are qualities which are more than mere powers in
+      things, and exist even in the absence of things they affect
+    - “Mere” qualities are no more than powers in things and cease to exist
+      the things they affect are absent
+
+
+*** Restating the distinction:
+  - Primary Qualities:
+    - Qualities of bodies which are “really” in them in the sense of being
+      both: (i) non-relational and (ii) of a determinable which must be had by
+      any body (e.g. solidity, extension, size, shape)
+  - Secondary Qualities:
+    - Qualities of bodies, which are “merely” in them, and determined by their
+      primary qualities to produce sensory ideas in perceiving subjects. These
+      qualities are both (i) relational and (ii) of determinables which need
+      not be had by every body (e.g. colors, sounds, tastes)
+      
+Further, our ideas of primary qualities really "resemble" them while our ideas
+of secondary qualities do not (II.viii.15).
+
+- Abstractionist theory of general ideas (abstract ideas)
+  - There are no genuine kinds in the world, they are the "workmanship of the
+    understanding"
