@@ -1,3 +1,6 @@
+#+TITLE: In-class notes (3/14-16)
+#+AUTHOR: PHIL 232
+
 * Materialism & Mechanism
 
 - Materialism :: a metaphysical view about what there is -- viz. matter (i.e.
@@ -33,9 +36,9 @@
    specific sensory qualities (e.g. color, taste, smell, sound)
 3. The only qualities possessed by a material object are those which we must
    attribute to it in thought
-4. ∴ Sensory qualities are not qualities of material objects, but rather
+4. $∴$ Sensory qualities are not qualities of material objects, but rather
    features of our consciousness of those objects — i.e. “sensations” [from 2, 3]
-5. ∴ If there were no conscious beings there would be no sensory qualities (e.g.
+5. $∴$ If there were no conscious beings there would be no sensory qualities (e.g.
    colors, tastes, smells, etc.). [from 4]
    
 *** Determinate vs Determinable Qualities
@@ -44,10 +47,10 @@
 - Determinate :: specific species or member of a class 
                  
                  
-**** Inseperability argument
+*** Inseperability argument
 1. Every physical change in an object is a change to its determinate qualities
 2. Some qualities of bodies are present through all changes---viz., the determines of size, shape, solidity, and motion
-3. ∴ Color?, Size, shape, solidity, and motion are inseparable from any existing body
+3. $∴$ Size, shape, solidity, and motion are inseparable from any existing body
 
 
 ** Secondary Qualities
@@ -59,9 +62,9 @@
   1. Shape is a primary quality
   2. If shape is a primary quality then it is a quality
   3. Qualities are powers to produce ideas
-  4. ∴ Shape is a power to produce an idea—presumably the idea of shape
+  4. $∴$ Shape is a power to produce an idea—presumably the idea of shape
   5. But secondary qualities are also powers to produce ideas
-  6. ∴ There is no primary/secondary distinction between qualities
+  6. $∴$ There is no primary/secondary distinction between qualities
 
 
 Maintain that there is only one sense to “quality” but distinguish between
@@ -90,3 +93,12 @@ of secondary qualities do not (II.viii.15).
 - Abstractionist theory of general ideas (abstract ideas)
   - There are no genuine kinds in the world, they are the "workmanship of the
     understanding"
+
+
+* Configuration                                                    :noexport:
+
+#+PANDOC_METADATA: numbersections:t secnumdepth:2 
+#+PANDOC_OPTIONS: template:/Users/Roambot/.pandoc/pandoc-templates/default.latex
+#+PANDOC_OPTIONS: standalone:t smart:t latex-engine:xelatex 
+#+EXCLUDE_TAGS: notes scrap todo
+#+BIBLIOGRAPHY: /Users/Roambot/Dropbox/Work/Master.bib
