@@ -1,4 +1,4 @@
-* Quiz
+* Quiz                                                             :noexport:
  1. We discussed two arguments of Leibniz's against matter. Briefly describe one.
  2. Name one of the characteristics of a monad
  3. T/F: Monads constitute physical reality by being parts of physical bodies
@@ -40,4 +40,4 @@
   
 *** The Missing Shade of Blue
 - Possible counterexample to the copy principle?
-- Denies that it is a genuine problem for the 
+- Denies that it is a genuine problem for the principle
