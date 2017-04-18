@@ -1,0 +1,78 @@
+* Hume on the mind
+- Two kinds of mental states
+  1. impressions
+  2. ideas
+     
+- Copy Principle :: all ideas are copies of impressions
+                    
+- All ideas are less phenomenologically "vivid" and "forceful/lively" than
+  their corresponding impressions
+  
+- Three principles of association
+  1. resemblance
+  2. contiguity in time and space
+  3. cause & effect
+
+- Missing shade of blue
+  - Not a counterexample (?) 
+    
+* Hume's Fork 
+- Relations of ideas
+  - certain
+  - known just by thinking
+  - independent of what actually exists
+  - concern necessary truths
+  - examples include mathematics, linguistic definition/stipulation
+  - Negation is or entails a contradiction 
+- Matters of fact
+  - contingent
+  - Negation is not (or does not entail) a contradiction
+  - not knowable just by thinking
+  - depends on what is/was actual 
+    
+- Analytic truths vs. synthetic truths
+  - a priori :: knowable/justifiable just by thinking
+
+  - a posteriori :: not knowable/justifiable just by thinking -- appeal to some
+                    experience of the actual world
+
+                    
+- Is Hume's fork fully exhaustive & exclusive? 
+  - could there be synthetic a priori truths/knowledge?
+
+* Hume on Causation
+- What is it to have causal knowledge of things?
+- What give us certainty (knowledge) of matters of fact beyond that which
+  we currently experience?
+
+** Negative Argument 
+*** Causal knowledge is not attained via relations of ideas
+- The relation of an effect to its cause (and vice versa) can never be
+  attained merely by analysis of the relevant ideas and their relations
+  - No contradiction is implied by denying that some effect follows from
+    (some conception of) a putative cause
+  - Cause & effect are entirely distinct
+  - No necessary connections between entirely distinct existences
+*** Causal knowledge is not attained via a rational process of induction from matters of fact 
+- Hume denies that causal reasoning from matters of fact is rational 
+  1. In the past, when I have let go of solid objects suspended in the
+     air, they have fallen.
+  2. Therefore, When I let go of this object, it will fall 
+     
+- We have no rational justification for holding (2) on the basis of (1)
+  - truth is not self-evident
+  - no contradiction is implied by denial of (2) (i.e. negation of (2)
+    is "conceivable")
+  - no demonstrative (logical) relation between (1) and (2) 
+    
+- We have no rational basis for believing (2) on the basis of (1)
+  - Any rational basis for induction over instances (enumerative
+    induction) requires that we know that the future will be like the
+    past (FLP)
+    - We have no reason to believe FLP
+      - No logical demonstration of the truth of FLP
+      - Cannot accept FLP based on appeals top probability (i.e. on the
+        FLP having been true previous) -- the claim that FLP is true
+        based on past observation of FLP's truth is circular, it simply
+        assumes that FLP is true
+
