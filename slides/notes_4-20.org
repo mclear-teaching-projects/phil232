@@ -1,0 +1,40 @@
+* Quiz
+1. Hume distinguishes between two kinds basic element of them mind (two kinds of
+   perception) -- what are they?
+2. Name one law of association
+3. What is the copy principle?
+4. "Hume's Fork" distinguishes between two different kinds of knowledge. Name one
+   - relations of ideas/matters of fact
+5. T/F Knowledge of matters of fact can be had just by analyzing our ideas and
+   their relations
+
+* Positive conception of causation
+** Redefinition of 'cause-effect'
+1. Causation as constant conjunction (events of type A are followed by
+   events of type B)
+2. Causation as counterfactual dependence (if A had not occurred then B
+   would not have occurred)
+3. Causation as psychological responsiveness (the having of thoughts of
+   type A 'always conveys' one to thoughts of type B)
+
+   All causal inference is due to "custom" or habit.
+
+* Personal Identity
+** Genealogical argument 
+- Where does the idea of a persisting self come from?
+  - Not from experience (no impression of a persisting self, or self at
+    all)
+- Hume thus denies
+  1. that the existence of an impression requires the existence of a
+     subject of that impression (i.e. a "self")
+  2. that we are aware of a subject of impressions or ideas in
+     introspection
+- So no impression of self -> idea of self is a fiction 
+** The Bundle theory
+- The 'self' is really just a constant flux of perceptions (of impressions and ideas) that are connected via associative forces, such that they constitute a 'bundle'
+- There are no persisting bundles
+** The origin of the idea of a (fictitious) self 
+- Distinguish between 
+  - Strict identity :: persistence without alteration
+  - Similarity :: resemblance, in some respect, between distinct existences
+
