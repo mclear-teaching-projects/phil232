@@ -1,4 +1,4 @@
-* Quiz
+* Quiz                                                             :noexport:
 1. Hume distinguishes between two kinds basic element of them mind (two kinds of
    perception) -- what are they?
 2. Name one law of association

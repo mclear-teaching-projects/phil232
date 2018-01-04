@@ -1,0 +1,43 @@
+* Personal Identity
+- Where does the idea of a persisting self/subject come from?
+  - Not from experience?
+    - The idea of a self must be in some sense fictitious 
+      
+** The bundle theory
+- The subject is just a collection of impressions and ideas
+  1. What holds together the various elements of the bundle?
+  2. What explains our sense of ourselves as subjects? And why we would
+     mistakenly think that we are substantial beings?
+     
+*** Explanation of (2)
+- Distinguish between:
+  - Strict identity :: persistence without alteration
+  - Similarity :: resemblance in some respect
+ 
+                  
+- We confuse strict identity with similarity in at least four ways
+  1. Masses of matter which change a very small proportion of their parts
+  2. Gradual change of all parts of a thing
+  3. Linguistic confusion between numeric and qualitative identity
+  4. Attribute strict identities to constantly changing entities 
+
+    
+*** The importance of memory 
+- Memory is not only the means by which we "discover" identity but also
+  partly a metaphysical condition of such identities
+- Causation is then used to explain connections between ideas in cases
+  where we have no memory (p. 261-2)
+
+*** Hume's Skepticism
+ - Two problematic principles
+        - (1) all our distinct perceptions are distinct existences
+        - (2) the mind never perceives any real connection among distinct existences
+    - Hume's problem of individuation
+        - What distinguishes a mind as one mind?
+            - causal connections (memory depends on causal connections too)
+            - but causal association is defined in terms of causal connection in
+              one mind
+            - so no non-circular means of picking out one 'mind'
+
+
+
