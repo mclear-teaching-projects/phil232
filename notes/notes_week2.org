@@ -1,0 +1,88 @@
+* Week 2 (1/15)
+** Scholastic Background
+- Cosmology
+- Causal structure of nature (4 causes)
+- Hylomorphism
+- Aristotelian empiricism 
+- Demonstrative science (is it possible?)
+
+** Descartes
+- Rene Descartes (1596-1650); /Discourse on the Method/ (1637) & The /Meditations/ (1641)
+
+***  The Method
+
+Descartes puts his method this way:
+
+#+BEGIN_QUOTE
+The first was never to accept anything as true if I did not have evident
+  knowledge of its truth: that is, carefully to avoid precipitate conclusions
+  and preconceptions, and to include nothing more in my judgements than what
+  presented itself to my mind so clearly and so distinctly that I had no
+  occasion to doubt it. 
+
+  The second, to divide each of the difficulties I examined into as many parts
+  as possible and as may be required in order to resolve them better.
+
+  The third, to direct my thoughts in an orderly manner, by beginning with the
+  simplest and most easily known objects in order to ascend little by little,
+  step by step, to knowledge of the most complex, and by supposing some order
+  even among objects that have no natural order of precedence.
+
+  And the last, throughout to make enumerations so complete, and reviews so
+  comprehensive, that I could be sure of leaving nothing out. (AT VI:18-19)
+#+END_QUOTE
+
+We can put the method more concisely as follows:
+
+1. Accept as true only that for which one has proper evidence—viz., clear
+   and distinct ideas;
+2. Resolve problems into their simplest parts
+3. Move from the simple and known to the complex 
+4. Thoroughly review and check one’s work to be sure it is comprehensive and complete
+ 
+*** The Meditations
+
+- Meditation as literary form
+- Tree metaphor for all human knowledge:
+  "The roots are metaphysics, the trunk is physics, and the branches
+  emerging from the trunk are all the other sciences, which may be
+  reduced to three principal ones, namely medicine, mechanics and
+  morals” (AT IXB 14: CSM I 186)
+
+
+**** Meditation 1
+- The project (7:17-18)
+  - Foundationalism :: conception of knowledge as starting from
+    absolutely certain first principles, typically known without
+    inference from anything else (e.g. they are "self-evident")
+
+  - Method of doubt
+    - Suspend judgment concerning all which is uncertain (i.e. all for
+      which one can raise some doubt)
+  - In particular, doubt /empiricism/
+    - Three "stages of doubt" concerning empiricism
+      - stage 1: the senses occasionally deceive 
+      - stage 2: the dream argument
+      - stage 3: the evil demon
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
