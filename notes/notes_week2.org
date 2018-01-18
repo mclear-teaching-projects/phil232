@@ -1,4 +1,13 @@
 * Week 2 (1/15)
+** Quiz
+1. What are the four rules in Descartes's "method" for acquiring
+   knowledge? 
+2. What is epistemic foundationalism?
+3. (T/F) Descartes's method of doubt requires that we believe all of our beliefs
+   are false 
+4. Why does Descartes employ his method of doubt?
+5. Name one of the stages of doubt
+
 ** Scholastic Background
 - Cosmology
 - Causal structure of nature (4 causes)
@@ -9,7 +18,7 @@
 ** Descartes
 - Rene Descartes (1596-1650); /Discourse on the Method/ (1637) & The /Meditations/ (1641)
 
-***  The Method
+*** The Method
 
 Descartes puts his method this way:
 
@@ -50,7 +59,8 @@ We can put the method more concisely as follows:
   morals” (AT IXB 14: CSM I 186)
 
 
-**** Meditation 1
+** Meditation 1
+***** Structure of Med 1
 - The project (7:17-18)
   - Foundationalism :: conception of knowledge as starting from
     absolutely certain first principles, typically known without
@@ -64,25 +74,55 @@ We can put the method more concisely as follows:
       - stage 1: the senses occasionally deceive 
       - stage 2: the dream argument
       - stage 3: the evil demon
-        
+- Against Empiricism
+  1. Sensory foundations (7:18)
+  2. Sensory fallibility (7:18-19)
+  3. Objection: Optimal circumstances (7:19)
+  4. Objection: Insanity (7:18-19)
+  5. The dream argument (7:19)
+  6. Objection: The painter’s analogy (7:19-20)
+  7. Deceitful God; Dubitability of mathematics (7:21)
+  8. The corrective role of doubt (7:22)
+  9. The evil demon (7:22-3)
+
+** Meditation 2
+*** Structure of Med 2
+-   The review of doubt; the *Cogito* (7:24-5)
+-   The nature of the 'I' as thinking thing (7:25-7)
+-   The mind's unknown relation to body (7:27)
+-   The mind itself is not 'imageable' (7:27-8)
+-   The variety and unity of thought (7:28-9)
+-   The 'Wax Argument' --- our knowledge of body (7:29-33)
+-   Analysis of the nature and content of perceptual judgment (7:32)
+-   The Mind is better known than (any) body (7:33-4)
 
 
+*** The Cogito Argument
 
+#+BEGIN_QUOTE
+I have convinced myself that there is absolutely nothing in the world, no sky,
+no earth, no minds, no bodies. Does it now follow that I too do not exist? No:
+if I convinced myself of something then I certainly existed. But there is a
+deceiver of supreme power and cunning who is deliberately and constantly
+deceiving me. In that case I too undoubtedly exist, if he is deceiving me; and
+let him deceive me as much as he can, he will never bring it about that I am
+nothing so long as I think that I am something. So after considering
+everything very thoroughly, I must finally conclude that this proposition, /I
+am, I exist/, is necessarily true whenever it is put forward by me or conceived
+in my mind. (7:25)
+#+END_QUOTE
 
+**** Problems
 
+- Begs question 
+  - 'I' premise assumes existence of subject
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+- Reformulated argument
+  1. A thing is composed of its properties or characteristics /plus/ an
+     underlying substance to which they belong
+  2. If there is a property or characteristic, then there must be a
+     substance to which it belongs.
+  3. A thought is a property.
+  4. If there is a thought, then there is a substance to which it belongs.
+  5. There is a thought.
+  6. \therefore There is a substance to which this thought belongs: "I".
