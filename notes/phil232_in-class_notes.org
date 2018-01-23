@@ -1,3 +1,5 @@
+#+TITLE: In-Class Notes
+
 * Week 2 (1/15)
 ** Quiz
 1. What are the four rules in Descartes's "method" for acquiring
@@ -126,3 +128,55 @@ in my mind. (7:25)
   4. If there is a thought, then there is a substance to which it belongs.
   5. There is a thought.
   6. \therefore There is a substance to which this thought belongs: "I".
+* Week 3 (1/22)
+- There is no seems/is distinction with respect to certain classes of thought
+- How can we be certain that we have the nature that the Meditator claims
+  that we have (as thinking substance)? -- Maybe we are just thoughts of the
+  "world soul"? 
+
+** Objections (review)
+- Begging the question
+  - Remove problem by introducing premises?
+    1. There is thinking 
+    2. For any instantiated property there is a thing---a
+       "substance"---that has that property
+    3. So there is a thinking thing (1,2)
+    4. So I am thinking 
+- Invalid argument
+  - Can't move from impersonal premises to 1st person conclusion
+
+
+** A defense
+Lichtenberg's objection: "there is no subject of thought -- D's starting
+point should be: 'there is thought"
+
+- (T1) It is thought: P
+- (T2) It is thought: Q
+
+But then we can't infer from T1 & T2 that
+
+- (T3) It is thought: P & Q
+
+From Lichtenberg's starting point we can't explain the "unity" of thought
+-- perhaps this justifies the starting point of Descartes's /Cogito/
+argument?
+
+** The Wax Argument
+
+Aims to show two things:
+1. the nature of body is known via intellect not senses (7:30-1)
+2. the nature of mind is better known than body (7:33)
+  
+  
+*** The Argument
+1. I can grasp that this melted wax is flexible and changeable so as to
+   be capable of innumerable changes of shape.
+2. Imagination could allow me to grasp this fact only by representing
+   these changes by an image of each possible shape.
+3. My imagination cannot represent the innumerable shapes required.
+4. So it is not the imagination that allows me to grasp this capability of
+   the wax.
+5. But I do grasp this capability, so it must be by a faculty other
+   than (sense or) imagination: call it the "intellect".
+   
+
