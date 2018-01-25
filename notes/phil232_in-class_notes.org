@@ -180,3 +180,61 @@ Aims to show two things:
    than (sense or) imagination: call it the "intellect".
    
 
+** Quiz
+1. What is the "cogito" argument? 
+   - "I think, I exist" is true whenever I think it
+2. Name one way in which the argument is problematic
+   - begs the question 
+   - invalid 
+3. What does Descartes assume is entailed by the existence of a thought?
+   - a thinker (i.e. a substance that has the property of thinking)
+4. T/F: The Meditator claims that it can be certain that it is a "thinking
+   thing"?
+   - T 
+5. T/F: The wax argument shows that body is known via the senses only 
+   - F
+     
+** The nature of the subject as a thinking thing
+Descartes further understands the 'I' in terms of the kinds of activity
+it can undertake. A thinking thing is "a thing that doubts, understands,
+affirms, denies, is willing, is unwilling, and also imagines and has
+sensory perceptions” (7:28). 
+
+What makes all these characteristic activities go together? 
+  - one and same being is *conscious* of engaging in all these kinds of activity
+
+    1. What makes a "mind" a mind?
+    2. What are the identity conditions under which a particular mind persists?
+** Results of the Cogito
+- The results of the Cogito inquiry
+  - I am certain that:
+    - I exist
+    - I exist as a thinking thing
+    - A thinking thing is a thing that doubts, understands, affirms, denies, is
+      willing or unwilling, imagines, and has sensory perceptions
+    - The intellect is an essential feature of a mind, and of all mental
+      activities
+** Three possible uses of the cogito
+1. the 'foundationalist' answer: what is certain is a 'first principle' from
+   which we derive other knowledge;
+2. the 'systematicity' answer: what is certain is systematically connected with
+   other knowledge (e.g. knowledge that 2 + 2 = 4 might be systematically
+   related to knowledge that 1 + 1 + 2 = 4, etc.);
+3. the 'methodological' answer: what is certain reveal a method for deriving
+   other certainties.
+
+** Meditation 3
+
+1. I know with certainty that I am a thinking thing.
+2. This knowledge is based solely on a clear and distinct perception of
+   its truth. 
+3. Clear and distinct perception would not be sufficient to yield such
+   knowledge if it were in any way fallible.
+4. \therefore Clear and distinct perception provides a sufficient
+   ground for knowledge; whatever I so perceive is true.
+
+
+- Truth Rule :: Whenever I C&D perceive then what I perceive is true & I can be
+                certain of it /as such/ 
+
+- *Problem*: could a deceitful god make me go astray even when I have C&D ideas?
