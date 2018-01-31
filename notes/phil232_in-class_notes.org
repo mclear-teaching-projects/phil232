@@ -238,3 +238,56 @@ What makes all these characteristic activities go together?
                 certain of it /as such/ 
 
 - *Problem*: could a deceitful god make me go astray even when I have C&D ideas?
+* Week 4 (1/29)
+1. I know with certainty that I am a thinking thing.
+2. This knowledge is based solely on a clear and distinct perception of
+   its truth. 
+3. Clear and distinct perception would not be sufficient to yield such
+   knowledge if it were in any way fallible.
+4. \therefore Clear and distinct perception provides a sufficient
+   ground for knowledge; whatever I so perceive is true.
+
+- Truth Rule :: whatever I perceive very clearly and distinctly is true
+- *Problem*: could a deceitful god make me go astray even when I have C&D ideas?
+  - Reply: We have to (1) examine what ideas are and (2) prove that God exists
+    and is no deceiver
+
+** Ideas
+- What are ideas?
+  - Mental "representations" :: entities by means of which one is aware of
+       things outside or independent of one's mind 
+
+- Two senses of "reality" of idea
+  - objective reality :: what the idea is an idea /of/ -- the "content" of
+       the idea
+  - formal reality :: feature or "mode" of the mind
+
+
+** Sources of Ideas
+- Where do our ideas (i.e. their content or objective reality) come from?
+- Three sources
+  1. Adventitious 
+  2. Invented/imagined 
+  3. Innate 
+
+
+*** Innate ideas
+- What are innate ideas?
+  1. An idea one has simply in virtue of having a mind  
+  2. An idea gained via reflection on or consciousness of one's nature 
+- What, if any, kinds of dependence relations exist between the various
+  classes of ideas?
+
+
+** Modes of reality
+- "Existence" is not "reality"
+  - existence appeals to causality/causal effect 
+  - reality appeals to power of cause
+- Reality as "graded"
+  1. Infinite substance   
+  2. Finite substance 
+  3. Modes (of substance) -- i.e. properties 
+** The Causal Principle
+- The causal principle :: there must be at least as much reality in the
+     efficient and total cause as in the effect of that cause 
+
