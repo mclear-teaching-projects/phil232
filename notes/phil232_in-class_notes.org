@@ -239,6 +239,7 @@ What makes all these characteristic activities go together?
 
 - *Problem*: could a deceitful god make me go astray even when I have C&D ideas?
 * Week 4 (1/29)
+** Meditation 3
 1. I know with certainty that I am a thinking thing.
 2. This knowledge is based solely on a clear and distinct perception of
    its truth. 
@@ -254,7 +255,7 @@ What makes all these characteristic activities go together?
   - Reply: We have to (1) examine what ideas are and (2) prove that God exists
     and is no deceiver
 
-** Ideas
+*** Ideas
 - What are ideas?
   - Mental "representations" :: entities by means of which one is aware of
        things outside or independent of one's mind 
@@ -265,7 +266,7 @@ What makes all these characteristic activities go together?
   - formal reality :: feature or "mode" of the mind
 
 
-** Sources of Ideas
+*** Sources of Ideas
 - Where do our ideas (i.e. their content or objective reality) come from?
 - Three sources
   1. Adventitious 
@@ -273,7 +274,7 @@ What makes all these characteristic activities go together?
   3. Innate 
 
 
-*** Innate ideas
+**** Innate ideas
 - What are innate ideas?
   1. An idea one has simply in virtue of having a mind  
   2. An idea gained via reflection on or consciousness of one's nature 
@@ -281,7 +282,7 @@ What makes all these characteristic activities go together?
   classes of ideas?
 
 
-** Modes of reality
+*** Modes of reality
 - "Existence" is not "reality"
   - existence appeals to causality/causal effect 
   - reality appeals to power of cause
@@ -289,7 +290,65 @@ What makes all these characteristic activities go together?
   1. Infinite substance   
   2. Finite substance 
   3. Modes (of substance) -- i.e. properties 
-** The Causal Principle
+*** The Causal Principle
 - The causal principle :: there must be at least as much reality in the
      efficient and total cause as in the effect of that cause 
+*** Rationalism & the PSR
+- Question : why can't something come from nothing?
+- Rationalist assumption :: the principles governing the structure
+     of nature mirror or are identical with the principles governing
+     the structure of our ideas
+- The Principle of Sufficient Reason :: For every truth or fact there is a
+     sufficient reason
+
+*** The Causal argument
+1. The objective reality of an idea must have a cause equal to it or greater
+2. The objective reality of my idea of God is that of an omni-omni-omni substance
+3. No finite being has sufficient reality to cause the content of my idea of God
+4. \therefore The cause of the objective reality of the idea must be God
+
+*** Objections
+1. Do we really have such an idea of God?
+  - We must because of the "priority of the infinite"
+
+2. Does the idea of God really require an *infinite* cause?
+  - No concept of an infinite being could be constructed from finite
+    (e.g. sensory) materials
+
+*** Argument for God's existence based on the preservation of finite substance
+- /Question/: could I (the meditator) have existed if no "more perfect" being
+  existed (7:48) ?
+- Four possible sources of my existence:
+  1. self-causation
+  2. parents
+  3. some other finite being
+  4. God
+- Against (1): only an infinite power could create something from nothing
+
+- Preservation principle :: There is no distinction between preservation
+     of existence and creation
+
+
+1. Any entity that exists exists at discrete moments that are independent of each other
+2. The existence of a substance at one moment does not give it the power to
+   exist at any other subsequent moment
+3. Existence at a moment requires an act equivalent to creation (preservation = creation)
+4. No finite entity can create itself
+5. ∴ no finite entity can preserve itself from one moment to the next
+6. ∴ there must be some entity capable of creation & preservation
+
+
+** Meditation 4
+- God is no deceiver and all-powerful, so why is it that we are created
+  with the capacity for error? How is this compatible with the existence
+  of a God so conceived?
+
+#+BEGIN_QUOTE
+when I concentrate on the nature of God, it seems impossible that he should have
+placed in me a faculty which is not perfect of its kind, or which lacks some
+perfection which it ought to have...There is, moreover, no doubt that God could
+have given me a nature such that I was never mistaken; again, there is no doubt
+that he always wills what is best. Is it then better that I should make mistakes
+than that I should not do so? (7:55)
+#+END_QUOTE
 
