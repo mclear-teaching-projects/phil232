@@ -352,3 +352,56 @@ that he always wills what is best. Is it then better that I should make mistakes
 than that I should not do so? (7:55)
 #+END_QUOTE
 
+* Week 5 (2/5)
+** Quiz
+1. Name one source of our ideas that Descartes discusses
+   - senses, observation, experience, "adventitious"
+   - invented or imagined ideas
+   - innate
+2. T/F: Descartes needs to prove that God exists to be certain that the
+   "cogito" argument is true
+   - F
+3. T/F: The truth rule states that whenever one thinks, what one thinks is true
+   - F
+4. T/F: The Med 2 wax argument presupposes that bodies exist
+   - F
+5. What is the formal reality of an idea?
+   - formal reality :: the way an idea exists -- as a mode or property of
+                       the mind
+   - objective reality :: what the idea is about or represents -- its "content"
+
+
+** Med 4 - The theory of error
+
+#+BEGIN_QUOTE
+I perceive that the power of willing which I received from God is not, when
+considered in itself, the cause of my mistakes for it is both extremely ample
+and also perfect of its kind. Nor is my power of understanding to blame for
+since my understanding comes from God, everything that I understand I
+undoubtedly understand correctly, and any error here is impossible. So what then
+is the source of my mistakes? It must be simply this: the scope of the will is
+wider than that of the intellect; but instead of restricting it within the same
+limits, I extend its use to matters which I do not understand. Since the will is
+indifferent in such cases, it easily turns aside from what is true and good, and
+this is the source of my error and sin. (7:58)
+#+END_QUOTE
+
+- The source of error is willing to believe something that is false, or
+  for which one lacks sufficient evidence
+- We choose or "will" to believe or deny the judgments or ideas presented
+  by the understanding  
+
+*** Error as evil -- three responses
+1. Maybe we can't always understand God's actions (7:55)
+2. Imperfections/evils should be understood at the level of all of creation, not locally
+3. In our case, error is the function of a relationship between our faculties
+
+
+*** Three kinds of causal influence
+1. Interactionism
+2. Occasionalism
+   - direct causal intervention
+   - indirect causal intervention via laws of nature
+3. Parallelism (divine harmony)
+   
+   
