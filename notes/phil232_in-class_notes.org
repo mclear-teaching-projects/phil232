@@ -405,3 +405,51 @@ this is the source of my error and sin. (7:58)
 3. Parallelism (divine harmony)
    
    
+** Med 5 - Essence & Ontological Argument
+1.  Essence of matter is extension (7:63, 71)
+2.  Innate ideas of essences (7:63–5)
+3.  Ontological argument (7:65–8)
+
+
+*** Essence of matter
+The essence of matter is "continuous quantity" or extension
+#+BEGIN_QUOTE
+Quantity, for example, or 'continuous' quantity as the philosophers commonly
+call it, is something I distinctly imagine. That is, I distinctly imagine the
+extension of the quantity (or rather of the thing which is quantified) in
+length, breadth and depth. I also enumerate various parts of the thing, and to
+these parts I assign various sizes, shapes, positions and local motions; and to
+the motions I assign various durations. (7:63)
+#+END_QUOTE
+
+*** Extension as "Primary Attribute"
+- Primary attribute as essential property of a substance
+
+- essential property :: (i) necessary property of a thing that (ii)
+     makes it the kind of thing that it is and (iii) explains other
+     properties that a thing may have  
+
+  
+1. Intellectual/intelligible claim :: idea of quantity entails other
+     ideas (extension entails & is entailed by shape, size, etc)
+2. Metaphysical claim : reality is such that if there is extension then
+   there is a metaphysical dependence of size, shape, etc., on it 
+     
+
+
+
+*** The ontological argument
+1. Whatever I C+D perceive to belong to the essence of a thing does
+2. I C+D perceive that the essence of God includes every perfection
+3. It is more perfect to exist than not to existence (existence is a perfection)
+4. \therefore Existence is necessarily part of God's essence
+5. \therefore God necessarily exists
+
+
+*** Objections
+1. We don't have a C+D perception of God's essence, which means we don't
+   have a C+D perception of whether that essence includes existence 
+2. Why think that existence is a perfection?
+   - maybe "exist" doesn't pick out a property in anything like the way
+     "hot" or "good" does -- "existence" isn't a "real predicate" 
+   
