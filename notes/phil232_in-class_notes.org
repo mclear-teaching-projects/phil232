@@ -453,3 +453,67 @@ the motions I assign various durations. (7:63)
    - maybe "exist" doesn't pick out a property in anything like the way
      "hot" or "good" does -- "existence" isn't a "real predicate" 
    
+     
+* Week 6 (2/12)
+** The "Cartesian Circle"
+1. I can be certain of P only if I am certain that Q
+2. I can be certain of Q only if I am certain that P
+
+P: whatever I perceive clearly and distinctly is true
+Q: God exists and is not a deceiver
+
+How does Descartes avoid the circular reasoning? Can he deny either or
+both of (1) or (2)?
+** Descartes's Memory Response
+- We don't need proof of God's existence and non-deceitful nature to certify
+  C&D perception, rather only need proof of God to show that we can rely on
+  memory of C&D perception
+- Worry: doesn't really answer the fundamental objection that we need some
+  certification for C&D perception /itself/.
+** Alternative Strategies for resolving the Circle
+*** 1. Mere psychological certainty not truth
+- Maybe Descartes is just after unshakable psychological certainty or
+  conviction rather than truth
+- Unsatisfying as a general explanation of what Descartes is doing in
+  the Meditations (e.g. unsatisfying as explanation of Med 5 argument
+  concerning our intellectual grasp of essences)
+*** 2. Remove the doubt
+Descartes isn't trying to prove that C&D perception is /true/, only that
+we have no defensible grounds for doubting C&D perception 
+
+- Maybe not going to work since even just removing doubt about decietful
+  god via appeal to our idea of God will rely on C&D perception of the
+  content of our idea of God
+- Doesn't seem to remove grounds for doubting a "defective origins"
+  style objection as from Med 1 (7:21)
+  
+**** Two Validation Projects
+***** Strong Validation of the Intellect
+The intellect is capable of discovering and knowing/justifying
+metaphysical principles concerning reality
+***** Weak Validation of the Intellect 
+There are no good grounds for doubting the deliverances of the
+intellect -- it is a (generally) reliable faculty for knowledge 
+*** 3. Presumption in favor of the intellect
+Why couldn't the Meditator reasonably begin with the presumption of the
+reliability of the human intellect?
+
+- Worry: begs the question against those who doubt the power/reliability
+  of intellect
+- Worry: doesn't account for how we can have knowledge of essences of
+  real objects (e.g. knowledge of essence of matter or God)
+
+
+** Is the Circle  Inescapable?
+- If D is after a "strong validation" of the intellect then he may be
+  unable to escape the circle since he would need positive proof that the
+  method of C&D perception is reliable but his only such positive proofs
+  (e.g. God's existence) rely on that very method
+
+
+** Is Descartes's Problem our Problem?
+- "Problem of the criterion" :: whether or not we need to know the epistemic principles which justify our claims to knowledge prior to (and perhaps independently of) any knowledge that we have, including knowledge that might be necessary for formulating the principles.
+  
+
+  
+  
