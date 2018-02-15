@@ -455,6 +455,23 @@ the motions I assign various durations. (7:63)
    
      
 * Week 6 (2/12)
+** Quiz
+1. In Med 3 Descartes articulates 2 proofs of the existence of God. Name one.
+   - casual argument from idea of God
+   - preservation/creation of finite beings
+2. In his first proof of God’s existence D uses a metaphysical principle. Name
+   the principle & briefly describe its content
+   - Causal principle
+3. T/F: Descartes explains the existence of error as arising because of the
+   relation between the imagination and the understanding
+   - F
+4. T/F: Descartes thinks that finite substances lack the power to persist
+   through time on their own 
+   - T
+5. T/F: Descartes thinks that the power to preserve is the same the as the power
+   to create
+   - T
+
 ** The "Cartesian Circle"
 1. I can be certain of P only if I am certain that Q
 2. I can be certain of Q only if I am certain that P
@@ -517,3 +534,131 @@ reliability of the human intellect?
 
   
   
+** Meditation 6
+
+*** Three kinds of distinctness
+1. conceptual
+- distinction necessary for the intelligibility of something 
+2. modal
+- distinction between properties or modes, but not between things 
+3. real 
+- distinction between existing things (applies only to substance) --
+  specifically that they /could/ exist independent of one another (whether
+  they actually do or not). 
+
+  
+*** The real distinction argument
+**** Three claims
+- Complete Being_T :: a thinking thing can exist as a substance whose sole
+     essence is thought.
+- Complete Being_B :: body can exist as a substance whose sole essence is extension.
+- Mutual Exclusion :: mental substance has no bodily modes, and bodily substance has no mental modes.
+     
+***** God's power
+Part [A] says:
+
+#+BEGIN_QUOTE
+  [A] I know that everything which I clearly and distinctly understand
+  is capable of being created by God so as to correspond exactly with my
+  understanding of it. Hence the fact that I can clearly and distinctly
+  understand one thing apart from another is enough to make me certain
+  that the two things are distinct, since they are capable of being
+  separated, at least by God. The question of what kind of power is
+  required to bring about such a separation does not affect the
+  judgement that the two things are distinct.
+#+END_QUOTE
+
+Here is what part A [[http://plato.stanford.edu/entries/descartes-modal/#ReaDis][seems to be arguing]]:
+
+1. I clearly and distinctly understand mind apart from body and body
+   apart from mind.
+2. God can bring about whatever I clearly and distinctly perceive.
+3. God can bring about that mind is apart from body and body is apart
+   from mind.
+4. If God can bring about that mind is apart from body and body is apart
+   from mind, then mind and body can exist apart.
+5. \therefore Mind and body can exist apart.
+   
+   - How do we know that we are C&D perceiving mind apart from body,
+     etc.? 
+
+   - What we would want is a *natural* distinction between mind &
+     body, not a *supernatural* or *miraculous* distinction
+     
+
+***** Knowing one's essence
+#+BEGIN_QUOTE
+  [B] Thus, simply by knowing that I exist and seeing at the same time
+  that absolutely nothing else belongs to my nature or essence except
+  that I am a thinking thing, I can infer correctly that my essence
+  consists solely in the fact that I am a thinking thing. 
+#+END_QUOTE
+
+1. One's self exists
+2. Nothing belongs to one’s essence or nature other than thinking
+3. ∴ All properties of oneself have to be conceived via this essence – thought
+
+Is this argument enough to yield the Real Distinction? Presumably not – it just tells us that our essence is that of a thinking being, it doesn’t tell us that all thinking beings are independent of any body. It doesn’t give us Mutual Exclusion. But it does give us Complete Being-T.
+
+***** Real distinctness
+#+BEGIN_QUOTE
+  [C] It is true that I may have (or, to anticipate, that I certainly have) a
+  body that is very closely joined to me. But nevertheless, on the one hand I
+  have a clear and distinct idea of myself, in so far as I am simply a
+  thinking, non-extended thing; and on the other hand I have a distinct idea
+  of body, in so far as this is simply an extended, non-thinking thing. And
+  accordingly, it is certain that I am really distinct from my body, and can
+  exist without it.
+#+END_QUOTE
+
+According to the Meditator's distinct and clear ideas:
+
+1. The self is a thinking and non-extended thing
+2. Corporeal substance is extended and non-thinking
+
+This gives us /Mutual Exclusion/. If we assume Complete Being_B then it seems D gives us what we need to conclude that mind and body are Really Distinct
+
+- Is it clear that if a thing can exist that has no bodily properties then that thing can exist apart from bodies?
+  - could there be some other kind of dependence relation between minds and bodies apart from modal/property dependence?
+    - not, presumably, if we are talking about substances, since substances are independent beings
+
+***** Objections 
+- How do we know that the apparent distinctness of mind and body is not due to our ignorance of their real identity?
+
+#+BEGIN_QUOTE
+  Suppose someone knows for certain that the angle in a semi-circle is a
+  right angle, and hence that the triangle formed by this angle and the
+  diameter of the circle is right-angled. In spite of this, he may
+  doubt, or not yet have grasped for certain, that the square on the
+  hypotenuse is equal to the squares on the other two sides; indeed he
+  may even deny this if he is misled by some fallacy. But now, if he
+  uses the same argument as that proposed by our illustrious author, he
+  may appear to have confirmation of his false belief, as follows: 'I
+  clearly and distinctly perceive', he may say, 'that the triangle is
+  right-angled; but I doubt that the square on the hypotenuse is equal
+  to the squares on the other two sides; therefore it does not belong to
+  the essence of the triangle that the square on its hypotenuse is equal
+  to the squares on the other sides.' (7:201-2)
+#+END_QUOTE
+
+Descartes’s answer, perhaps unsurprisingly, refers to what the Meditator has learned so far
+
+- (i) the fact that the Meditator has clear and distinct ideas of mind and body, where each excludes the features of other
+- (ii) the nature of clear and distinct ideas is such that they adequately represent how reality is (or what is really possible).
+
+So Descartes simply denies Arnauld’s premise, that the subject has a clear and distinct idea of a right triangle. If they really did have such an idea, Descartes argues, they would know that the Pythagorean theorem is true of such triangles.
+
+To reject Descartes’s argument we must reject either
+
+- (i) the claim that we (or the Meditator) have clear and distinct ideas of the mind as distinct from the body, or
+- (ii) that clear and distinct perception is a reliable guide to real possibility/actuality.
+  
+***** Causation:
+
+The dualist position articulated here raises problems for D - how do minds and bodies interact, if at all?
+
+- Interactionism
+- Occasionalism
+- Parallelism
+
+
