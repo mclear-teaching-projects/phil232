@@ -1,4 +1,5 @@
 #+TITLE: In-Class Notes
+#+OPTIONS: num:nil
 
 * Week 2 (1/15)
 ** Quiz
@@ -834,4 +835,203 @@ Garber summarizes this position by saying that
    
 
   
+
+* Week 8 (2/26) 
+** Proof of the External world
+          
+*** The text
+
+The text of the argument is at 7:79
+
+#+BEGIN_QUOTE
+  Now there is in me a passive faculty of sensory perception, that is, a
+  faculty for receiving and recognizing the ideas of sensible objects;
+  but I could not make use of it unless there was also an active
+  faculty, either in me or in something else, which produced or brought
+  about these ideas. But this faculty cannot be in me, since clearly it
+  presupposes no intellectual act on my part, I and the ideas in
+  question are produced without my cooperation and often even against my
+  will. So the only alternative is that it is in another substance
+  distinct from me -- a substance which contains either formally or
+  eminently all the reality which exists objectively in the ideas
+  produced by this faculty (as I have just noted).
+
+  This substance is either (a) a body, that is, a corporeal nature, in
+  which case it will contain formally everything which is to be found
+  objectively in the ideas; or else it is (b) God, or some creature more
+  noble than a body, in which case it will contain eminently whatever is
+  to be found in the ideas.
+#+END_QUOTE
+
+Descartes then gives his argument for rejecting (b):
+
+#+BEGIN_QUOTE
+  But since God is not a deceiver, it is quite clear that he does not
+  transmit the ideas to me either directly from himself, or indirectly,
+  via some creature which contains the objective reality of the ideas
+  not formally but only eminently. For God has given me no faculty at
+  all for recognizing any such source for these ideas; on the contrary,
+  he has given me a great propensity to believe that they are produced
+  by corporeal things. So I do not see how God could be understood to be
+  anything but a deceiver if the ideas were transmitted from a source
+  other than corporeal things. It follows that corporeal things exist. (7:79-80)
+#+END_QUOTE
+
+
+*** The Argument:
+
+1. We have sensory ideas, which purport to be of external material things
+2. The function of our sensory faculty is to reveal information about our environment
+3. Our sensory faculty is passive, so our sensory ideas must come from
+   somewhere external to us
+4. Sensory ideas come from either (a) bodies or (b) ‘higher’ non-material
+   beings (angels, God) [causal principle]
+5. If our sensory ideas of bodies were not caused by bodies then God would be
+   a deceiver [from 1, 2, 4]
+6. God is no deceiver
+7. ∴  There exist material bodies that are the causes of our ideas
+
+** Removing the dream doubt (7:89-90)
+
+#+BEGIN_QUOTE
+Accordingly, I should not have any further fears about the falsity of what my
+senses tell me every day; on the contrary, the exaggerated doubts of the last few
+days should be dismissed as laughable. This applies especially to the principal
+reason for doubt, namely my inability to distinguish between being asleep and
+being awake. For I now notice that there is a vast difference between the two,
+in that dreams are never linked by memory with all the other actions of life as
+waking experiences are. If, while I am awake, anyone were suddenly to appear to
+me and then disappear immediately, as happens in sleep, so that I could not see
+where he had 90 come from or where he had gone to, it would not be unreasonable
+for me to judge that he was a ghost, or a vision created in my brain, rather
+than a real man. But when I distinctly see where things come from and where and
+when they come to me, and when I can connect my perceptions of them with the
+whole of the rest of my life without a break, then I am quite certain that when
+I encounter these things I am not asleep but awake. And I ought not to have even
+the slightest doubt of their reality if, after calling upon all the senses as
+well as my memory and my intellect in order to check them, I receive no
+conflicting reports from any of these sources. For from the fact that God is not
+a deceiver it follows that in cases like these I am completely free from error.
+(7:89-90)
+#+END_QUOTE
+
+So, if the senses, memory, and intellect all confirm the continuity of our
+present experience with the past, then, since God is no deceiver, we can safely
+be certain that our present situation is not a dream.
+
+*** Objection
+ - Couldn’t we feasibly form an extended set of memories in a dream too?
+
+** Wrap-up of Descartes
+*** RR Questions
+
+*** Descartes’s Legacy:
+**** The Nature of the Subject
+- The subject is a /substance/ 
+  - The subject is fundamentally active
+  - The subject has real and independent causal powers
+  - The subject does not inhere in anything (i.e. it is not a property)
+    
+**** The Centrality of Self-Knowledge
+- Immune to skeptical challenge
+- Example of a reliable method for acquiring knowledge generally (i.e.
+  method of clear & distinct perception)
+- Provides us with knowledge of our essence/nature
+- Reflection on our nature provides us with the content of various ideas
+  necessary for metaphysics (e.g. substance, causation, unity, truth) 
+  - Issue of innate ideas -- what exactly are they and in what sens innate?
+- The importance of determining what the mind can do/how it can know
+  anything for building a stable/reliable science
+- Empiricism vs. innate ideas known via reflection alone
+    
+**** Substance Dualism
+- Mind/soul and body are distinct and independent kinds of substance
+- Problem of explaining causation in and between minds and bodies
+
+**** Science & Essence
+- Knowledge of nature depends on knowledge of essences 
+- Knowledge of essences depends on the pure intellect
+
+  
+** Mid-term review
+*** Discourse on the Method
+**** The Method
+1. Accept as true only that for which one has proper evidence—viz., clear
+   and distinct ideas;
+2. Resolve problems into their simplest parts; 
+3. Move from the simple and known to the complex; 
+4. Thoroughly review and check one’s work to be sure it is comprehensive and
+   complete
+*** The Meditations
+**** Med 1
+***** The Project: develop a stable and lasting science
+- Develop a science that is "stable and likely to last"
+- Epistemic foundationalism :: All knowledge may be divided into two
+     classes---basic and derived. Knowledge of the basic truths is immediate
+     and non-inferential. All other knowledge is derived from this basic knowledge.
+***** The Method of doubt
+- We need a reliable method for acquiring knowledge
+     - the method of doubt
+         - turn us away from the senses as a reliable means of acquiring knowledge
+         - emphasis on the pure intellect as the organ by which we acquire knowledge
+           
+**** Med 2
+***** The Cogito
+"I exist" is true whenever it is thought
+
+****** Problems:
+1. Begs the question
+2. Circularity
+***** The Wax argument
+- Aims to show two things: 
+  1. We know things (substances) via the intellect not the senses
+  2. The mind is better known than any body
+**** Med 3
+- The truth rule
+  - Truth Rule :: Whenever I C&D perceive then what I perceive is true & I can be certain of it /as such/ 
+- The three sources of ideas
+- Two proofs of the existence of God
+  1. Causal argument
+  2. Preservation argument
+**** Med 4
+- Problem of error
+  - error arises due to the combined exercise of the will and intelllect
+**** Med 5
+***** Knowledge of essences via the intellect
+- Primary attribute as essential property of a substance
+
+- essential property :: (i) necessary property of a thing that (ii)
+     makes it the kind of thing that it is and (iii) explains other
+     properties that a thing may have  
+
+
+1. Intellectual/intelligible claim: idea of quantity entails other
+     ideas (extension entails & is entailed by shape, size, etc)
+2. Metaphysical claim : reality is such that if there is extension then
+   there is a metaphysical dependence of size, shape, etc., on it 
+
+- We have knowledge of both our own nature and the nature & existence of material bodies
+
+***** Ontological Argument 
+- God's essence includes its existence
+
+**** Med 6
+- Using C&D method to provide the metaphysical basis for a science of nature
+  - Real Distinction arg: there are two kinds of things -- minds & bodies
+    - essence of mind is thought
+    - essence of body is extension
+      - the science of body (physics) is, at its basis, purely intellectual
+      - our senses give us knowledge of the practical benefits and perils
+        bodies present to us, but they give us only a confused understanding
+        of what bodies actually are
+  - essences are known through pure reflection - our ideas of essences are innate and furnished to the mind by God
+    
+*** Correspondence with Elisabeth
+**** Elisabeth's objection
+- If all motion requires impact then how could an unextended thing ever move
+  an extended thing and vice versa?
+  
+**** Descartes's reply
+- Mind, body, and mind-body unity are three "primitive" notions, and we
+  shouldn't understand any of the one in the terms set by the other(s)
 
