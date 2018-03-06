@@ -1035,3 +1035,40 @@ be certain that our present situation is not a dream.
 - Mind, body, and mind-body unity are three "primitive" notions, and we
   shouldn't understand any of the one in the terms set by the other(s)
 
+* Week 9 (3/5)
+John Locke (1632-1704)
+
+- Project aims at articulating a theory of the nature and extent of human
+  knowledge by way of an examination of the human mind and its powers 
+
+
+** Locke on Innate Ideas
+*** Two versions of nativism
+1. Strong: human beings are born with a stock of innate ideas amd
+   principles of which they are aware (I.ii.2-5)
+2. Weak: "Mature" rational human beings all assent to the same basic
+   truths or principles (I.ii.6-14)
+*** Objections to Strong Nativism
+- Children, "idiots", and "savages" are not aware of, and so lack, any
+  plausible candidates for innate ideas (I.ii.5)
+*** Objections to Weak Nativism
+- It is either false or trivial (I.ii.7)
+  1. that as soon as men come to the use of reason these supposedly innate truths come to be known and observed by them
+     a. This is false because there are people who have the use of reason
+        but don't have the ideas (e.g older children, "savages"; see I.ii.12)
+     b. This is trivial (or "frivolous") if it merely means that we can
+        learn various, perhaps "self-evident" truths (I.ii.14) 
+        - Locke argues that nativists more generally confuse innateness
+          with self-evidence at I.ii.18
+  2. that the use and exercise of men’s reason assists them in the discovery of these truths, making them known with certainty.
+     - This is false because it would mean that anything derived from
+       basic innate truths (e.g. the theorems of advanced mathematics)
+       would also count as innate, which Locke finds absurd (I.ii.8)
+     - Locke also disagrees that the use of reason could be relevant to
+       discovery of an idea, since he thinks of reason as moving from
+       things known to things that are unknown, and the nativist
+       undermines their own position (at least in Locke's eyes) if they
+       claim that we don't already have knowledge of our innate ideas (I.ii.9)
+       
+
+  
