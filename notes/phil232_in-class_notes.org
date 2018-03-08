@@ -1069,6 +1069,43 @@ John Locke (1632-1704)
        things known to things that are unknown, and the nativist
        undermines their own position (at least in Locke's eyes) if they
        claim that we don't already have knowledge of our innate ideas (I.ii.9)
-       
+** Leibniz on Innate Ideas
+Gottfried Wilhelm Leibniz (1646–1716)
+*** Ideas as Innate
+- not necessary to "have" an idea that one be currently or immediately
+  conscious of it
+  - memory 
+  - complex perceptual experience
+  - tacit or potential knowledge 
+- One can 'have' an idea by having a particular kind of disposition
+  - Is there disagreement between Locke and Leibniz concerning what an 'idea'
+    is?
+  - Does Locke already allow that some kinds of mental dispositions are innate?
 
-  
+
+*** In support of dispositional ideas 
+**** Memory claim
+#+BEGIN_QUOTE
+ I am surprised that it has not occurred to you that we know an infinity of
+ things which we are not aware of all the time, even when we need them; it is
+ the function of memory to store them, and of recollection to put them before
+ us again, which it does often - but not always - when there is need for it to
+ do so. (I.i.77)
+#+END_QUOTE
+**** Enthymeme Argument 
+- An "enythmeme" is an argument with a "missing" or "suppressed" premise 
+  - example: Locke is mortal because he is human
+    1. All humans are mortal
+    2. Locke is human 
+    3. \therefore Locke is mortal 
+
+- Leibniz thinks that when challenged one can supply the missing premise and that this indicates that one "knew" the premise all along 
+
+*** Defense of Innate Ideas
+**** Innateness is compatible with
+1. our not being aware/conscious of an idea (i.e. ideas as dispositions)
+2. the idea's nevertheless being innate in a non-trivial sense. 
+**** Marble analogy
+
+
+
