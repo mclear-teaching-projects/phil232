@@ -1106,6 +1106,21 @@ Gottfried Wilhelm Leibniz (1646–1716)
 1. our not being aware/conscious of an idea (i.e. ideas as dispositions)
 2. the idea's nevertheless being innate in a non-trivial sense. 
 **** Marble analogy
+#+BEGIN_QUOTE
+  if the soul were like these empty tablets, truths would be in us as
+  the shape of Hercules is in a block of marble, when the marble is
+  completely indifferent to receiving this shape or another. But if the
+  stone had veins which marked out the shape of Hercules rather than
+  other shapes, then that block would be more determined with respect to
+  that shape and Hercules would be as though innate in it in some sense,
+  even though some labor would be required for these veins to be exposed
+  and polished into clarity by the removal of everything that prevents
+  them from appearing. This is how ideas and truths are innate in us, as
+  natural inclinations, dispositions, habits, or potentialities
+  [virtualites] are, and not as actions are, although these
+  potentialities are always accompanied by some corresponding, though
+  often insensible, actions. (NE Preface, 294)
+#+END_QUOTE
 
 
 
