@@ -1124,3 +1124,217 @@ Gottfried Wilhelm Leibniz (1646–1716)
 
 
 
+* Week 10 (3/12)
+
+** Quiz
+1. T/F: Locke claims that some ideas are innate
+2. Describe one of the versions of nativism discussed by Locke
+3. Locke describes two sources of our ideas -- name one 
+4. T/F: Locke thinks at least some ideas are unconscious
+5. T/F Leibniz suggests that innate ideas are dispositions
+
+** Leibniz Against Locke on Innateness  
+*** Contra Locke on Strong Argument
+**** Unconscious ideas
+***** Memory
+- Locke's argument assumes that all ideas are such that we are aware of them
+  but memory shows that this is false (77)
+- Memory is an example of the difference between an occurrent state and a disposition
+
+#+BEGIN_QUOTE
+ I am surprised that it has not occurred to you that we know an infinity of
+ things which we are not aware of all the time, even when we need them; it is
+ the function of memory to store them, and of recollection to put them before
+ us again, which it does often - but not always - when there is need for it to
+ do so. (I.i.77)
+#+END_QUOTE
+
+***** Petites Perceptions ("Little/Tiny/Minute Perceptions" pp. 295-6 ) 
+- We have perceptions of things that are not apperceived -- they are not the
+  objects of memory and attention
+  
+#+BEGIN_QUOTE
+at every moment there is an infinity of perceptions in us, but without
+apperception and without reflection-that is, changes in the soul itself, which
+we do not consciously perceive [appercevons], because these impressions are
+either too small or too numerous, or too homogeneous, in the sense that they
+have nothing sufficiently distinct in themselves; but combined with others,
+they do have their effect and make themselves felt in the assemblage (/NE
+Preface/ in Garber, 295)
+#+END_QUOTE
+
+
+
+**** Enthymeme argument
+Innate ideas are known implicitly or tacitly and function like enthymemes
+***** An enthymeme is an argument with a suppressed premise
+- e.g. Locke is mortal because he is human
+***** When challenged one can supply the missing premise or appeal to the innate idea
+*** Contra Locke on Weak Argument
+**** Innateness is compatible with 
+i. our not being aware of ideas (i.e. ideas being 'in' one dispositionality)
+ii. the idea's being "innate" in a non-trivial sense 
+**** Marble Analogy (p.  294)
+#+BEGIN_QUOTE
+I have also used the comparison with a block of veined marble, rather than a
+completely uniform block of marble, or an empty tablet, that is, what the
+philosophers call a tabula rasa. For if the soul were like these empty
+tablets, truths would be in us as the shape of Hercules is in a block of
+marble, when the marble is completely indifferent to receiving this shape or
+another. But if the stone had veins which marked out the shape of Hercules
+rather than other shapes, then that block would be more determined with
+respect to that shape and Hercules would be as though innate in it in some
+sense, even though some labor would be required for these veins to be exposed
+and polished into clarity by the removal of everything that prevents them from
+appearing. This is how ideas and truths are innate in us, as natural
+inclinations, dispositions, habits, or potentialities [virtualites] are, and
+not as actions are, although these potentialities are always accompanied by
+some corresponding, though often insensible, actions. (/NE Preface/, Garber p. 294)
+#+END_QUOTE
+
+- Does the analogy do enough to assuage Locke's worries about triviality?
+
+*** General Objections
+**** Innateness and generality/necessity
+- All ideas gained via the senses are /particular/. 
+- How could we have ideas of universality and necessity if they came via the
+  senses?
+**** Personal identity
+- On creation, what distinguishes one soul/mind from another? (p. 294)
+
+  
+** Mechanism & Materialism
+- New model of the natural world and its parts
+*** Materialism 
+metaphysical thesis concerning what there is, viz. mind-independent matter
+(size, shape, motion, and (perhaps) solidity) and its various combinations
+*** Mechanism 
+explanatory thesis concerning how microscopic bodies with size, shape, motion,
+etc. interact and explain all manifest properties of macroscopic things
+    - corpuscles vs. atoms
+    - unobservable entities with only geometric/kinetic properties
+    - the world as it appears is not the world as it really is
+
+** Galileo on real qualities
+- The real qualities of bodies are those without which bodies are inconceivable,
+  the rest of the apparent qualities of bodies are really subjective states of
+  perceiving subjects
+  
+*** Determinate vs Determinable Properties
+- Distinguish between the determinate properties a thing has, and the
+  determinable properties it has. To which does the claim about
+  inconceivability apply?
+
+*** Conceivability argument
+#+BEGIN_QUOTE
+     Now I say that whenever I conceive any material or corporeal substance, I
+     immediately feel the need to think of it as bounded, and as having this or
+     that shape…[etc.]…From these conditions I cannot separate such a substance
+     by any stretch of my imagination. But that it must be white or red, bitter
+     or sweet, noisy or silent, and of sweet or foul odor, my mind does not feel
+     compelled to bring in as necessary accompaniments. Without the senses as
+     our guides, reason or imagination unaided would probably never arrive at
+     qualities like these. Hence I think that tastes, odors, colors, and so on
+     are no more than mere names so far as the object in which we place them is
+     concerned, and that they reside only in the consciousness (Galileo, p.
+     274).
+#+END_QUOTE
+
+
+1. Thinking of a material object requires thinking of it as having a particular
+   set of qualities (i.e. size, shape, location, motion, etc.)
+2. Thinking of a material object does not require thinking of it as having
+   specific sensory qualities (e.g. color, taste, smell, sound)
+3. The only qualities possessed by a material object are those which we must
+   attribute to it in thought
+4. ∴ Sensory qualities are not qualities of material objects, but rather
+   features of our consciousness of those objects — i.e. “sensations” [from 2, 3]
+5. ∴ If there were no conscious beings there would be no sensory qualities (e.g.
+   colors, tastes, smells, etc.). [from 4]
+  
+-  Why should we accept (3)?
+    - Descartes gives us one argument for accepting (3) but Galileo provides no
+      such epistemological foundation, though he certainly could make use of D's
+      system as the backdrop for such an argument
+
+** Locke's Primary/Secondary distinction
+
+*** Qualities
+#+BEGIN_QUOTE
+ Whatever the mind perceives in itself—whatever is the immediate object of
+ perception, thought, or understanding—I call an idea; and the power to
+ produce an idea in our mind I call a quality of the thing that has that
+ power (E II.viii.8)
+#+END_QUOTE
+- Locke, like Aristotle, thinks we can divide the qualities of things into two
+  classes: primary & secondary
+
+*** Primary Qualities
+#+BEGIN_QUOTE
+ Qualities thus considered in bodies are, First, such as are utterly
+ inseparable from the body, in what state soever it be; and such as in all the
+ alterations and changes it suffers, all the force can be used upon it, it
+ constantly keeps; and such as sense constantly finds in every particle of
+ matter which has bulk enough to be perceived; and the mind finds inseparable
+ from every particle of matter, though less than to make itself singly be
+ perceived by our senses: v.g. Take a grain of wheat, divide it into two
+ parts; each part has still solidity, extension, figure, and mobility: divide
+ it again, and it retains still the same qualities; and so divide it on, till
+ the parts become insensible; they must retain still each of them all those
+ qualities (II.viii.9)
+#+END_QUOTE
+**** inseparability argument
+       1. Every physical change in an object is a change to its determinate qualities
+       2. Some qualities of bodies are present through all changes---viz., the determinables of size, shape, solidity, and motion
+       3. ∴ Size, shape, solidity, and motion are inseparable from any existing body
+
+*** Secondary Qualities
+#+BEGIN_QUOTE
+ Secondly, [there are qualities] which in truth are nothing in the
+ objects themselves but powers to produce various sensations in us by
+ their primary qualities, i.e. by the bulk, figure, texture, and
+ motion of their insensible parts, as colours, sounds, tastes, &c.
+ These I call secondary qualities (II.viii.10, 14, 23).
+#+END_QUOTE
+
+- Secondary qualities are "mere powers"
+  - colors, tastes, smells
+
+** Problems with Locke's Distinction
+- Aren't all qualities powers?
+  1. Shape is a primary quality
+  2. If shape is a primary quality then it is a quality
+  3. Qualities are powers to produce ideas
+  4. ∴ Shape is a power to produce an idea—presumably the idea of shape
+  5. But secondary qualities are also powers to produce ideas
+  6. ∴ There is no primary/secondary distinction between qualities
+
+*** Options for Locke:
+A. Deny that primary qualities are “qualities” in Locke’s sense—i.e. deny that there are powers
+B. Agree that primary qualities are powers but deny that they are the same sort of power as with secondary qualities
+C. Posit that Locke uses “quality” in two different senses:
+   - Quality_1: X is a quality_1 iff X is a property
+   - Quality_2: X is a quality_2 iff X is a power to cause an idea in one’s mind
+D. Maintain that there is only one sense to “quality” but distinguish between real qualities and mere qualities
+   - “Real” qualities are qualities which are more than mere powers in things, and exist even in the absence of things they affect
+   - “Mere” qualities are no more than powers in things and cease to exist the things they affect are absent
+
+*** Ample textual evidence for (D)
+  - II.viii.17; II.viii.24; II.xxxi.2; II.viii.19
+  - Are "mere" qualities wholly subjective, as Galileo suggests? – is nothing colored or smelly?
+
+*** Restating the distinction:
+- Primary Qualities:
+  - Qualities of bodies which are “really” in them in the sense of being both: (i) non-relational and (ii) of a determinable which must be had by any body (e.g. solidity, extension, size, shape)
+- Secondary Qualities:
+  - Qualities of bodies, which are “merely” in them, and determined by their primary qualities to produce sensory ideas in perceiving subjects. These qualities are both (i) relational and (ii) of determinables which need not be had by every body (e.g. colors, sounds, tastes)
+      
+Further, our ideas of primary qualities really "resemble" them while our ideas
+of secondary qualities do not (II.viii.15).
+
+*** Three Arguments for Primary/Secondary Distinction 
+1) Porphyry Case
+2) Almond Case
+3) Water Case
+
+
