@@ -1289,9 +1289,11 @@ mechanist explains macroscopic things and their features in terms of their parts
  qualities (II.viii.9)
 #+END_QUOTE
 **** inseparability argument
-       1. Every physical change in an object is a change to its determinate qualities
-       2. Some qualities of bodies are present through all changes---viz., the determinables of size, shape, solidity, and motion
-       3. ∴ Size, shape, solidity, and motion are inseparable from any existing body
+1. Every physical change in an object is a change to its determinate qualities
+2. Some qualities of bodies are present through all changes---viz., the determinables of size, shape, solidity, and motion
+3. ∴ Size, shape, solidity, and motion are inseparable from any existing body
+
+- But why think that some of the qualities are inseparable and others are not?
 
 *** Secondary Qualities
 #+BEGIN_QUOTE

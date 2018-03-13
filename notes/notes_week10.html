@@ -1,0 +1,721 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<!-- 2018-03-13 Tue 16:04 -->
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>In-Class Notes</title>
+<meta name="generator" content="Org mode" />
+<meta name="author" content="Colin McLear" />
+<style type="text/css">
+ <!--/*--><![CDATA[/*><!--*/
+  .title  { text-align: center;
+             margin-bottom: .2em; }
+  .subtitle { text-align: center;
+              font-size: medium;
+              font-weight: bold;
+              margin-top:0; }
+  .todo   { font-family: monospace; color: red; }
+  .done   { font-family: monospace; color: green; }
+  .priority { font-family: monospace; color: orange; }
+  .tag    { background-color: #eee; font-family: monospace;
+            padding: 2px; font-size: 80%; font-weight: normal; }
+  .timestamp { color: #bebebe; }
+  .timestamp-kwd { color: #5f9ea0; }
+  .org-right  { margin-left: auto; margin-right: 0px;  text-align: right; }
+  .org-left   { margin-left: 0px;  margin-right: auto; text-align: left; }
+  .org-center { margin-left: auto; margin-right: auto; text-align: center; }
+  .underline { text-decoration: underline; }
+  #postamble p, #preamble p { font-size: 90%; margin: .2em; }
+  p.verse { margin-left: 3%; }
+  pre {
+    border: 1px solid #ccc;
+    box-shadow: 3px 3px 3px #eee;
+    padding: 8pt;
+    font-family: monospace;
+    overflow: auto;
+    margin: 1.2em;
+  }
+  pre.src {
+    position: relative;
+    overflow: visible;
+    padding-top: 1.2em;
+  }
+  pre.src:before {
+    display: none;
+    position: absolute;
+    background-color: white;
+    top: -10px;
+    right: 10px;
+    padding: 3px;
+    border: 1px solid black;
+  }
+  pre.src:hover:before { display: inline;}
+  /* Languages per Org manual */
+  pre.src-asymptote:before { content: 'Asymptote'; }
+  pre.src-awk:before { content: 'Awk'; }
+  pre.src-C:before { content: 'C'; }
+  /* pre.src-C++ doesn't work in CSS */
+  pre.src-clojure:before { content: 'Clojure'; }
+  pre.src-css:before { content: 'CSS'; }
+  pre.src-D:before { content: 'D'; }
+  pre.src-ditaa:before { content: 'ditaa'; }
+  pre.src-dot:before { content: 'Graphviz'; }
+  pre.src-calc:before { content: 'Emacs Calc'; }
+  pre.src-emacs-lisp:before { content: 'Emacs Lisp'; }
+  pre.src-fortran:before { content: 'Fortran'; }
+  pre.src-gnuplot:before { content: 'gnuplot'; }
+  pre.src-haskell:before { content: 'Haskell'; }
+  pre.src-hledger:before { content: 'hledger'; }
+  pre.src-java:before { content: 'Java'; }
+  pre.src-js:before { content: 'Javascript'; }
+  pre.src-latex:before { content: 'LaTeX'; }
+  pre.src-ledger:before { content: 'Ledger'; }
+  pre.src-lisp:before { content: 'Lisp'; }
+  pre.src-lilypond:before { content: 'Lilypond'; }
+  pre.src-lua:before { content: 'Lua'; }
+  pre.src-matlab:before { content: 'MATLAB'; }
+  pre.src-mscgen:before { content: 'Mscgen'; }
+  pre.src-ocaml:before { content: 'Objective Caml'; }
+  pre.src-octave:before { content: 'Octave'; }
+  pre.src-org:before { content: 'Org mode'; }
+  pre.src-oz:before { content: 'OZ'; }
+  pre.src-plantuml:before { content: 'Plantuml'; }
+  pre.src-processing:before { content: 'Processing.js'; }
+  pre.src-python:before { content: 'Python'; }
+  pre.src-R:before { content: 'R'; }
+  pre.src-ruby:before { content: 'Ruby'; }
+  pre.src-sass:before { content: 'Sass'; }
+  pre.src-scheme:before { content: 'Scheme'; }
+  pre.src-screen:before { content: 'Gnu Screen'; }
+  pre.src-sed:before { content: 'Sed'; }
+  pre.src-sh:before { content: 'shell'; }
+  pre.src-sql:before { content: 'SQL'; }
+  pre.src-sqlite:before { content: 'SQLite'; }
+  /* additional languages in org.el's org-babel-load-languages alist */
+  pre.src-forth:before { content: 'Forth'; }
+  pre.src-io:before { content: 'IO'; }
+  pre.src-J:before { content: 'J'; }
+  pre.src-makefile:before { content: 'Makefile'; }
+  pre.src-maxima:before { content: 'Maxima'; }
+  pre.src-perl:before { content: 'Perl'; }
+  pre.src-picolisp:before { content: 'Pico Lisp'; }
+  pre.src-scala:before { content: 'Scala'; }
+  pre.src-shell:before { content: 'Shell Script'; }
+  pre.src-ebnf2ps:before { content: 'ebfn2ps'; }
+  /* additional language identifiers per "defun org-babel-execute"
+       in ob-*.el */
+  pre.src-cpp:before  { content: 'C++'; }
+  pre.src-abc:before  { content: 'ABC'; }
+  pre.src-coq:before  { content: 'Coq'; }
+  pre.src-groovy:before  { content: 'Groovy'; }
+  /* additional language identifiers from org-babel-shell-names in
+     ob-shell.el: ob-shell is the only babel language using a lambda to put
+     the execution function name together. */
+  pre.src-bash:before  { content: 'bash'; }
+  pre.src-csh:before  { content: 'csh'; }
+  pre.src-ash:before  { content: 'ash'; }
+  pre.src-dash:before  { content: 'dash'; }
+  pre.src-ksh:before  { content: 'ksh'; }
+  pre.src-mksh:before  { content: 'mksh'; }
+  pre.src-posh:before  { content: 'posh'; }
+  /* Additional Emacs modes also supported by the LaTeX listings package */
+  pre.src-ada:before { content: 'Ada'; }
+  pre.src-asm:before { content: 'Assembler'; }
+  pre.src-caml:before { content: 'Caml'; }
+  pre.src-delphi:before { content: 'Delphi'; }
+  pre.src-html:before { content: 'HTML'; }
+  pre.src-idl:before { content: 'IDL'; }
+  pre.src-mercury:before { content: 'Mercury'; }
+  pre.src-metapost:before { content: 'MetaPost'; }
+  pre.src-modula-2:before { content: 'Modula-2'; }
+  pre.src-pascal:before { content: 'Pascal'; }
+  pre.src-ps:before { content: 'PostScript'; }
+  pre.src-prolog:before { content: 'Prolog'; }
+  pre.src-simula:before { content: 'Simula'; }
+  pre.src-tcl:before { content: 'tcl'; }
+  pre.src-tex:before { content: 'TeX'; }
+  pre.src-plain-tex:before { content: 'Plain TeX'; }
+  pre.src-verilog:before { content: 'Verilog'; }
+  pre.src-vhdl:before { content: 'VHDL'; }
+  pre.src-xml:before { content: 'XML'; }
+  pre.src-nxml:before { content: 'XML'; }
+  /* add a generic configuration mode; LaTeX export needs an additional
+     (add-to-list 'org-latex-listings-langs '(conf " ")) in .emacs */
+  pre.src-conf:before { content: 'Configuration File'; }
+
+  table { border-collapse:collapse; }
+  caption.t-above { caption-side: top; }
+  caption.t-bottom { caption-side: bottom; }
+  td, th { vertical-align:top;  }
+  th.org-right  { text-align: center;  }
+  th.org-left   { text-align: center;   }
+  th.org-center { text-align: center; }
+  td.org-right  { text-align: right;  }
+  td.org-left   { text-align: left;   }
+  td.org-center { text-align: center; }
+  dt { font-weight: bold; }
+  .footpara { display: inline; }
+  .footdef  { margin-bottom: 1em; }
+  .figure { padding: 1em; }
+  .figure p { text-align: center; }
+  .inlinetask {
+    padding: 10px;
+    border: 2px solid gray;
+    margin: 10px;
+    background: #ffffcc;
+  }
+  #org-div-home-and-up
+   { text-align: right; font-size: 70%; white-space: nowrap; }
+  textarea { overflow-x: auto; }
+  .linenr { font-size: smaller }
+  .code-highlighted { background-color: #ffff00; }
+  .org-info-js_info-navigation { border-style: none; }
+  #org-info-js_console-label
+    { font-size: 10px; font-weight: bold; white-space: nowrap; }
+  .org-info-js_search-highlight
+    { background-color: #ffff00; color: #000000; font-weight: bold; }
+  .org-svg { width: 90%; }
+  /*]]>*/-->
+</style>
+<script type="text/javascript">
+/*
+@licstart  The following is the entire license notice for the
+JavaScript code in this tag.
+
+Copyright (C) 2012-2018 Free Software Foundation, Inc.
+
+The JavaScript code in this tag is free software: you can
+redistribute it and/or modify it under the terms of the GNU
+General Public License (GNU GPL) as published by the Free Software
+Foundation, either version 3 of the License, or (at your option)
+any later version.  The code is distributed WITHOUT ANY WARRANTY;
+without even the implied warranty of MERCHANTABILITY or FITNESS
+FOR A PARTICULAR PURPOSE.  See the GNU GPL for more details.
+
+As additional permission under GNU GPL version 3 section 7, you
+may distribute non-source (e.g., minimized or compacted) forms of
+that code without the copy of the GNU GPL normally required by
+section 4, provided you include this license notice and a URL
+through which recipients can access the Corresponding Source.
+
+
+@licend  The above is the entire license notice
+for the JavaScript code in this tag.
+*/
+<!--/*--><![CDATA[/*><!--*/
+ function CodeHighlightOn(elem, id)
+ {
+   var target = document.getElementById(id);
+   if(null != target) {
+     elem.cacheClassElem = elem.className;
+     elem.cacheClassTarget = target.className;
+     target.className = "code-highlighted";
+     elem.className   = "code-highlighted";
+   }
+ }
+ function CodeHighlightOff(elem, id)
+ {
+   var target = document.getElementById(id);
+   if(elem.cacheClassElem)
+     elem.className = elem.cacheClassElem;
+   if(elem.cacheClassTarget)
+     target.className = elem.cacheClassTarget;
+ }
+/*]]>*///-->
+</script>
+</head>
+<body>
+<div id="content">
+<h1 class="title">In-Class Notes</h1>
+<div id="table-of-contents">
+<h2>Table of Contents</h2>
+<div id="text-table-of-contents">
+<ul>
+<li><a href="#orgd5fa39a">Week 10 (3/12)</a>
+<ul>
+<li><a href="#org4ebeecc">Quiz</a></li>
+<li><a href="#org988231e">Leibniz Against Locke on Innateness</a>
+<ul>
+<li><a href="#org4cb10db">Contra Locke on Strong Argument</a></li>
+<li><a href="#orgfca129d">Contra Locke on Weak Argument</a></li>
+<li><a href="#org0a16220">General Objections</a></li>
+</ul>
+</li>
+<li><a href="#org10092b2">Mechanism &amp; Materialism</a>
+<ul>
+<li><a href="#orge0cc9c7">Materialism/Corpuscularianism</a></li>
+<li><a href="#org5e79cb6">Mechanism</a></li>
+</ul>
+</li>
+<li><a href="#org1d2d598">Galileo on real qualities</a>
+<ul>
+<li><a href="#org694ba3b">Determinate vs Determinable Properties</a></li>
+<li><a href="#org9dc94be">Conceivability argument</a></li>
+</ul>
+</li>
+<li><a href="#org14ed60d">Locke's Primary/Secondary distinction</a>
+<ul>
+<li><a href="#org7508f4a">Qualities</a></li>
+<li><a href="#org4275a32">Primary Qualities</a></li>
+<li><a href="#org4e07919">Secondary Qualities</a></li>
+</ul>
+</li>
+<li><a href="#org6fa21d3">Problems with Locke's Distinction</a>
+<ul>
+<li><a href="#orgefa72b1">Options for Locke:</a></li>
+<li><a href="#org0b0d1c1">Ample textual evidence for (D)</a></li>
+<li><a href="#orgbb32665">Restating the distinction:</a></li>
+<li><a href="#orgecf1ce4">Three Arguments for Primary/Secondary Distinction</a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-orgd5fa39a" class="outline-2">
+<h2 id="orgd5fa39a">Week 10 (3/12)</h2>
+<div class="outline-text-2" id="text-orgd5fa39a">
+</div>
+<div id="outline-container-org4ebeecc" class="outline-3">
+<h3 id="org4ebeecc">Quiz</h3>
+<div class="outline-text-3" id="text-org4ebeecc">
+<ol class="org-ol">
+<li>T/F: Locke claims that some ideas are innate
+<ul class="org-ul">
+<li>F</li>
+</ul></li>
+<li>Describe one of the versions of nativism discussed by Locke
+<ul class="org-ul">
+<li>weak/strong</li>
+</ul></li>
+<li>Locke describes two sources of our ideas &#x2013; name one 
+<ul class="org-ul">
+<li>sensation/reflection</li>
+</ul></li>
+<li>T/F: Locke thinks at least some ideas are unconscious
+<ul class="org-ul">
+<li>F</li>
+</ul></li>
+<li>T/F Leibniz suggests that innate ideas are dispositions
+<ul class="org-ul">
+<li>T</li>
+</ul></li>
+</ol>
+</div>
+</div>
+<div id="outline-container-org988231e" class="outline-3">
+<h3 id="org988231e">Leibniz Against Locke on Innateness</h3>
+<div class="outline-text-3" id="text-org988231e">
+</div>
+<div id="outline-container-org4cb10db" class="outline-4">
+<h4 id="org4cb10db">Contra Locke on Strong Argument</h4>
+<div class="outline-text-4" id="text-org4cb10db">
+</div>
+<ul class="org-ul">
+<li><a id="orgbd12fb2"></a>Unconscious ideas<br />
+<ul class="org-ul">
+<li><a id="org14519ab"></a>Memory<br />
+<div class="outline-text-6" id="text-org14519ab">
+<ul class="org-ul">
+<li>Locke's argument assumes that all ideas are such that we are aware of them
+but memory shows that this is false (77)</li>
+<li>Memory is an example of the difference between an occurrent state and a disposition</li>
+</ul>
+
+<blockquote>
+<p>
+I am surprised that it has not occurred to you that we know an infinity of
+things which we are not aware of all the time, even when we need them; it is
+the function of memory to store them, and of recollection to put them before
+us again, which it does often - but not always - when there is need for it to
+do so. (I.i.77)
+</p>
+</blockquote>
+</div>
+</li>
+
+<li><a id="org6c78eb5"></a>Petites Perceptions ("Little/Tiny/Minute Perceptions" pp. 295-6 )<br />
+<div class="outline-text-6" id="text-org6c78eb5">
+<ul class="org-ul">
+<li>We have perceptions of things that are not apperceived &#x2013; they are not the
+objects of memory and attention</li>
+</ul>
+
+<blockquote>
+<p>
+at every moment there is an infinity of perceptions in us, but without
+apperception and without reflection-that is, changes in the soul itself, which
+we do not consciously perceive [appercevons], because these impressions are
+either too small or too numerous, or too homogeneous, in the sense that they
+have nothing sufficiently distinct in themselves; but combined with others,
+they do have their effect and make themselves felt in the assemblage (<i>NE
+Preface</i> in Garber, 295)
+</p>
+</blockquote>
+</div>
+</li>
+</ul>
+</li>
+
+
+
+<li><a id="orgfb04548"></a>Enthymeme argument<br />
+<div class="outline-text-5" id="text-orgfb04548">
+<p>
+Innate ideas are known implicitly or tacitly and function like enthymemes
+</p>
+</div>
+<ul class="org-ul">
+<li><a id="orgfde08d0"></a>An enthymeme is an argument with a suppressed premise<br />
+<div class="outline-text-6" id="text-orgfde08d0">
+<ul class="org-ul">
+<li>e.g. Locke is mortal because he is human</li>
+</ul>
+</div>
+</li>
+<li><a id="org97e41bd"></a>When challenged one can supply the missing premise or appeal to the innate idea<br /></li>
+</ul>
+</li>
+</ul>
+</div>
+<div id="outline-container-orgfca129d" class="outline-4">
+<h4 id="orgfca129d">Contra Locke on Weak Argument</h4>
+<div class="outline-text-4" id="text-orgfca129d">
+</div>
+<ul class="org-ul">
+<li><a id="orgefd7bbb"></a>Innateness is compatible with<br />
+<div class="outline-text-5" id="text-orgefd7bbb">
+<ol class="org-ol">
+<li>our not being aware of ideas (i.e. ideas being 'in' one dispositionality)</li>
+</ol>
+<p>
+ii. the idea's being "innate" in a non-trivial sense 
+</p>
+</div>
+</li>
+<li><a id="org44bdc84"></a>Marble Analogy (p.  294)<br />
+<div class="outline-text-5" id="text-org44bdc84">
+<blockquote>
+<p>
+I have also used the comparison with a block of veined marble, rather than a
+completely uniform block of marble, or an empty tablet, that is, what the
+philosophers call a tabula rasa. For if the soul were like these empty
+tablets, truths would be in us as the shape of Hercules is in a block of
+marble, when the marble is completely indifferent to receiving this shape or
+another. But if the stone had veins which marked out the shape of Hercules
+rather than other shapes, then that block would be more determined with
+respect to that shape and Hercules would be as though innate in it in some
+sense, even though some labor would be required for these veins to be exposed
+and polished into clarity by the removal of everything that prevents them from
+appearing. This is how ideas and truths are innate in us, as natural
+inclinations, dispositions, habits, or potentialities [virtualites] are, and
+not as actions are, although these potentialities are always accompanied by
+some corresponding, though often insensible, actions. (<i>NE Preface</i>, Garber p. 294)
+</p>
+</blockquote>
+
+<ul class="org-ul">
+<li>Does the analogy do enough to assuage Locke's worries about triviality?</li>
+</ul>
+</div>
+</li>
+</ul>
+</div>
+
+<div id="outline-container-org0a16220" class="outline-4">
+<h4 id="org0a16220">General Objections</h4>
+<div class="outline-text-4" id="text-org0a16220">
+</div>
+<ul class="org-ul">
+<li><a id="org67c28d3"></a>Innateness and generality/necessity<br />
+<div class="outline-text-5" id="text-org67c28d3">
+<ul class="org-ul">
+<li>All ideas gained via the senses are <i>particular</i>.</li>
+<li>How could we have ideas of universality and necessity if they came via the
+senses?</li>
+</ul>
+</div>
+</li>
+<li><a id="org5c2196e"></a>Personal identity<br />
+<div class="outline-text-5" id="text-org5c2196e">
+<ul class="org-ul">
+<li>On creation, what distinguishes one soul/mind from another? (p. 294)</li>
+</ul>
+</div>
+</li>
+</ul>
+</div>
+</div>
+
+
+<div id="outline-container-org10092b2" class="outline-3">
+<h3 id="org10092b2">Mechanism &amp; Materialism</h3>
+<div class="outline-text-3" id="text-org10092b2">
+<ul class="org-ul">
+<li>New model of the natural world and its parts</li>
+</ul>
+</div>
+<div id="outline-container-orge0cc9c7" class="outline-4">
+<h4 id="orge0cc9c7">Materialism/Corpuscularianism</h4>
+<div class="outline-text-4" id="text-orge0cc9c7">
+<ul class="org-ul">
+<li><i>metaphysical</i> thesis concerning what there is, viz. mind-independent matter</li>
+</ul>
+<p>
+(size, shape, motion, and (perhaps) solidity) and its various combinations
+</p>
+</div>
+</div>
+<div id="outline-container-org5e79cb6" class="outline-4">
+<h4 id="org5e79cb6">Mechanism</h4>
+<div class="outline-text-4" id="text-org5e79cb6">
+<ul class="org-ul">
+<li><i>explanatory</i> thesis concerning how microscopic bodies with size, shape, motion,</li>
+</ul>
+<p>
+etc. interact and explain all manifest properties of macroscopic things &#x2013; the
+mechanist explains macroscopic things and their features in terms of their parts
+</p>
+<ul class="org-ul">
+<li>corpuscles vs. atoms</li>
+<li>unobservable entities with only geometric/kinetic properties</li>
+<li>the world as it appears is not the world as it really is</li>
+</ul>
+</div>
+</div>
+</div>
+
+<div id="outline-container-org1d2d598" class="outline-3">
+<h3 id="org1d2d598">Galileo on real qualities</h3>
+<div class="outline-text-3" id="text-org1d2d598">
+<ul class="org-ul">
+<li>The real qualities of bodies are those without which bodies are inconceivable,
+the rest of the apparent qualities of bodies are really subjective states of
+perceiving subjects</li>
+</ul>
+</div>
+
+<div id="outline-container-org694ba3b" class="outline-4">
+<h4 id="org694ba3b">Determinate vs Determinable Properties</h4>
+<div class="outline-text-4" id="text-org694ba3b">
+<ul class="org-ul">
+<li>Distinguish between the determinate properties a thing has, and the
+determinable properties it has. To which does the claim about
+inconceivability apply?</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-org9dc94be" class="outline-4">
+<h4 id="org9dc94be">Conceivability argument</h4>
+<div class="outline-text-4" id="text-org9dc94be">
+<blockquote>
+<p>
+Now I say that whenever I conceive any material or corporeal substance, I
+immediately feel the need to think of it as bounded, and as having this or
+that shape…[etc.]…From these conditions I cannot separate such a substance
+by any stretch of my imagination. But that it must be white or red, bitter
+or sweet, noisy or silent, and of sweet or foul odor, my mind does not feel
+compelled to bring in as necessary accompaniments. Without the senses as
+our guides, reason or imagination unaided would probably never arrive at
+qualities like these. Hence I think that tastes, odors, colors, and so on
+are no more than mere names so far as the object in which we place them is
+concerned, and that they reside only in the consciousness (Galileo, p.
+274).
+</p>
+</blockquote>
+
+
+<ol class="org-ol">
+<li>Thinking of a material object requires thinking of it as having a particular
+set of qualities (i.e. size, shape, location, motion, etc.)</li>
+<li>Thinking of a material object does not require thinking of it as having
+specific sensory qualities (e.g. color, taste, smell, sound)</li>
+<li>The only qualities possessed by a material object are those which we must
+attribute to it in thought</li>
+<li>∴ Sensory qualities are not qualities of material objects, but rather
+features of our consciousness of those objects — i.e. “sensations” [from 2, 3]</li>
+<li>∴ If there were no conscious beings there would be no sensory qualities (e.g.
+colors, tastes, smells, etc.). [from 4]</li>
+
+<li>Why should we accept (3)?
+<ul class="org-ul">
+<li>Descartes gives us one argument for accepting (3) but Galileo provides no
+such epistemological foundation, though he certainly could make use of D's
+system as the backdrop for such an argument</li>
+</ul></li>
+</ol>
+</div>
+</div>
+</div>
+
+<div id="outline-container-org14ed60d" class="outline-3">
+<h3 id="org14ed60d">Locke's Primary/Secondary distinction</h3>
+<div class="outline-text-3" id="text-org14ed60d">
+</div>
+<div id="outline-container-org7508f4a" class="outline-4">
+<h4 id="org7508f4a">Qualities</h4>
+<div class="outline-text-4" id="text-org7508f4a">
+<blockquote>
+<p>
+Whatever the mind perceives in itself—whatever is the immediate object of
+perception, thought, or understanding—I call an idea; and the power to
+produce an idea in our mind I call a quality of the thing that has that
+power (E II.viii.8)
+</p>
+</blockquote>
+<ul class="org-ul">
+<li>Locke, like Aristotle, thinks we can divide the qualities of things into two
+classes: primary &amp; secondary</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-org4275a32" class="outline-4">
+<h4 id="org4275a32">Primary Qualities</h4>
+<div class="outline-text-4" id="text-org4275a32">
+<blockquote>
+<p>
+Qualities thus considered in bodies are, First, such as are utterly
+inseparable from the body, in what state soever it be; and such as in all the
+alterations and changes it suffers, all the force can be used upon it, it
+constantly keeps; and such as sense constantly finds in every particle of
+matter which has bulk enough to be perceived; and the mind finds inseparable
+from every particle of matter, though less than to make itself singly be
+perceived by our senses: v.g. Take a grain of wheat, divide it into two
+parts; each part has still solidity, extension, figure, and mobility: divide
+it again, and it retains still the same qualities; and so divide it on, till
+the parts become insensible; they must retain still each of them all those
+qualities (II.viii.9)
+</p>
+</blockquote>
+</div>
+<ul class="org-ul">
+<li><a id="org67cf6f9"></a>inseparability argument<br />
+<div class="outline-text-5" id="text-org67cf6f9">
+<ol class="org-ol">
+<li>Every physical change in an object is a change to its determinate qualities</li>
+<li>Some qualities of bodies are present through all changes&#x2014;viz., the determinables of size, shape, solidity, and motion</li>
+<li>∴ Size, shape, solidity, and motion are inseparable from any existing body</li>
+
+<li>But why think that some of the qualities are inseparable and others are not?</li>
+</ol>
+</div>
+</li>
+</ul>
+</div>
+
+<div id="outline-container-org4e07919" class="outline-4">
+<h4 id="org4e07919">Secondary Qualities</h4>
+<div class="outline-text-4" id="text-org4e07919">
+<blockquote>
+<p>
+Secondly, [there are qualities] which in truth are nothing in the
+objects themselves but powers to produce various sensations in us by
+their primary qualities, i.e. by the bulk, figure, texture, and
+motion of their insensible parts, as colours, sounds, tastes, &amp;c.
+These I call secondary qualities (II.viii.10, 14, 23).
+</p>
+</blockquote>
+
+<ul class="org-ul">
+<li>Secondary qualities are "mere powers"
+<ul class="org-ul">
+<li>colors, tastes, smells</li>
+</ul></li>
+</ul>
+</div>
+</div>
+</div>
+
+<div id="outline-container-org6fa21d3" class="outline-3">
+<h3 id="org6fa21d3">Problems with Locke's Distinction</h3>
+<div class="outline-text-3" id="text-org6fa21d3">
+<ul class="org-ul">
+<li>Aren't all qualities powers?
+<ol class="org-ol">
+<li>Shape is a primary quality</li>
+<li>If shape is a primary quality then it is a quality</li>
+<li>Qualities are powers to produce ideas</li>
+<li>∴ Shape is a power to produce an idea—presumably the idea of shape</li>
+<li>But secondary qualities are also powers to produce ideas</li>
+<li>∴ There is no primary/secondary distinction between qualities</li>
+</ol></li>
+</ul>
+</div>
+
+<div id="outline-container-orgefa72b1" class="outline-4">
+<h4 id="orgefa72b1">Options for Locke:</h4>
+<div class="outline-text-4" id="text-orgefa72b1">
+<ol class="org-ol">
+<li>Deny that primary qualities are “qualities” in Locke’s sense—i.e. deny that there are powers</li>
+<li>Agree that primary qualities are powers but deny that they are the same sort of power as with secondary qualities</li>
+<li>Posit that Locke uses “quality” in two different senses:
+<ul class="org-ul">
+<li>Quality<sub>1</sub>: X is a quality<sub>1</sub> iff X is a property</li>
+<li>Quality<sub>2</sub>: X is a quality<sub>2</sub> iff X is a power to cause an idea in one’s mind</li>
+</ul></li>
+<li>Maintain that there is only one sense to “quality” but distinguish between real qualities and mere qualities
+<ul class="org-ul">
+<li>“Real” qualities are qualities which are more than mere powers in things, and exist even in the absence of things they affect</li>
+<li>“Mere” qualities are no more than powers in things and cease to exist the things they affect are absent</li>
+</ul></li>
+</ol>
+</div>
+</div>
+
+<div id="outline-container-org0b0d1c1" class="outline-4">
+<h4 id="org0b0d1c1">Ample textual evidence for (D)</h4>
+<div class="outline-text-4" id="text-org0b0d1c1">
+<ul class="org-ul">
+<li>II.viii.17; II.viii.24; II.xxxi.2; II.viii.19</li>
+<li>Are "mere" qualities wholly subjective, as Galileo suggests? – is nothing colored or smelly?</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-orgbb32665" class="outline-4">
+<h4 id="orgbb32665">Restating the distinction:</h4>
+<div class="outline-text-4" id="text-orgbb32665">
+<ul class="org-ul">
+<li>Primary Qualities:
+<ul class="org-ul">
+<li>Qualities of bodies which are “really” in them in the sense of being both: (i) non-relational and (ii) of a determinable which must be had by any body (e.g. solidity, extension, size, shape)</li>
+</ul></li>
+<li>Secondary Qualities:
+<ul class="org-ul">
+<li>Qualities of bodies, which are “merely” in them, and determined by their primary qualities to produce sensory ideas in perceiving subjects. These qualities are both (i) relational and (ii) of determinables which need not be had by every body (e.g. colors, sounds, tastes)</li>
+</ul></li>
+</ul>
+
+<p>
+Further, our ideas of primary qualities really "resemble" them while our ideas
+of secondary qualities do not (II.viii.15).
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgecf1ce4" class="outline-4">
+<h4 id="orgecf1ce4">Three Arguments for Primary/Secondary Distinction</h4>
+<div class="outline-text-4" id="text-orgecf1ce4">
+<ol class="org-ol">
+<li>Porphyry Case</li>
+<li>Almond Case</li>
+<li>Water Case</li>
+</ol>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="postamble" class="status">
+<p class="author">Author: Colin McLear</p>
+<p class="date">Created: 2018-03-13 Tue 16:04</p>
+<p class="validation"><a href="http://validator.w3.org/check?uri=referer">Validate</a></p>
+</div>
+</body>
+</html>
