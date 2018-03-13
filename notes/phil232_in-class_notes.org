@@ -1128,11 +1128,15 @@ Gottfried Wilhelm Leibniz (1646–1716)
 
 ** Quiz
 1. T/F: Locke claims that some ideas are innate
+   - F
 2. Describe one of the versions of nativism discussed by Locke
+   - weak/strong 
 3. Locke describes two sources of our ideas -- name one 
+   - sensation/reflection 
 4. T/F: Locke thinks at least some ideas are unconscious
+   - F
 5. T/F Leibniz suggests that innate ideas are dispositions
-
+   - T
 ** Leibniz Against Locke on Innateness  
 *** Contra Locke on Strong Argument
 **** Unconscious ideas
@@ -1205,15 +1209,16 @@ some corresponding, though often insensible, actions. (/NE Preface/, Garber p. 2
   
 ** Mechanism & Materialism
 - New model of the natural world and its parts
-*** Materialism 
-metaphysical thesis concerning what there is, viz. mind-independent matter
+*** Materialism/Corpuscularianism 
+- /metaphysical/ thesis concerning what there is, viz. mind-independent matter
 (size, shape, motion, and (perhaps) solidity) and its various combinations
 *** Mechanism 
-explanatory thesis concerning how microscopic bodies with size, shape, motion,
-etc. interact and explain all manifest properties of macroscopic things
-    - corpuscles vs. atoms
-    - unobservable entities with only geometric/kinetic properties
-    - the world as it appears is not the world as it really is
+- /explanatory/ thesis concerning how microscopic bodies with size, shape, motion,
+etc. interact and explain all manifest properties of macroscopic things -- the
+mechanist explains macroscopic things and their features in terms of their parts
+ - corpuscles vs. atoms
+ - unobservable entities with only geometric/kinetic properties
+ - the world as it appears is not the world as it really is
 
 ** Galileo on real qualities
 - The real qualities of bodies are those without which bodies are inconceivable,
