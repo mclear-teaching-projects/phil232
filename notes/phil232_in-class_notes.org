@@ -1262,6 +1262,16 @@ mechanist explains macroscopic things and their features in terms of their parts
       such epistemological foundation, though he certainly could make use of D's
       system as the backdrop for such an argument
 
+      
+*** Eliminativism about sensory qualities
+- qualities perceivable only via specific sense modalities (i.e. "proper
+  sensibiles" like colors, tastes, and smells)
+
+- Eliminativism about sensory qualities :: all proper sensible qualities are
+     merely features of states of consciousness and not features of things
+     "in" the world or outside the mind
+
+
 ** Locke's Primary/Secondary distinction
 
 *** Qualities
@@ -1332,9 +1342,14 @@ D. Maintain that there is only one sense to “quality” but distinguish betwee
 
 *** Restating the distinction:
 - Primary Qualities:
-  - Qualities of bodies which are “really” in them in the sense of being both: (i) non-relational and (ii) of a determinable which must be had by any body (e.g. solidity, extension, size, shape)
+  - Qualities of bodies which are “really” in them in the sense of being both:
+    (i) non-relational and (ii) of a determinable which must be had by any
+    body (e.g. solidity, extension, size, shape)
 - Secondary Qualities:
-  - Qualities of bodies, which are “merely” in them, and determined by their primary qualities to produce sensory ideas in perceiving subjects. These qualities are both (i) relational and (ii) of determinables which need not be had by every body (e.g. colors, sounds, tastes)
+  - Qualities of bodies, which are “merely” in them, and determined by their
+    primary qualities to produce sensory ideas in perceiving subjects. These
+    qualities are both (i) relational and (ii) of determinables which need not
+    be had by every body (e.g. colors, sounds, tastes)
       
 Further, our ideas of primary qualities really "resemble" them while our ideas
 of secondary qualities do not (II.viii.15).
@@ -1343,5 +1358,202 @@ of secondary qualities do not (II.viii.15).
 1) Porphyry Case
 2) Almond Case
 3) Water Case
+
+
+
+
+** Locke on Real Essence 
+*** Locke on Kinds
+Locke's view concerning general kinds (e.g. cat, dog, gold) is that there are
+no such things that really exist. All there are are particular beings with
+some degree or other of resemblance. 
+
+#+BEGIN_QUOTE
+it is plain, by what has been said, that general and universal belong not to
+the real existence of things; but are the inventions and creatures of the
+understanding, made by it for its own use, and concern only signs, whether
+words or ideas. (III.iii.11)
+#+END_QUOTE
+
+Locke expands on this position slightly. 
+
+#+BEGIN_QUOTE
+I would not here be thought to forget, much less to deny, that Nature, in the
+production of things, makes several of them alike: there is nothing more
+obvious, especially in the race of animals, and all things propagated by seed.
+But yet I think we may say, the sorting of them under names is the workmanship
+of the understanding, taking occasion, from the similitude it observes amongst
+them, to make abstract general ideas, and set them up in the mind, with names
+annexed to them, as patterns or forms, (for, in that sense, the word form has
+a very proper signification,) to which as particular things existing are found
+to agree, so they come to be of that species, have that denomination, or are
+put into that /classis/. (III.iii.13)
+#+END_QUOTE
+
+There is a bit of a tension here between saying that some things are more
+alike than other, but that things do not fall naturally into classes, instead
+classes are the "workmanship of the understanding". 
+
+ 
+*** Role of Essences in Proper Scientific Knowledge
+- Scientific knowledge consists in saying why things are the way that
+  there are for the members of the given domain.
+- Knowledge depends on articulation of real definitions of the subject
+  matter of the science, which articulate the essences, or fundamental
+  explanatory features, of the relevant individuals studied.
+
+  - /Essences/: individuate kinds, and explain why members of the kind
+    have the features that they do.
+
+    - /propria/: necessary but not explanatorily fundamental features
+      of a thing---propria may be /inferred/ from the essence
+      (risibility in humans).
+    - /accidents/: non-necessary and idiosyncratic features of a
+      thing---accidents are /not/ inferrable from the essence
+      (e.g. the blackness of crows), though they may nevertheless
+      /depend/ on the essence.
+
+  - Scientific knowledge depends on articulation of the essences of
+    the relevant members in order to provide simple real definitions.
+
+- Scientific definition proceeds by specifying:
+
+  - the kind to which its members belong (/genus/)
+  - the name of the thing (/species/) defined by its principle feature
+    (/difference/)
+  - the characteristics (/properties/) which ‘flow from' that
+    principle feature
+  - the remaining characteristics which are typical of the thing
+    though not inferable from its principle feature (/accidents/)
+
+- A fully articulated proper science would be one which provides a set
+  of real definitions of its members from which all the properties have
+  been inferred or derived.
+  - Euclidean geometry is often taken as an
+    exemplar
+    - Definition of a circle gives us the essence of the circle from
+      which its other properties may be derived/deduced.
+
+#+BEGIN_QUOTE
+The conception or definition of the thing must be such that all the
+properties of the thing, when regarded by itself and not in conjunction
+with other things, can be deduced from it, as can be seen in the case of
+this definition of a circle. For from it we clearly deduce that all the
+lines drawn from the centre to the circumference are equal. (Spinoza,
+/Treatise on the Emendation of the Intellect/, 96)
+#+END_QUOTE
+
+*** Real vs. Nominal Essence
+Locke distinguishes between two kinds of essence.
+
+#+BEGIN_QUOTE
+First, essence may be taken for the very being of any thing, whereby it is
+what it is. And thus the real internal, but generally in Substances, unknown
+constitution of things, whereon their discoverable qualities depend, may be
+called their essence. This is the proper original signiﬁcation of the word. .
+. . (Essay III.iii.15) 
+#+END_QUOTE
+
+The distinction originally comes from Aristotle, but there concerns
+/definitions/. Locke goes on to distinguish the nominal notion of essence in
+terms of his conception of nominal kinds. 
+
+#+BEGIN_QUOTE
+‘Tis true, there is ordinarily supposed a real constitution of the sorts of
+Things; and ‘tis past doubt, there must be some real constitution, on which
+any collection of simple Ideas co-existing, must depend. But it being evident,
+that Things are ranked under names into sorts or Species, only as they agree
+to certain abstract Ideas, to which we have annexed those names, the Essence
+of each Genus, or Sort, comes to be nothing but that abstract Idea, which the
+general, or Sortal (if I may have leave so to call it from Sort, as I do
+General from Genus,) name stands for. and this we shall find to be that which
+the word Essence imports, in its most familiar use. These two sorts of
+Essences, I suppose, may not unfitly be termed, the one the Real, the other
+Nominal Essence. (III.iii.15)
+#+END_QUOTE
+
+- Real Essence: :: The property or properties necessary for (i) objectively
+                   determining the particular's resemblance relations to other
+                   particulars; (ii) upon which many or all of its other
+                   monadic properties depend.
+- Nominal Essence: :: The property or properties specified by some kind term,
+     by which we sort an individual into a particular kind.
+
+  1. We sort things in terms of their nominal, rather than real,
+     essences.
+  2. We cannot sort things in terms of their real essences.
+     
+Locke expands on this position. 
+
+#+BEGIN_QUOTE
+concerning the real Essences of corporeal Substances, (to mention these only,)
+there are, if I mistake not, two Opinions. The one is of those, who using the
+word Essence, for they know not what, suppose a certain number of those
+Essences, according to which, all natural things are made, and wherein they do
+exactly every one of them partake, and so become of this or that Species. The
+other, and more rational Opinion, is of those, who look on all natural Things
+to have a real, but unknown constitution of their insensible Parts, from which
+flow those sensible Qualities, which serve us to distinguish them one from
+another, according as we have Occasion to rank them into sorts, under common
+denominations. (III.iii.17)
+#+END_QUOTE
+
+This might suggest that two particulars might have the same real essence,
+which explains why the particulars resemble one another in various ways (as,
+e.g., two dogs might resemble one another). But Locke seems to think that no
+two real essences are alike. 
+
+#+BEGIN_QUOTE
+The frequent Productions of Monsters, in all the Species of animals, and of
+changelings, and other strange issues of humane Birth, carry with them
+difficulties, not possible to consist with this Hypothesis: Since it is as
+impossible, that two Things, partaking exactly of the same real Essence,
+should have different Properties, as that two figures partaking of the same
+real Essence of a circle, should have different Properties. But were there no
+other reason against it, yet the supposition of Essences, that cannot be
+known; and the making of them nevertheless to be that, which distinguishes the
+Species of Things, is so wholly useless, and unserviceable to any part of our
+Knowledge, that that alone were sufficient to make us lay it by; and content
+ourselves with such Essences of the Sorts or Species of Things, as come within
+the reach of our Knowledge: which, when seriously considered, will be found,
+as I have said, to be nothing else, but those abstract complex Ideas, to which
+we have annexed distinct general Names. (III.iii.17)
+#+END_QUOTE
+
+1. if the real essence of an individual determined its sensible properties, then two individuals with the same real essence should not differ (so much) in their sensible properties
+2. “monsters” (offspring that are thought to be of the same real essence as their parents) are occasionally produced in nature
+3. ∴ the real essence does not determine sensible properties OR there
+   are only particular real essences (i.e. no particulars "share" the
+   same real essence)
+     
+*** Skepticism about (Knowledge of) Essence
+Locke gives what sounds like a more epistemic rather than metaphysical
+argument concerning the problems with knowing about real essences of things in
+III.vi.19
+
+#+BEGIN_QUOTE
+The only imaginable help in this case would be, that, having framed perfect
+complex ideas of the properties of things flowing from their different real
+essences, we should thereby distinguish them into species. But neither can
+this be done. For, being ignorant of the real essence itself, it is impossible
+to know all those properties that flow from it, and are so annexed to it, that
+any one of them being away, we may certainly conclude that that essence is not
+there, and so the thing is not of that species. We can never know what is the
+precise number of properties depending on the real essence of gold, any one of
+which failing, the real essence of gold, and consequently gold, would not be
+there, unless we knew the real essence of gold itself, and by that determined
+that species. (III.vi.19)
+#+END_QUOTE
+
+1. For any object, a proper subset of its monadic properties (the really
+   essential properties) explain the instantiation of its other monadic
+   properties (its *propria*).
+2. We cannot have any epistemic basis for determining which properties are
+   really essential without a conception of which *kind* of thing we're
+   concerned with.
+3. We cannot determine which kind a particular belongs to without a grasp of
+   its real essence.
+4. \therefore We have no basis for determining the really essential properties of any
+   object.
 
 
