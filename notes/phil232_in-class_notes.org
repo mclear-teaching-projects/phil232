@@ -1557,3 +1557,143 @@ that species. (III.vi.19)
    object.
 
 
+* Week 11 (3/26)
+** Locke on Kinds
+*** What are kinds?
+- examples: cats, dogs, university, cloud, etc.
+
+Kinds are groups whose members are all members in virtue of resembling one
+another in some way
+
+"universal" as a entity that unifies all members that share a certain feature. 
+
+*** Locke's denial of kinds
+#+BEGIN_QUOTE
+I would not here be thought to forget, much less to deny, that Nature, in the
+production of things, makes several of them alike: there is nothing more
+obvious, especially in the race of animals, and all things propagated by seed.
+But yet I think we may say, the sorting of them under names is the workmanship
+of the understanding, taking occasion, from the similitude it observes amongst
+them, to make abstract general ideas, and set them up in the mind, with names
+annexed to them, as patterns or forms, (for, in that sense, the word form has
+a very proper signification,) to which as particular things existing are found
+to agree, so they come to be of that species, have that denomination, or are
+put into that /classis/. (III.iii.13)
+
+#+END_QUOTE
+
+1. Denial of structure in reality -- on Locke's view there are only
+   particulars and their properties
+2. Advocates "nominalism" about properties 
+  - There are no general kinds or universals, there are only our ideas or
+    concepts (and their corresponding linguistic expressions)--i.e. "concept
+    nominalism" 
+    
+
+
+** Real vs. Nominal Essence
+Locke distinguishes between two kinds of essence.
+
+- Real Essence: :: The property or properties that make up the 'real
+                   constitution' of a thing and are thus necessary for (i)
+                   objectively determining the particular's resemblance
+                   relations to other particulars; (ii) upon which many or all
+                   of its other properties depend.
+- Nominal Essence: :: The property or properties specified by some kind term,
+     by which we sort an individual into a particular kind.
+     
+Locke seems to be making two points in this distinction. 
+
+  1. We sort things in terms of their nominal, rather than real,
+     essences.
+  2. We cannot sort things in terms of their real essences.
+     
+     
+*** No Two essences are alike
+See III.iii.17
+
+1. If the real essence of an individual determined its sensible properties,
+   then two individuals with the same real essence should not differ (so much)
+   in their sensible properties
+2. “Monsters” (i.e. offspring that are thought to be of the same real essence
+   as their parents) are occasionally produced in nature
+3. ∴ Either real essences do not determine sensible properties OR there
+   are only particular real essences (i.e. no particulars "share" the
+   same real essence)
+     
+*** 'Bootstrapping' problem -- Circularity objection
+See III.vi.19
+
+2. For any object, a proper subset of its monadic properties (the really
+   essential properties) explain the instantiation of its other monadic
+   properties (its *propria*).
+3. We cannot have any epistemic basis for determining which properties are
+   really essential without a conception of which *kind* of thing we're
+   concerned with.
+4. We cannot determine which kind a particular belongs to without a grasp of
+   its real essence.
+5. \therefore We have no basis for determining the really essential properties of any
+   object.
+
+
+** Extent of our knowledge
+
+*** No scientific knowledge of nature
+We cannot have (demonstrative) scientific knowledge of nature, only morals and
+math At best we must be satisfied with ever more justified beliefs, such as
+ever more justified versions of the 'corpuscularian hypothesis'
+
+#+BEGIN_QUOTE
+  I fear the weakness of human understanding is scarce able to
+  substitute another [than the corpuscularian hypothesis], which will
+  afford us a fuller and clearer discovery of the necessary connexion
+  and coexistence of the powers which are to be observed united in
+  several sorts of [bodies]...I doubt whether, with those faculties we
+  have, we shall ever be able to carry our general knowledge (I say not
+  particular experience) in this part much further. (IV.iii.16)
+#+END_QUOTE
+
+*** Challenges for scientific knowledge of nature 
+
+1. Obscurity of essence/real constitution
+2. Inscrutability of primary-secondary connection
+
+#+BEGIN_QUOTE
+  We are so far from knowing what figure, size, or motion of parts
+  produce a yellow colour, a sweet taste, or a sharp sound, that we can
+  by no means conceive how any size, figure, or motion of any particles,
+  can possibly produce in us the idea of any colour, taste, or sound
+  whatsoever: there is no conceivable connexion between the one and the
+  other. (IV.iii.13)
+#+END_QUOTE
+
+Locke then sums up his argument as follows:
+
+#+BEGIN_QUOTE
+  In vain, therefore, shall we endeavour to discover by our ideas (the
+  only true way of certain and universal knowledge) what other ideas are
+  to be found constantly joined with that of our complex idea of any
+  substance: since we (1) neither know the real constitution of the
+  minute parts on which their qualities do depend; nor, (2) did we know
+  them, could we discover any necessary connexion between them and any
+  of the secondary qualities: which is necessary to be done before we
+  can certainly know their necessary co-existence. So, that, let our
+  complex idea of any species of substances be what it will, we can
+  hardly, from the simple ideas contained in it, certainly determine the
+  necessary co-existence of any other quality whatsoever. Our knowledge
+  in all these inquiries reaches very little further than our
+  experience. (IV.iii.14)
+#+END_QUOTE
+
+Thus we cannot have scientific knowledge in natural philosophy because
+(1) we cannot know the real essences of the minute bodies composing the
+observable world, and (2) even if we could know them we could not
+discern the necessary connections that exist between those bodies and
+their observable secondary qualities. We might summarize these points by
+saying that our grasp of the determinate primary qualities of things is
+at best obscure, while the connection between these determinate primary
+qualities and either determinate or determinable secondary qualities is
+completely inscrutable.
+
+
+
