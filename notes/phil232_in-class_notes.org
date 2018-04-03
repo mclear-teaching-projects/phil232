@@ -1697,3 +1697,52 @@ completely inscrutable.
 
 
 
+* Week 12 (4/2)
+** Locke
+*** Three features of knowledge
+1. Relation between ideas
+2. Subject must perceive agreement/disagreement between ideas
+3. Knowledge is certain
+
+*** Different Kinds of Knowledge
+1. Intuitive knowledge
+2. Demonstrative knowledge (anything arrived at via inference)
+3. Sensitive knowledge
+
+*** Other kinds of epistemic state
+**** Belief
+Aims at knowledge but falls short in some way
+**** Opinion
+Aims at knowledge but falls even further short of some evidential standard
+*** Can we have scientific knowledge of nature?
+- Corpuscularian hypothesis + Mechanism
+  - We can't know that the corpuscularian view is true
+    - Obscurity of primary qualities of corpuscles: we can't have knowledge of
+      the real essences of the minute material bodies
+    - Inscrutability: even if we could know the real essences of individual
+      particles the connections between primary and secondary qualities are
+      inscrutable to us
+
+      
+** Leibniz
+*** Against Matter
+**** Cartesian substance
+1. Individuals (subjects of properties)
+2. Independent
+**** Matter is not substantial
+1. All space is infinitely divisible
+2. All bodies are extended in space
+3. \therefore All bodies are infinitely divisible 
+4. Bodies that are divisible are actually divided -- i.e. have parts
+5. What has parts depends for its existence on its parts 
+6. \therefore All bodies depend for their existence on their parts 
+7. Substance is that which does not depend on anything (except God) for its existence
+8. \therefore No material body is a substance 
+
+   
+- What about atomism? Leibniz denies that there could be material atoms - why?
+  1) atoms are arbitrary -- the nature of materiality is such as to be
+     infinitely divisible/divided. It would be contrary to reason (and PSR) to
+     stop at some point in the division of matter
+  2) atoms are irrelevant -- just because they haven't been divided by
+     us doesn't mean that they don't have parts in the relevant sense
