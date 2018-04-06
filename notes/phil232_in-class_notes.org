@@ -1698,6 +1698,21 @@ completely inscrutable.
 
 
 * Week 12 (4/2)
+** Quiz
+1. T/F: Locke construes knowledge as a relation between an idea and the world
+   - F
+2. T/F: Locke denies that knowledge must be certain
+   - F
+3. T/F: Locke agrees with Descartes that we can achieve a demonstrative
+   science of nature
+   - F
+4. Describe what it is for the connection between the primary and
+   secondary qualities of an object to be "inscrutable"
+   - derivation of particular sensory "secondary" qualities from "primary"
+     qualities is unintelligible (at least to us) 
+5. T/F: Leibniz thinks that the existence of material atoms would be
+   arbitrary and thus violate the PSR
+   - T 
 ** Locke
 *** Three features of knowledge
 1. Relation between ideas
@@ -1746,3 +1761,97 @@ Aims at knowledge but falls even further short of some evidential standard
      stop at some point in the division of matter
   2) atoms are irrelevant -- just because they haven't been divided by
      us doesn't mean that they don't have parts in the relevant sense
+**** Matter is not fundamental (not fundamentally real)
+
+- Principle of Borrowed Reality (PBR) :: every being derives its reality only
+     from the reality of those beings of which it is composed
+
+     
+1. All bodies are aggregates --- they are composed of parts
+2. Aggregates borrow their reality from their component parts (PBR)
+3. There cannot be an infinite chain of borrowed realities
+4. \therefore The reality of material bodies cannot itself be explained in material terms
+5. \therefore There exists something else which is not itself material and which is
+   responsible for the existence of body
+
+- This argument, if sound, shows that the reality of matter is not something
+  fundamental, but rather must explained in non-material terms. 
+- There are two possible readings of this conclusion, a 'liberal', and an
+  'austere' reading.
+***** Liberal reading
+According to the liberal reading we can say that matter is real but not
+fundamental---it is rather derived from the non-material in the sense in which
+the sound of an orchestra is derived from the sounds of the individual players
+in the orchestra. 
+***** The austere reading
+The austere reading reserves the term 'real' for those things that are
+fundamental, so it denies that matter is real, understood as something existing
+over and above that of the fundamental non-material entities. The analogue here
+would be to deny the real existence of the sound of the orchestra because there
+is no sound that really exists over and above the existence of the sounds of
+each of the individual instruments.
+
+- What about the importance of the arrangement of the parts making up any
+  particular body? Wouldn't that be a potential source of reality which would
+  end the 'reality regress'? 
+  - No. Leibniz denies the ultimate reality of relations/relational
+    properties. This means that we cannot find, in the relations that exist
+    between the parts of a thing, some source of reality that might stop the
+    regress.
+
+
+ 
+*** Leibniz's Idealism
+**** The characteristics of substance:
+
+1. Unity
+   - does not have independent parts
+2. Independence
+   - does not inhere in anything else
+3. Persistence
+   - identity of being through change 
+4. Activity
+   - a substance is necessarily active or possesses principle of change (for
+     some purpose - final causation)
+5. Individuation
+   - a substance has a principle of individuation intrinsic to its nature 
+
+
+**** The characteristics of monads
+
+1. Simplicity
+   - has no parts -- is a true unity
+2. Indestuctibility
+   - possesses no parts
+3. Immateriality
+   - has no parts so cannot be material
+4. Individuality
+   - perception
+     - various states of the monad, conscious or not
+   - appetite
+     - principle of succession
+5. 'Windowlessness' (causal isolation/independence)
+   - Why must monads be 'windowless'? Leibniz thinks there is no sense to be
+     made of causal interaction between monads. Causal interaction would
+     result either in (i) the rearrangement of parts, but monads don't have
+     parts, or (ii) the transmission of an 'accident' from one thing to
+     another, which Leibniz thinks is incoherent.
+   #+BEGIN_QUOTE
+     There is also no way of explaining how a monad can be altered or changed
+     internally by some other creature, since one cannot transpose anything in
+     it, nor can one conceive of any internal motion that can be excited,
+     directed, augmented, or diminished within it, as can be done in
+     composites, where there can be change among the parts. The monads have no
+     windows through which something can enter or leave. Accidents cannot be
+     detached, nor can they go about outside of substances, as the sensible
+     species of the Scholastics once did. Thus, neither substance nor accident
+     can enter a monad from without. (§7, pp.213-14)
+   #+END_QUOTE
+
+**** The Ideality of Matter
+- Physical objects 'result' from monads
+    - monads 'express' bodies via 'perception'
+    - physical bodies are a kinds of stable hallucination---a 'well-founded phenomenon'
+- Monads are not literal /parts/ of bodies --- rather monads 'express' them.
+  Matter is thus derivative from the perceptions of monads
+
