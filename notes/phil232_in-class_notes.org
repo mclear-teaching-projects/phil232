@@ -1855,3 +1855,72 @@ each of the individual instruments.
 - Monads are not literal /parts/ of bodies --- rather monads 'express' them.
   Matter is thus derivative from the perceptions of monads
 
+  
+* Week 13 (4/9)
+** Leibniz on Freedom
+- Incompatibilism :: determinism and free will/freedom are incompatible 
+- Compatibilism :: determinism and free will/freedom are compatible 
+
+                   
+- Leibniz argues for compatibilism based on what a counterpart might do in an
+  alternate possible world (i.e. a world God could have created but didn't)
+** Spinoza
+- Born in Amsterdam in 1632, dies at The Hague in 1677
+
+*** The Principle of Sufficient Reason
+- PSR: :: For every fact F, there is a metaphysically sufficient explanation
+          (or reason or ground) why F, rather than not F, is true
+
+
+Three features of the PSR 
+
+1. Irreflexive: if F explains G then F is not identical to G (i.e. nothing can
+   explain itself)
+2. Asymmetric: If F explains G then G does not explain F 
+3. Transitive: If F explains G, and G explains H, then F explains H
+
+
+- There are no brute explanations 
+- The ground of explanation necessitates (i.e. makes necessary) that which it
+  explains
+- The PSR, applied unrestrictedly, entails determinism
+
+This commitment to the unrestricted use of the PSR means that:
+  
+- Spinoza is not just a determinist but also a necessitarian
+
+- Determinism :: every state of affairs is necessitated by antecedent
+  states of affairs together with the laws of nature.
+  
+- Necessitarianism :: every truth is necessarily true.
+
+***  Descartes's & Spinoza's conception of substance
+Descartes's official definition of substance in terms of an independent individual:
+
+#+BEGIN_QUOTE
+  By /substance/ we can understand nothing other than a thing which
+  exists in such a way as to depend on no other thing for its existence.
+  (/Principles/, §51)
+#+END_QUOTE
+
+But then...
+
+#+BEGIN_QUOTE
+  Hence the term ‘substance' does not apply /univocally/, as they say in
+  the Schools, to God and other things; that is, there is no distinctly
+  intelligible meaning of the term which is common to God and his
+  creatures. (/Principles/, §51)
+#+END_QUOTE
+
+- Descartes denies that there is a single sense in which one can apply the
+  term 'substance'
+  
+
+Spinoza adopts the Cartesian definition of substance in terms of independence:
+
+#+BEGIN_QUOTE
+  By substance I mean that which is in itself and is conceived through
+  itself; that is, that the conception of which does not require the
+  conception of another thing from which it has to be formed. (E1d3)
+#+END_QUOTE
+
