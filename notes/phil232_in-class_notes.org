@@ -1857,6 +1857,25 @@ each of the individual instruments.
 
   
 * Week 13 (4/9)
+** Quiz
+ 1. T/F: Leibniz thinks that because matter is infinitely divisible it can
+    exist independently of other things and thus qualifies as a substance
+    - F
+ 2. Name one of the characteristics of a monad
+    - simple (has no parts)
+    - immaterial
+    - unity
+    - individual (perception & appetite)
+    - "windowless" 
+ 3. T/F: Monads are individuated solely by their perceptions
+    - F 
+ 4. T/F: Leibniz thinks everything happens for a reason
+    - T
+ 5. Name one of the two characteristics of Cartesian substance
+    - independent
+    - individual 
+ 
+
 ** Leibniz on Freedom
 - Incompatibilism :: determinism and free will/freedom are incompatible 
 - Compatibilism :: determinism and free will/freedom are compatible 
@@ -1923,4 +1942,57 @@ Spinoza adopts the Cartesian definition of substance in terms of independence:
   itself; that is, that the conception of which does not require the
   conception of another thing from which it has to be formed. (E1d3)
 #+END_QUOTE
+
+*** Spinoza's Argument for Monism
+Spinoza's argument for monism ultimately looks like this: 
+
+1. No two substances share an attribute
+2. God has infinite attributes (i.e. God has /all/ the attributes) 
+3. \therefore There can be no substance other than God
+
+
+- Step 1 (E1p5): No two substances can share an attribute
+- Step 2 (E1p11): God is a substance with infinite attributes
+- Step 3 (E1p14): God is the only substance
+
+  
+**** Argument for step 1
+Spinoza's argument that no two substances can share an attribute looks like this:
+
+1. If two substances exist, then they can be distinguished (from the [[https://plato.stanford.edu/entries/identity-indiscernible/][Identity
+   of Indiscernibles]])
+2. E1p4: If two substances can be distinguished, then they are distinguished
+   either by a difference in attribute or a difference in mode
+3. No two substances can be distinguished by a difference in mode (from E1d3,
+   E1a6, E1p1)
+4. \therefore Two substances are distinguished by their attributes (from 1, 2, and 3)
+5. If two substances are distinguished by their attributes, then they cannot
+   share an attribute
+6. \therefore Two substances cannot share an attribute
+
+   
+A. E1d3: Substance is conceived through itself
+B. E1d5: Modes are conceived through something other than the substance to which they belong
+C. E1p1: Therefore, substances are (conceptually) prior to their modes
+D. Substance considered in itself therefore excludes consideration of modes (from A, B & C)
+E. \therefore Substances cannot be distinguished by a difference in their modes (= 3 above)
+
+   
+**** Argument for step 2 
+1. E1p7: Existence belongs to the essence of substance
+2. E1d6: By God I understand a being absolutely infinite, that is, a substance
+         consisting of an infinity of attributes, of which each one expresses an eternal and infinite essence 
+3. E1p11: \therefore God necessarily exists and has infinite attributes (from E1p7 &
+   E1d6)
+   
+
+
+
+**** Third Step
+1. No two substances share an attribute
+2. God has infinite attributes 
+3. \therefore There can be no substance other than God
+   
+All finite beings are thus modes of the one – God (see E1p15). 
+
 
