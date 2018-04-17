@@ -2004,3 +2004,107 @@ All finite beings are thus modes of the one – God (see E1p15).
   - Negative: The pursuit of metaphysical questions is fruitless and perhaps
     such claims lack meaning altogether
 
+* Week 14 (4/16)
+** Hume's Mind
+*** The Project
+- Two aims: positive and negative
+  - Positive: The human mind operates on sense impressions and their
+    corresponding ideas, according to principles of association 
+  - Negative: The pursuit of metaphysical questions is fruitless
+
+*** Two Kinds of Perception
+
+- Impressions
+- Ideas
+
+Ideas are less forceful and lively copies of impressions
+
+*** The Copy Principle
+
+- All ideas are copies from original impressions
+- If all our ideas must be copied from impressions and our impressions could
+  always change, then how can we be certain that we know anything? 
+
+*** The missing shade of blue
+- Must all ideas be traceable to original impressions?
+  - No? Missing shade of blue counterexample
+
+    - Alternative explanations
+      - unreliable in figuring out which ideas we have based on our
+        impressions
+      - already had the impression but didn't realize it
+      - have a complex idea of the shade rather than a simple one
+
+  - Counterexample doesn't matter because it is "so singular" 
+
+  - Important because it is relevant to assessing copy principle as a
+    principle determining what thoughts are meaningful
+
+
+
+
+
+*** Example of nonsense
+Lewis Carroll's "[[https://www.poetryfoundation.org/poems/42916/jabberwocky][Jabberwocky]]"
+
+#+BEGIN_VERSE
+’Twas brillig, and the slithy toves 
+      Did gyre and gimble in the wabe: 
+All mimsy were the borogoves, 
+      And the mome raths outgrabe. 
+
+“Beware the Jabberwock, my son! 
+      The jaws that bite, the claws that catch! 
+Beware the Jubjub bird, and shun 
+      The frumious Bandersnatch!” 
+
+He took his vorpal sword in hand; 
+      Long time the manxome foe he sought— 
+So rested he by the Tumtum tree 
+      And stood awhile in thought. 
+
+And, as in uffish thought he stood, 
+      The Jabberwock, with eyes of flame, 
+Came whiffling through the tulgey wood, 
+      And burbled as it came! 
+
+One, two! One, two! And through and through 
+      The vorpal blade went snicker-snack! 
+He left it dead, and with its head 
+      He went galumphing back. 
+
+“And hast thou slain the Jabberwock? 
+      Come to my arms, my beamish boy! 
+O frabjous day! Callooh! Callay!” 
+      He chortled in his joy. 
+
+’Twas brillig, and the slithy toves 
+      Did gyre and gimble in the wabe: 
+All mimsy were the borogoves, 
+      And the mome raths outgrabe
+#+END_VERSE
+
+- Is metaphysics like the poem -- ultimately all word play and association, or
+  is in a genuine form of inquiry? 
+  
+*** Three Kinds of Association
+
+1. resemblance
+2. contiguity in space and/or time
+3. cause & effect
+
+Association is the natural means by which the mind relates its ideas and impressions.
+
+** Hume on Causation
+*** Hume's Fork: Relations of ideas and matters of fact 
+
+- relations of ideas: truths of mathematics & logic
+    - known just via thinking about the proposition, independent of any issue of what exists
+    - certain and self-evident
+    - necessary truths --- i.e. contrary or contradiction is impossible
+- matters of fact: truths of the empirical world
+    - denial involves no contradiction
+    - contingent rather than necessary
+    - known only via experience
+    - cannot be arrived at (merely) through logical demonstration
+
