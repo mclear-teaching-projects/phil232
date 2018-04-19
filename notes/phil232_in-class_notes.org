@@ -2108,3 +2108,55 @@ Association is the natural means by which the mind relates its ideas and impress
     - known only via experience
     - cannot be arrived at (merely) through logical demonstration
 
+*** Analytic Truth
+
+Analytic truths are propositions which are true:
+
+i. in virtue of their negation being a contradiction 
+ii. in virtue of the predicate being 'contained' in the subject 
+iii. in virtue of the meaning of the constituent concepts/words
+
+*** A priori Justification & Knowledge
+
+i. Justification/Knowledge which is derived or possessed independently of experience (i.e. independent of perception, introspection, memory, and perhaps testimony) needed to understand the proposition at issue.
+
+ii. Justification/Knowledge of causes/grounds rather than effects
+
+- a posteriori knowledge/justification is knowledge that /does/ depend on experience
+  - e.g. "It is snowing in Lincoln"
+
+  
+*** Knowledge of Matters of Fact
+- We have knowledge of occurrent matters of fact via our occurrent experience
+- What gives us knowledge/certainty of anything beyond what we're currently sensing?
+  - all reasoning about whatever is not immediately occurrent depends on
+    appeal to cause/effect relation 
+
+ 
+*** Hume's argument against rationality of causal principle
+- Our conclusions based on the principle of cause/effect are not rational
+
+
+**** Negative Argument
+
+***** Causal knowledge is not attained via relations of ideas
+- The relation of an effect to its cause (and vice versa) can never be attained
+  merely by the analysis of ideas and their relations
+- No contradiction is implied by denying that some effect follows from some
+  putative cause
+- There are no necessary connections between distinct existences
+
+
+***** Causal knowledge is not attained via a rational process of induction from cases
+- Hume denies that there is any rational process of arriving at a causal
+  conclusion based on reasoning 
+  1. In the past when I've had caffeine I have felt more alert 
+  2. therefore when I have this caffeine I will feel more alert 
+- We have no defensible rational justification for believing (2) on the basis of (1)
+
+**** Positive Argument
+***** Custom or Habit
+***** Redefinition of 'cause' 
+
+
+ 
