@@ -1,0 +1,28 @@
+#+TITLE: Week 11 - Locke on Essence & Knowledge 
+#+DATE: March 26, 2018
+#+SLUG: week11-essence
+#+TAGS: Locke, materialism, mechanism, essence
+
+------
+
+This week we'll finish our discussion of Locke on the distinction between real
+and nominal essence, and the significance of this for his conception of the
+possibility of a science of nature. 
+
+** Class 15 (3/27)
+- Locke, /ECHU/   
+  - III.iii.11-20 (especially 15-17)
+  - III.vi.1-20
+  - IV.iii.1-14, 24-8
+- [[http://notebook.colinmclear.net/locke-on-knowledge][Notes on Locke on Knowledge]]
+
+In-class notes are [[file:{filename}/notes/notes_week11.html][here]]
+
+
+** No Class (3/29)
+
+** Reading Questions
+- What is knowledge on Locke's view?
+- Does Locke think that skepticism about the external world is a problem?
+- Does Locke think we can achieve demonstrative scientific knowledge of the
+  natural world?

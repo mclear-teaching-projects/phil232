@@ -1,0 +1,25 @@
+#+TITLE: Week 9 - Innate Ideas
+#+DATE: March 5, 2018
+#+SLUG: week9-innateness
+#+TAGS: innate ideas, Locke, Leibniz
+
+------
+
+Having discussed various elements in Descartes's metaphysics and epistemology
+we turn, over the next weeks, to various ways in which these views are
+elaborated, explained, or critiqued. We look this week at criticism and
+defense of Descartes's notion of an 'innate idea' in the work of Locke and Leibniz.
+
+The in-class notes on Locke and Leibniz are [[file:{filename}/notes/notes_week9.html][here]].
+
+** Class 12 (3/6)
+- Locke, /Essay Concerning Human Understanding/ 
+  - Epistle and Book I, chs. 1-2 (Hackett edition pp. 1-14)
+  - Book II, ch. 1 (Hackett edition pp. 33-9)
+- [[http://notebook.colinmclear.net/locke-on-innate-ideas][Notes on Locke on innateness]]
+
+** Class 13 (3/8)
+- Leibniz, /New Essays Concerning Human Understanding/
+  - Preface (in /Philosophical Essays/, pp. 291-306)
+  - [[file:{filename}/readings/Leibniz_NE_BkICh1_3.pdf][Book I, chs 1-3]] (PDF version)
+- [[http://notebook.colinmclear.net/leibniz-on-innate-ideas][Notes on Leibniz on innateness]]

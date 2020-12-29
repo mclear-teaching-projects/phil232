@@ -1,0 +1,81 @@
+* Locke on Knowledge
+** Three features of knowledge
+1. Relation between ideas
+   a. identity/diversity
+   b. relation
+   c. co-existence (necessary connection)
+   d. real existence 
+2. Subject must perceive the agreement/disagreement between ideas
+3. Knowledge is certain 
+   
+** Different kinds of knowledge
+1. Intuitive knowledge
+2. Demonstrative knowledge
+3. Sensitive knowledge
+
+*** Locke on sensitive knowledge
+#+BEGIN_QUOTE
+  whether there be anything more than barely that idea in our minds;
+  whether we can thence certainly infer the existence of anything
+  without us, which corresponds to that idea, is that whereof some men
+  think there may be a question made; because men may have such ideas in
+  their minds, when no such thing exists, no such object affects their
+  senses. But yet here I think we are provided with an evidence that
+  puts us past doubting. For I ask any one, (1) Whether he be not
+  invincibly conscious to himself of a different perception, when he
+  looks on the sun by day, and thinks on it by night; when he actually
+  tastes wormwood, or smells a rose, or only thinks on that savour or
+  odour? (2) We as plainly find the difference there is between any idea
+  revived in our minds by our own memory, and actually coming into our
+  minds by our senses, as we do between any two distinct ideas. If any
+  one say, a dream may do the same thing, and all these ideas may be
+  produced in us without any external objects; he may please to dream
+  that I make him this answer:— (3) 1. That it is no great matter,
+  whether I remove his scruple or no: where all is but dream, reasoning
+  and arguments are of no use, truth and knowledge nothing. (4) 2. That
+  I believe he will allow a very manifest difference between dreaming of
+  being in the fire, and being actually in it. (IV.ii.14)
+#+END_QUOTE
+
+** Epistemic states/attitudes distinct from knowledge
+*** Belief   
+- Subjective conviction without certainty
+*** Opinion
+- No certainty and no subjective conviction either
+* Review of Scientific Knowledge
+- Corpuscularianism is the best hypothesis about how things are
+  - We can't know for sure that corpuscularianism is true
+  - Even if we could know that corpuscularianism is true we lack knowledge
+    of the real essences of things
+    - Obscurity of the primary qualities of particular corpuscles
+    - Even if we had this "obscure" knowledge of primary qualities of
+      corpuscles, the connections between these qualities and their
+      secondary qualities are wholly inscrutable to us, if not God or other
+      more advanced cognitive beings (e.g. angels)
+* Leibniz on Matter
+** Cartesian Substance
+1. "Substanding" individual (a thing with properties)
+2. "Subsist" independently (i.e. exist independently of other things)
+
+** Matter is not a true unity as substance
+1. All space is infinitely divisible
+2. All bodies are extended in space
+3. \therefore All bodies are infinitely divisible (1,2)
+4. Bodies that are divisible are actually divided---i.e. have parts
+5. What has parts depends for its existence on its parts
+6. \therefore All bodies depend for their existence on their parts (4,5)
+7. Substance is that which does not depend on anything (except God) for its
+   existence
+8. \therefore No material body is a substance (6,7)
+
+** Matter is not fundamentally real 
+1. All bodies are aggregates --- they are composed of parts
+2. Aggregates borrow their reality from their component parts (PBR)
+3. There cannot be an infinite chain of borrowed realities
+4. \therefore The reality of material bodies cannot itself be explained in material terms
+5. \therefore There exists something else which is not itself material and which is
+   responsible for the derivative reality of body
+
+** Real Substances
+
+- Monad: :: true unity (being without parts)

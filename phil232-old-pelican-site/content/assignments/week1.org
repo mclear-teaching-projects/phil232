@@ -1,0 +1,35 @@
+#+TITLE: Week 1 - Descartes & his Scholastic Background
+#+DATE: January 8, 2018
+#+SLUG: week1-scholasticism
+#+TAGS: method, descartes, scholasticism, aristotle
+ 
+------
+
+This week we'll look at the scholastic aristotelian background to the early
+modern period and get started with our reading of Descartes, focusing in
+particular on his conception of philosophical method. 
+
+** Class 1 (1/9)
+- McLear, [[http://notebook.colinmclear.net/medieval-background][Notes on the Scholastic Background]] 
+- [[http://notebook.colinmclear.net/dates-and-people][People & Dates]]
+
+
+** No Class (1/11)
+We'll discuss the following next week:
+- Descartes, [[file:{filename}/readings/Descartes_Method.pdf][/Discourse on the Method/]]
+  - Focus especially on part two
+- McLear, [[http://notebook.colinmclear.net/descartes-method][Notes on Descartes's Method]] 
+
+** Reading Questions
+While you read, think about how you might answer the following
+questions. We'll discuss these further in class. 
+
+1. How, if at all, do the explanatory ambitions of scholastic science differ from
+   those of contemporary science?
+2. What is Descartes's proposed method for acquiring knowledge?
+3. What area of inquiry does Descartes's method seem most useful for? Could it
+   be used in all areas equally well?
+
+- A nice illustration of [[http://www.malinc.se/math/trigonometry/geocentrismen.php][heliocentric vs. geocentric models]] of the orbits of
+  the planets
+- Here's a link to a useful online presentation of [[http://aleph0.clarku.edu/~djoyce/java/elements/elements.html][Euclid's /Elements/]]

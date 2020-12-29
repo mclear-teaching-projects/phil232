@@ -1,0 +1,38 @@
+#+TITLE: Week 10 - Locke on Materialism & Mechanism
+#+DATE: March 13, 2018
+#+SLUG: week10-mechansim
+#+TAGS: Locke, materialism, mechanism, primary qualities, secondary qualities, essence
+
+------
+
+This week we wrap up discussion of innate ideas and move on to look at Locke
+and other's conception of the physical world (or material nature) as
+/mechanistic/. We'll also look at Locke's arguments concerning our ability to
+know essences. 
+
+This week's in class notes are [[file:{filename}/notes/notes_week10.html][here]]. 
+
+** Class 14 (3/14)
+- Galileo, [[http://phil232.colinmclear.net/readings/GalileoAssayer.pdf][excerpt from The Assayer]]
+- Boyle, [[file:{filename}/readings/boyle1991_matter.pdf][On the Origins of Forms and Qualities]] (pp. 50-53)
+- Locke, /ECHU/ Bk. II, Chs. 1-8 (focus especially on ch. 8)
+- [[http://notebook.colinmclear.net/qualities][Notes on the primary/secondary quality distinction]]
+    
+** Class 15 (3/16)
+- Locke, /ECHU/   
+  - III.iii.11-20 (especially 15-17)
+  - III.vi.1-20
+
+
+** Reading Questions
+- Do Galileo, Descartes, Boyle, and Locke all share the same
+  conception of the material world (i.e. matter or corporeal nature)?
+- What are "primary" and "secondary" qualities?
+- Are there differences in the ways in which different figures argue
+  for the primary/secondary distinction?
+- To what extent does Locke think that we can achieve a scientific
+  understanding of corporeal nature? Does his view differ from that of Descartes?
+- What is the distinction between nominal and real essence?
+- Does Locke think that there are mind-independent essences?
+- What is the relation, for Locke, between corpuscularianism and his
+  conception of (real) essence?

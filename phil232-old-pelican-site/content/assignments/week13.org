@@ -1,0 +1,33 @@
+#+TITLE: Week 13 - Spinoza's Monism & Hume's Mind
+#+DATE: April 9, 2018
+#+SLUG: week13-spinoza
+#+TAGS: essence, grounding, monism, substance, Spinoza
+
+------
+
+This week we look at Spinoza's infamous monism as an approach to resolving
+ambiguities and issues in Descartes's conception of substance. We'll discuss
+Spinoza's argument that there can be only one substance, which he identifies
+as God or Nature. And we'll look at some criticism of that argument. We'll
+also start our discussion of Hume's conception of the mind. 
+
+Notes from class are [[file:{filename}/notes/notes_week13.html][here]]
+
+** Class (4/10)
+- Spinoza, [[file:{filename}/readings/spinoza_ethics_I.pdf][/Ethics/ bk. I]] (we'll focus on P5, P7, P11, and P14)
+- Optional: Leibniz, [[https://www.dropbox.com/s/z1bfmgk8juy3d77/leibniz1969i__on_the_ethics_of_benedict_de_spinoza.pdf?dl=0%0A][/On Spinoza's Ethics/]] (the relevant objection is on p. 198-9)
+- Recommended: Della Rocca, "[[https://www.dropbox.com/s/2dbf1h4nyoe81d1/dellarocca2008-ch2_the_metaphysics_of_substance.pdf?dl=0%0A][The Metaphysics of Substance]]"
+- [[http://notebook.colinmclear.net/spinoza-monism][Notes on Spinoza's Monism]]
+
+** Class  (4/12)
+- Hume, /Enquiry/ chs. 1-3, 12
+- [[http://notebook.colinmclear.net/hume-mind][Notes on Hume's mind]]
+
+
+** Reading Questions
+- What is the 'principle of sufficient reason'? 
+- What is 'monism'?
+- What is Spinoza's definition of a 'substance'? How does it differ from Descartes's?
+- What is Leibniz's objection to Spinoza's claim that no two substances can share an attribute (1p5)?
+- What are 'impressions' and 'ideas' according to Hume?
+- What is the "Copy Principle"?

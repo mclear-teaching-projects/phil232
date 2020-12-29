@@ -1,0 +1,665 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<!-- 2018-02-27 Tue 14:49 -->
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>In-Class Notes</title>
+<meta name="generator" content="Org mode" />
+<meta name="author" content="Colin McLear" />
+<style type="text/css">
+ <!--/*--><![CDATA[/*><!--*/
+  .title  { text-align: center;
+             margin-bottom: .2em; }
+  .subtitle { text-align: center;
+              font-size: medium;
+              font-weight: bold;
+              margin-top:0; }
+  .todo   { font-family: monospace; color: red; }
+  .done   { font-family: monospace; color: green; }
+  .priority { font-family: monospace; color: orange; }
+  .tag    { background-color: #eee; font-family: monospace;
+            padding: 2px; font-size: 80%; font-weight: normal; }
+  .timestamp { color: #bebebe; }
+  .timestamp-kwd { color: #5f9ea0; }
+  .org-right  { margin-left: auto; margin-right: 0px;  text-align: right; }
+  .org-left   { margin-left: 0px;  margin-right: auto; text-align: left; }
+  .org-center { margin-left: auto; margin-right: auto; text-align: center; }
+  .underline { text-decoration: underline; }
+  #postamble p, #preamble p { font-size: 90%; margin: .2em; }
+  p.verse { margin-left: 3%; }
+  pre {
+    border: 1px solid #ccc;
+    box-shadow: 3px 3px 3px #eee;
+    padding: 8pt;
+    font-family: monospace;
+    overflow: auto;
+    margin: 1.2em;
+  }
+  pre.src {
+    position: relative;
+    overflow: visible;
+    padding-top: 1.2em;
+  }
+  pre.src:before {
+    display: none;
+    position: absolute;
+    background-color: white;
+    top: -10px;
+    right: 10px;
+    padding: 3px;
+    border: 1px solid black;
+  }
+  pre.src:hover:before { display: inline;}
+  /* Languages per Org manual */
+  pre.src-asymptote:before { content: 'Asymptote'; }
+  pre.src-awk:before { content: 'Awk'; }
+  pre.src-C:before { content: 'C'; }
+  /* pre.src-C++ doesn't work in CSS */
+  pre.src-clojure:before { content: 'Clojure'; }
+  pre.src-css:before { content: 'CSS'; }
+  pre.src-D:before { content: 'D'; }
+  pre.src-ditaa:before { content: 'ditaa'; }
+  pre.src-dot:before { content: 'Graphviz'; }
+  pre.src-calc:before { content: 'Emacs Calc'; }
+  pre.src-emacs-lisp:before { content: 'Emacs Lisp'; }
+  pre.src-fortran:before { content: 'Fortran'; }
+  pre.src-gnuplot:before { content: 'gnuplot'; }
+  pre.src-haskell:before { content: 'Haskell'; }
+  pre.src-hledger:before { content: 'hledger'; }
+  pre.src-java:before { content: 'Java'; }
+  pre.src-js:before { content: 'Javascript'; }
+  pre.src-latex:before { content: 'LaTeX'; }
+  pre.src-ledger:before { content: 'Ledger'; }
+  pre.src-lisp:before { content: 'Lisp'; }
+  pre.src-lilypond:before { content: 'Lilypond'; }
+  pre.src-lua:before { content: 'Lua'; }
+  pre.src-matlab:before { content: 'MATLAB'; }
+  pre.src-mscgen:before { content: 'Mscgen'; }
+  pre.src-ocaml:before { content: 'Objective Caml'; }
+  pre.src-octave:before { content: 'Octave'; }
+  pre.src-org:before { content: 'Org mode'; }
+  pre.src-oz:before { content: 'OZ'; }
+  pre.src-plantuml:before { content: 'Plantuml'; }
+  pre.src-processing:before { content: 'Processing.js'; }
+  pre.src-python:before { content: 'Python'; }
+  pre.src-R:before { content: 'R'; }
+  pre.src-ruby:before { content: 'Ruby'; }
+  pre.src-sass:before { content: 'Sass'; }
+  pre.src-scheme:before { content: 'Scheme'; }
+  pre.src-screen:before { content: 'Gnu Screen'; }
+  pre.src-sed:before { content: 'Sed'; }
+  pre.src-sh:before { content: 'shell'; }
+  pre.src-sql:before { content: 'SQL'; }
+  pre.src-sqlite:before { content: 'SQLite'; }
+  /* additional languages in org.el's org-babel-load-languages alist */
+  pre.src-forth:before { content: 'Forth'; }
+  pre.src-io:before { content: 'IO'; }
+  pre.src-J:before { content: 'J'; }
+  pre.src-makefile:before { content: 'Makefile'; }
+  pre.src-maxima:before { content: 'Maxima'; }
+  pre.src-perl:before { content: 'Perl'; }
+  pre.src-picolisp:before { content: 'Pico Lisp'; }
+  pre.src-scala:before { content: 'Scala'; }
+  pre.src-shell:before { content: 'Shell Script'; }
+  pre.src-ebnf2ps:before { content: 'ebfn2ps'; }
+  /* additional language identifiers per "defun org-babel-execute"
+       in ob-*.el */
+  pre.src-cpp:before  { content: 'C++'; }
+  pre.src-abc:before  { content: 'ABC'; }
+  pre.src-coq:before  { content: 'Coq'; }
+  pre.src-groovy:before  { content: 'Groovy'; }
+  /* additional language identifiers from org-babel-shell-names in
+     ob-shell.el: ob-shell is the only babel language using a lambda to put
+     the execution function name together. */
+  pre.src-bash:before  { content: 'bash'; }
+  pre.src-csh:before  { content: 'csh'; }
+  pre.src-ash:before  { content: 'ash'; }
+  pre.src-dash:before  { content: 'dash'; }
+  pre.src-ksh:before  { content: 'ksh'; }
+  pre.src-mksh:before  { content: 'mksh'; }
+  pre.src-posh:before  { content: 'posh'; }
+  /* Additional Emacs modes also supported by the LaTeX listings package */
+  pre.src-ada:before { content: 'Ada'; }
+  pre.src-asm:before { content: 'Assembler'; }
+  pre.src-caml:before { content: 'Caml'; }
+  pre.src-delphi:before { content: 'Delphi'; }
+  pre.src-html:before { content: 'HTML'; }
+  pre.src-idl:before { content: 'IDL'; }
+  pre.src-mercury:before { content: 'Mercury'; }
+  pre.src-metapost:before { content: 'MetaPost'; }
+  pre.src-modula-2:before { content: 'Modula-2'; }
+  pre.src-pascal:before { content: 'Pascal'; }
+  pre.src-ps:before { content: 'PostScript'; }
+  pre.src-prolog:before { content: 'Prolog'; }
+  pre.src-simula:before { content: 'Simula'; }
+  pre.src-tcl:before { content: 'tcl'; }
+  pre.src-tex:before { content: 'TeX'; }
+  pre.src-plain-tex:before { content: 'Plain TeX'; }
+  pre.src-verilog:before { content: 'Verilog'; }
+  pre.src-vhdl:before { content: 'VHDL'; }
+  pre.src-xml:before { content: 'XML'; }
+  pre.src-nxml:before { content: 'XML'; }
+  /* add a generic configuration mode; LaTeX export needs an additional
+     (add-to-list 'org-latex-listings-langs '(conf " ")) in .emacs */
+  pre.src-conf:before { content: 'Configuration File'; }
+
+  table { border-collapse:collapse; }
+  caption.t-above { caption-side: top; }
+  caption.t-bottom { caption-side: bottom; }
+  td, th { vertical-align:top;  }
+  th.org-right  { text-align: center;  }
+  th.org-left   { text-align: center;   }
+  th.org-center { text-align: center; }
+  td.org-right  { text-align: right;  }
+  td.org-left   { text-align: left;   }
+  td.org-center { text-align: center; }
+  dt { font-weight: bold; }
+  .footpara { display: inline; }
+  .footdef  { margin-bottom: 1em; }
+  .figure { padding: 1em; }
+  .figure p { text-align: center; }
+  .inlinetask {
+    padding: 10px;
+    border: 2px solid gray;
+    margin: 10px;
+    background: #ffffcc;
+  }
+  #org-div-home-and-up
+   { text-align: right; font-size: 70%; white-space: nowrap; }
+  textarea { overflow-x: auto; }
+  .linenr { font-size: smaller }
+  .code-highlighted { background-color: #ffff00; }
+  .org-info-js_info-navigation { border-style: none; }
+  #org-info-js_console-label
+    { font-size: 10px; font-weight: bold; white-space: nowrap; }
+  .org-info-js_search-highlight
+    { background-color: #ffff00; color: #000000; font-weight: bold; }
+  .org-svg { width: 90%; }
+  /*]]>*/-->
+</style>
+<script type="text/javascript">
+/*
+@licstart  The following is the entire license notice for the
+JavaScript code in this tag.
+
+Copyright (C) 2012-2018 Free Software Foundation, Inc.
+
+The JavaScript code in this tag is free software: you can
+redistribute it and/or modify it under the terms of the GNU
+General Public License (GNU GPL) as published by the Free Software
+Foundation, either version 3 of the License, or (at your option)
+any later version.  The code is distributed WITHOUT ANY WARRANTY;
+without even the implied warranty of MERCHANTABILITY or FITNESS
+FOR A PARTICULAR PURPOSE.  See the GNU GPL for more details.
+
+As additional permission under GNU GPL version 3 section 7, you
+may distribute non-source (e.g., minimized or compacted) forms of
+that code without the copy of the GNU GPL normally required by
+section 4, provided you include this license notice and a URL
+through which recipients can access the Corresponding Source.
+
+
+@licend  The above is the entire license notice
+for the JavaScript code in this tag.
+*/
+<!--/*--><![CDATA[/*><!--*/
+ function CodeHighlightOn(elem, id)
+ {
+   var target = document.getElementById(id);
+   if(null != target) {
+     elem.cacheClassElem = elem.className;
+     elem.cacheClassTarget = target.className;
+     target.className = "code-highlighted";
+     elem.className   = "code-highlighted";
+   }
+ }
+ function CodeHighlightOff(elem, id)
+ {
+   var target = document.getElementById(id);
+   if(elem.cacheClassElem)
+     elem.className = elem.cacheClassElem;
+   if(elem.cacheClassTarget)
+     target.className = elem.cacheClassTarget;
+ }
+/*]]>*///-->
+</script>
+</head>
+<body>
+<div id="content">
+<h1 class="title">In-Class Notes</h1>
+<div id="table-of-contents">
+<h2>Table of Contents</h2>
+<div id="text-table-of-contents">
+<ul>
+<li><a href="#org3a742f3">Week 8 (2/26)</a>
+<ul>
+<li><a href="#orgfb78265">Proof of the External world</a>
+<ul>
+<li><a href="#orgdec97e3">The text</a></li>
+<li><a href="#org368438e">The Argument:</a></li>
+</ul>
+</li>
+<li><a href="#org148c073">Removing the dream doubt (7:89-90)</a>
+<ul>
+<li><a href="#org281c0b6">Objection</a></li>
+</ul>
+</li>
+<li><a href="#org382771c">Wrap-up of Descartes</a>
+<ul>
+<li><a href="#org9605ef4">RR Questions</a></li>
+<li><a href="#orgcb89c50">Descartes’s Legacy:</a></li>
+</ul>
+</li>
+<li><a href="#org5206e08">Mid-term review</a>
+<ul>
+<li><a href="#org391aa26">Discourse on the Method</a></li>
+<li><a href="#org10607dd">The Meditations</a></li>
+<li><a href="#org6ba832e">Correspondence with Elisabeth</a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-org3a742f3" class="outline-2">
+<h2 id="org3a742f3">Week 8 (2/26)</h2>
+<div class="outline-text-2" id="text-org3a742f3">
+</div>
+<div id="outline-container-orgfb78265" class="outline-3">
+<h3 id="orgfb78265">Proof of the External world</h3>
+<div class="outline-text-3" id="text-orgfb78265">
+</div>
+<div id="outline-container-orgdec97e3" class="outline-4">
+<h4 id="orgdec97e3">The text</h4>
+<div class="outline-text-4" id="text-orgdec97e3">
+<p>
+The text of the argument is at 7:79
+</p>
+
+<blockquote>
+<p>
+Now there is in me a passive faculty of sensory perception, that is, a
+faculty for receiving and recognizing the ideas of sensible objects;
+but I could not make use of it unless there was also an active
+faculty, either in me or in something else, which produced or brought
+about these ideas. But this faculty cannot be in me, since clearly it
+presupposes no intellectual act on my part, I and the ideas in
+question are produced without my cooperation and often even against my
+will. So the only alternative is that it is in another substance
+distinct from me &#x2013; a substance which contains either formally or
+eminently all the reality which exists objectively in the ideas
+produced by this faculty (as I have just noted).
+</p>
+
+<p>
+This substance is either (a) a body, that is, a corporeal nature, in
+which case it will contain formally everything which is to be found
+objectively in the ideas; or else it is (b) God, or some creature more
+noble than a body, in which case it will contain eminently whatever is
+to be found in the ideas.
+</p>
+</blockquote>
+
+<p>
+Descartes then gives his argument for rejecting (b):
+</p>
+
+<blockquote>
+<p>
+But since God is not a deceiver, it is quite clear that he does not
+transmit the ideas to me either directly from himself, or indirectly,
+via some creature which contains the objective reality of the ideas
+not formally but only eminently. For God has given me no faculty at
+all for recognizing any such source for these ideas; on the contrary,
+he has given me a great propensity to believe that they are produced
+by corporeal things. So I do not see how God could be understood to be
+anything but a deceiver if the ideas were transmitted from a source
+other than corporeal things. It follows that corporeal things exist. (7:79-80)
+</p>
+</blockquote>
+</div>
+</div>
+
+
+<div id="outline-container-org368438e" class="outline-4">
+<h4 id="org368438e">The Argument:</h4>
+<div class="outline-text-4" id="text-org368438e">
+<ol class="org-ol">
+<li>We have sensory ideas, which purport to be of external material things</li>
+<li>The function of our sensory faculty is to reveal information about our environment</li>
+<li>Our sensory faculty is passive, so our sensory ideas must come from
+somewhere external to us</li>
+<li>Sensory ideas come from either (a) bodies or (b) ‘higher’ non-material
+beings (angels, God) [causal principle]</li>
+<li>If our sensory ideas of bodies were not caused by bodies then God would be
+a deceiver [from 1, 2, 4]</li>
+<li>God is no deceiver</li>
+<li>∴  There exist material bodies that are the causes of our ideas</li>
+</ol>
+</div>
+</div>
+</div>
+
+<div id="outline-container-org148c073" class="outline-3">
+<h3 id="org148c073">Removing the dream doubt (7:89-90)</h3>
+<div class="outline-text-3" id="text-org148c073">
+<blockquote>
+<p>
+Accordingly, I should not have any further fears about the falsity of what my
+senses tell me every day; on the contrary, the exaggerated doubts of the last few
+days should be dismissed as laughable. This applies especially to the principal
+reason for doubt, namely my inability to distinguish between being asleep and
+being awake. For I now notice that there is a vast difference between the two,
+in that dreams are never linked by memory with all the other actions of life as
+waking experiences are. If, while I am awake, anyone were suddenly to appear to
+me and then disappear immediately, as happens in sleep, so that I could not see
+where he had 90 come from or where he had gone to, it would not be unreasonable
+for me to judge that he was a ghost, or a vision created in my brain, rather
+than a real man. But when I distinctly see where things come from and where and
+when they come to me, and when I can connect my perceptions of them with the
+whole of the rest of my life without a break, then I am quite certain that when
+I encounter these things I am not asleep but awake. And I ought not to have even
+the slightest doubt of their reality if, after calling upon all the senses as
+well as my memory and my intellect in order to check them, I receive no
+conflicting reports from any of these sources. For from the fact that God is not
+a deceiver it follows that in cases like these I am completely free from error.
+(7:89-90)
+</p>
+</blockquote>
+
+<p>
+So, if the senses, memory, and intellect all confirm the continuity of our
+present experience with the past, then, since God is no deceiver, we can safely
+be certain that our present situation is not a dream.
+</p>
+</div>
+
+<div id="outline-container-org281c0b6" class="outline-4">
+<h4 id="org281c0b6">Objection</h4>
+<div class="outline-text-4" id="text-org281c0b6">
+<ul class="org-ul">
+<li>Couldn’t we feasibly form an extended set of memories in a dream too?</li>
+</ul>
+</div>
+</div>
+</div>
+
+<div id="outline-container-org382771c" class="outline-3">
+<h3 id="org382771c">Wrap-up of Descartes</h3>
+<div class="outline-text-3" id="text-org382771c">
+</div>
+<div id="outline-container-org9605ef4" class="outline-4">
+<h4 id="org9605ef4">RR Questions</h4>
+</div>
+
+<div id="outline-container-orgcb89c50" class="outline-4">
+<h4 id="orgcb89c50">Descartes’s Legacy:</h4>
+<div class="outline-text-4" id="text-orgcb89c50">
+</div>
+<ul class="org-ul">
+<li><a id="org56bd562"></a>The Nature of the Subject<br />
+<div class="outline-text-5" id="text-org56bd562">
+<ul class="org-ul">
+<li>The subject is a <i>substance</i> 
+<ul class="org-ul">
+<li>The subject is fundamentally active</li>
+<li>The subject has real and independent causal powers</li>
+<li>The subject does not inhere in anything (i.e. it is not a property)</li>
+</ul></li>
+</ul>
+</div>
+</li>
+
+<li><a id="orgfbc3f32"></a>The Centrality of Self-Knowledge<br />
+<div class="outline-text-5" id="text-orgfbc3f32">
+<ul class="org-ul">
+<li>Immune to skeptical challenge</li>
+<li>Example of a reliable method for acquiring knowledge generally (i.e.
+method of clear &amp; distinct perception)</li>
+<li>Provides us with knowledge of our essence/nature</li>
+<li>Reflection on our nature provides us with the content of various ideas
+necessary for metaphysics (e.g. substance, causation, unity, truth) 
+<ul class="org-ul">
+<li>Issue of innate ideas &#x2013; what exactly are they and in what sens innate?</li>
+</ul></li>
+<li>The importance of determining what the mind can do/how it can know
+anything for building a stable/reliable science</li>
+<li>Empiricism vs. innate ideas known via reflection alone</li>
+</ul>
+</div>
+</li>
+
+<li><a id="org9660439"></a>Substance Dualism<br />
+<div class="outline-text-5" id="text-org9660439">
+<ul class="org-ul">
+<li>Mind/soul and body are distinct and independent kinds of substance</li>
+<li>Problem of explaining causation in and between minds and bodies</li>
+</ul>
+</div>
+</li>
+
+<li><a id="org3e7bb3d"></a>Science &amp; Essence<br />
+<div class="outline-text-5" id="text-org3e7bb3d">
+<ul class="org-ul">
+<li>Knowledge of nature depends on knowledge of essences</li>
+<li>Knowledge of essences depends on the pure intellect</li>
+</ul>
+</div>
+</li>
+</ul>
+</div>
+</div>
+
+
+<div id="outline-container-org5206e08" class="outline-3">
+<h3 id="org5206e08">Mid-term review</h3>
+<div class="outline-text-3" id="text-org5206e08">
+</div>
+<div id="outline-container-org391aa26" class="outline-4">
+<h4 id="org391aa26">Discourse on the Method</h4>
+<div class="outline-text-4" id="text-org391aa26">
+</div>
+<ul class="org-ul">
+<li><a id="org1694cc2"></a>The Method<br />
+<div class="outline-text-5" id="text-org1694cc2">
+<ol class="org-ol">
+<li>Accept as true only that for which one has proper evidence—viz., clear
+and distinct ideas;</li>
+<li>Resolve problems into their simplest parts;</li>
+<li>Move from the simple and known to the complex;</li>
+<li>Thoroughly review and check one’s work to be sure it is comprehensive and
+complete</li>
+</ol>
+</div>
+</li>
+</ul>
+</div>
+<div id="outline-container-org10607dd" class="outline-4">
+<h4 id="org10607dd">The Meditations</h4>
+<div class="outline-text-4" id="text-org10607dd">
+</div>
+<ul class="org-ul">
+<li><a id="orgd6fbba9"></a>Med 1<br />
+<ul class="org-ul">
+<li><a id="org0bde785"></a>The Project: develop a stable and lasting science<br />
+<div class="outline-text-6" id="text-org0bde785">
+<ul class="org-ul">
+<li>Develop a science that is "stable and likely to last"</li>
+<li id="Epistemic foundationalism">All knowledge may be divided into two
+classes&#x2014;basic and derived. Knowledge of the basic truths is immediate
+and non-inferential. All other knowledge is derived from this basic knowledge.</li>
+</ul>
+</div>
+</li>
+<li><a id="org46ee703"></a>The Method of doubt<br />
+<div class="outline-text-6" id="text-org46ee703">
+<ul class="org-ul">
+<li>We need a reliable method for acquiring knowledge
+<ul class="org-ul">
+<li>the method of doubt
+<ul class="org-ul">
+<li>turn us away from the senses as a reliable means of acquiring knowledge</li>
+<li>emphasis on the pure intellect as the organ by which we acquire knowledge</li>
+</ul></li>
+</ul></li>
+</ul>
+</div>
+</li>
+</ul>
+</li>
+
+<li><a id="org3ea69d9"></a>Med 2<br />
+<ul class="org-ul">
+<li><a id="org2d177c8"></a>The Cogito<br />
+<div class="outline-text-6" id="text-org2d177c8">
+<p>
+"I exist" is true whenever it is thought
+</p>
+</div>
+
+<ul class="org-ul">
+<li><a id="org58d4693"></a>Problems:<br />
+<div class="outline-text-7" id="text-org58d4693">
+<ol class="org-ol">
+<li>Begs the question</li>
+<li>Circularity</li>
+</ol>
+</div>
+</li>
+</ul>
+</li>
+<li><a id="org3e92d78"></a>The Wax argument<br />
+<div class="outline-text-6" id="text-org3e92d78">
+<ul class="org-ul">
+<li>Aims to show two things: 
+<ol class="org-ol">
+<li>We know things (substances) via the intellect not the senses</li>
+<li>The mind is better known than any body</li>
+</ol></li>
+</ul>
+</div>
+</li>
+</ul>
+</li>
+<li><a id="orgebd368f"></a>Med 3<br />
+<div class="outline-text-5" id="text-orgebd368f">
+<ul class="org-ul">
+<li>The truth rule
+<dl class="org-dl">
+<dt>Truth Rule</dt><dd>Whenever I C&amp;D perceive then what I perceive is true &amp; I can be certain of it <i>as such</i></dd>
+</dl></li>
+<li>The three sources of ideas</li>
+<li>Two proofs of the existence of God
+<ol class="org-ol">
+<li>Causal argument</li>
+<li>Preservation argument</li>
+</ol></li>
+</ul>
+</div>
+</li>
+<li><a id="orgfe53a8f"></a>Med 4<br />
+<div class="outline-text-5" id="text-orgfe53a8f">
+<ul class="org-ul">
+<li>Problem of error
+<ul class="org-ul">
+<li>error arises due to the combined exercise of the will and intelllect</li>
+</ul></li>
+</ul>
+</div>
+</li>
+<li><a id="orgff2d3dc"></a>Med 5<br />
+<ul class="org-ul">
+<li><a id="orgfb71b3a"></a>Knowledge of essences via the intellect<br />
+<div class="outline-text-6" id="text-orgfb71b3a">
+<ul class="org-ul">
+<li>Primary attribute as essential property of a substance</li>
+
+<li id="essential property">(i) necessary property of a thing that (ii)
+makes it the kind of thing that it is and (iii) explains other
+properties that a thing may have</li>
+</ul>
+
+
+<ol class="org-ol">
+<li>Intellectual/intelligible claim: idea of quantity entails other
+ideas (extension entails &amp; is entailed by shape, size, etc)</li>
+<li>Metaphysical claim : reality is such that if there is extension then
+there is a metaphysical dependence of size, shape, etc., on it</li>
+
+<li>We have knowledge of both our own nature and the nature &amp; existence of material bodies</li>
+</ol>
+</div>
+</li>
+
+<li><a id="org1cffdf6"></a>Ontological Argument<br />
+<div class="outline-text-6" id="text-org1cffdf6">
+<ul class="org-ul">
+<li>God's essence includes its existence</li>
+</ul>
+</div>
+</li>
+</ul>
+</li>
+
+<li><a id="org1521589"></a>Med 6<br />
+<div class="outline-text-5" id="text-org1521589">
+<ul class="org-ul">
+<li>Using C&amp;D method to provide the metaphysical basis for a science of nature
+<ul class="org-ul">
+<li>Real Distinction arg: there are two kinds of things &#x2013; minds &amp; bodies
+<ul class="org-ul">
+<li>essence of mind is thought</li>
+<li>essence of body is extension
+<ul class="org-ul">
+<li>the science of body (physics) is, at its basis, purely intellectual</li>
+<li>our senses give us knowledge of the practical benefits and perils
+bodies present to us, but they give us only a confused understanding
+of what bodies actually are</li>
+</ul></li>
+</ul></li>
+<li>essences are known through pure reflection - our ideas of essences are innate and furnished to the mind by God</li>
+</ul></li>
+</ul>
+</div>
+</li>
+</ul>
+</div>
+
+<div id="outline-container-org6ba832e" class="outline-4">
+<h4 id="org6ba832e">Correspondence with Elisabeth</h4>
+<div class="outline-text-4" id="text-org6ba832e">
+</div>
+<ul class="org-ul">
+<li><a id="org96f0850"></a>Elisabeth's objection<br />
+<div class="outline-text-5" id="text-org96f0850">
+<ul class="org-ul">
+<li>If all motion requires impact then how could an unextended thing ever move
+an extended thing and vice versa?</li>
+</ul>
+</div>
+</li>
+
+<li><a id="orgd04c110"></a>Descartes's reply<br />
+<div class="outline-text-5" id="text-orgd04c110">
+<ul class="org-ul">
+<li>Mind, body, and mind-body unity are three "primitive" notions, and we
+shouldn't understand any of the one in the terms set by the other(s)</li>
+</ul>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div id="postamble" class="status">
+<p class="author">Author: Colin McLear</p>
+<p class="date">Created: 2018-02-27 Tue 14:49</p>
+<p class="validation"><a href="http://validator.w3.org/check?uri=referer">Validate</a></p>
+</div>
+</body>
+</html>

@@ -1,0 +1,580 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<!-- 2018-04-06 Fri 10:15 -->
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>In-Class Notes</title>
+<meta name="generator" content="Org mode" />
+<meta name="author" content="Colin McLear" />
+<style type="text/css">
+ <!--/*--><![CDATA[/*><!--*/
+  .title  { text-align: center;
+             margin-bottom: .2em; }
+  .subtitle { text-align: center;
+              font-size: medium;
+              font-weight: bold;
+              margin-top:0; }
+  .todo   { font-family: monospace; color: red; }
+  .done   { font-family: monospace; color: green; }
+  .priority { font-family: monospace; color: orange; }
+  .tag    { background-color: #eee; font-family: monospace;
+            padding: 2px; font-size: 80%; font-weight: normal; }
+  .timestamp { color: #bebebe; }
+  .timestamp-kwd { color: #5f9ea0; }
+  .org-right  { margin-left: auto; margin-right: 0px;  text-align: right; }
+  .org-left   { margin-left: 0px;  margin-right: auto; text-align: left; }
+  .org-center { margin-left: auto; margin-right: auto; text-align: center; }
+  .underline { text-decoration: underline; }
+  #postamble p, #preamble p { font-size: 90%; margin: .2em; }
+  p.verse { margin-left: 3%; }
+  pre {
+    border: 1px solid #ccc;
+    box-shadow: 3px 3px 3px #eee;
+    padding: 8pt;
+    font-family: monospace;
+    overflow: auto;
+    margin: 1.2em;
+  }
+  pre.src {
+    position: relative;
+    overflow: visible;
+    padding-top: 1.2em;
+  }
+  pre.src:before {
+    display: none;
+    position: absolute;
+    background-color: white;
+    top: -10px;
+    right: 10px;
+    padding: 3px;
+    border: 1px solid black;
+  }
+  pre.src:hover:before { display: inline;}
+  /* Languages per Org manual */
+  pre.src-asymptote:before { content: 'Asymptote'; }
+  pre.src-awk:before { content: 'Awk'; }
+  pre.src-C:before { content: 'C'; }
+  /* pre.src-C++ doesn't work in CSS */
+  pre.src-clojure:before { content: 'Clojure'; }
+  pre.src-css:before { content: 'CSS'; }
+  pre.src-D:before { content: 'D'; }
+  pre.src-ditaa:before { content: 'ditaa'; }
+  pre.src-dot:before { content: 'Graphviz'; }
+  pre.src-calc:before { content: 'Emacs Calc'; }
+  pre.src-emacs-lisp:before { content: 'Emacs Lisp'; }
+  pre.src-fortran:before { content: 'Fortran'; }
+  pre.src-gnuplot:before { content: 'gnuplot'; }
+  pre.src-haskell:before { content: 'Haskell'; }
+  pre.src-hledger:before { content: 'hledger'; }
+  pre.src-java:before { content: 'Java'; }
+  pre.src-js:before { content: 'Javascript'; }
+  pre.src-latex:before { content: 'LaTeX'; }
+  pre.src-ledger:before { content: 'Ledger'; }
+  pre.src-lisp:before { content: 'Lisp'; }
+  pre.src-lilypond:before { content: 'Lilypond'; }
+  pre.src-lua:before { content: 'Lua'; }
+  pre.src-matlab:before { content: 'MATLAB'; }
+  pre.src-mscgen:before { content: 'Mscgen'; }
+  pre.src-ocaml:before { content: 'Objective Caml'; }
+  pre.src-octave:before { content: 'Octave'; }
+  pre.src-org:before { content: 'Org mode'; }
+  pre.src-oz:before { content: 'OZ'; }
+  pre.src-plantuml:before { content: 'Plantuml'; }
+  pre.src-processing:before { content: 'Processing.js'; }
+  pre.src-python:before { content: 'Python'; }
+  pre.src-R:before { content: 'R'; }
+  pre.src-ruby:before { content: 'Ruby'; }
+  pre.src-sass:before { content: 'Sass'; }
+  pre.src-scheme:before { content: 'Scheme'; }
+  pre.src-screen:before { content: 'Gnu Screen'; }
+  pre.src-sed:before { content: 'Sed'; }
+  pre.src-sh:before { content: 'shell'; }
+  pre.src-sql:before { content: 'SQL'; }
+  pre.src-sqlite:before { content: 'SQLite'; }
+  /* additional languages in org.el's org-babel-load-languages alist */
+  pre.src-forth:before { content: 'Forth'; }
+  pre.src-io:before { content: 'IO'; }
+  pre.src-J:before { content: 'J'; }
+  pre.src-makefile:before { content: 'Makefile'; }
+  pre.src-maxima:before { content: 'Maxima'; }
+  pre.src-perl:before { content: 'Perl'; }
+  pre.src-picolisp:before { content: 'Pico Lisp'; }
+  pre.src-scala:before { content: 'Scala'; }
+  pre.src-shell:before { content: 'Shell Script'; }
+  pre.src-ebnf2ps:before { content: 'ebfn2ps'; }
+  /* additional language identifiers per "defun org-babel-execute"
+       in ob-*.el */
+  pre.src-cpp:before  { content: 'C++'; }
+  pre.src-abc:before  { content: 'ABC'; }
+  pre.src-coq:before  { content: 'Coq'; }
+  pre.src-groovy:before  { content: 'Groovy'; }
+  /* additional language identifiers from org-babel-shell-names in
+     ob-shell.el: ob-shell is the only babel language using a lambda to put
+     the execution function name together. */
+  pre.src-bash:before  { content: 'bash'; }
+  pre.src-csh:before  { content: 'csh'; }
+  pre.src-ash:before  { content: 'ash'; }
+  pre.src-dash:before  { content: 'dash'; }
+  pre.src-ksh:before  { content: 'ksh'; }
+  pre.src-mksh:before  { content: 'mksh'; }
+  pre.src-posh:before  { content: 'posh'; }
+  /* Additional Emacs modes also supported by the LaTeX listings package */
+  pre.src-ada:before { content: 'Ada'; }
+  pre.src-asm:before { content: 'Assembler'; }
+  pre.src-caml:before { content: 'Caml'; }
+  pre.src-delphi:before { content: 'Delphi'; }
+  pre.src-html:before { content: 'HTML'; }
+  pre.src-idl:before { content: 'IDL'; }
+  pre.src-mercury:before { content: 'Mercury'; }
+  pre.src-metapost:before { content: 'MetaPost'; }
+  pre.src-modula-2:before { content: 'Modula-2'; }
+  pre.src-pascal:before { content: 'Pascal'; }
+  pre.src-ps:before { content: 'PostScript'; }
+  pre.src-prolog:before { content: 'Prolog'; }
+  pre.src-simula:before { content: 'Simula'; }
+  pre.src-tcl:before { content: 'tcl'; }
+  pre.src-tex:before { content: 'TeX'; }
+  pre.src-plain-tex:before { content: 'Plain TeX'; }
+  pre.src-verilog:before { content: 'Verilog'; }
+  pre.src-vhdl:before { content: 'VHDL'; }
+  pre.src-xml:before { content: 'XML'; }
+  pre.src-nxml:before { content: 'XML'; }
+  /* add a generic configuration mode; LaTeX export needs an additional
+     (add-to-list 'org-latex-listings-langs '(conf " ")) in .emacs */
+  pre.src-conf:before { content: 'Configuration File'; }
+
+  table { border-collapse:collapse; }
+  caption.t-above { caption-side: top; }
+  caption.t-bottom { caption-side: bottom; }
+  td, th { vertical-align:top;  }
+  th.org-right  { text-align: center;  }
+  th.org-left   { text-align: center;   }
+  th.org-center { text-align: center; }
+  td.org-right  { text-align: right;  }
+  td.org-left   { text-align: left;   }
+  td.org-center { text-align: center; }
+  dt { font-weight: bold; }
+  .footpara { display: inline; }
+  .footdef  { margin-bottom: 1em; }
+  .figure { padding: 1em; }
+  .figure p { text-align: center; }
+  .inlinetask {
+    padding: 10px;
+    border: 2px solid gray;
+    margin: 10px;
+    background: #ffffcc;
+  }
+  #org-div-home-and-up
+   { text-align: right; font-size: 70%; white-space: nowrap; }
+  textarea { overflow-x: auto; }
+  .linenr { font-size: smaller }
+  .code-highlighted { background-color: #ffff00; }
+  .org-info-js_info-navigation { border-style: none; }
+  #org-info-js_console-label
+    { font-size: 10px; font-weight: bold; white-space: nowrap; }
+  .org-info-js_search-highlight
+    { background-color: #ffff00; color: #000000; font-weight: bold; }
+  .org-svg { width: 90%; }
+  /*]]>*/-->
+</style>
+<script type="text/javascript">
+/*
+@licstart  The following is the entire license notice for the
+JavaScript code in this tag.
+
+Copyright (C) 2012-2018 Free Software Foundation, Inc.
+
+The JavaScript code in this tag is free software: you can
+redistribute it and/or modify it under the terms of the GNU
+General Public License (GNU GPL) as published by the Free Software
+Foundation, either version 3 of the License, or (at your option)
+any later version.  The code is distributed WITHOUT ANY WARRANTY;
+without even the implied warranty of MERCHANTABILITY or FITNESS
+FOR A PARTICULAR PURPOSE.  See the GNU GPL for more details.
+
+As additional permission under GNU GPL version 3 section 7, you
+may distribute non-source (e.g., minimized or compacted) forms of
+that code without the copy of the GNU GPL normally required by
+section 4, provided you include this license notice and a URL
+through which recipients can access the Corresponding Source.
+
+
+@licend  The above is the entire license notice
+for the JavaScript code in this tag.
+*/
+<!--/*--><![CDATA[/*><!--*/
+ function CodeHighlightOn(elem, id)
+ {
+   var target = document.getElementById(id);
+   if(null != target) {
+     elem.cacheClassElem = elem.className;
+     elem.cacheClassTarget = target.className;
+     target.className = "code-highlighted";
+     elem.className   = "code-highlighted";
+   }
+ }
+ function CodeHighlightOff(elem, id)
+ {
+   var target = document.getElementById(id);
+   if(elem.cacheClassElem)
+     elem.className = elem.cacheClassElem;
+   if(elem.cacheClassTarget)
+     target.className = elem.cacheClassTarget;
+ }
+/*]]>*///-->
+</script>
+</head>
+<body>
+<div id="content">
+<h1 class="title">In-Class Notes</h1>
+<div id="table-of-contents">
+<h2>Table of Contents</h2>
+<div id="text-table-of-contents">
+<ul>
+<li><a href="#org05cc1a5">Week 12 (4/2)</a>
+<ul>
+<li><a href="#orgbd979a8">Quiz</a></li>
+<li><a href="#orgd608033">Locke</a>
+<ul>
+<li><a href="#orgb2fbdad">Three features of knowledge</a></li>
+<li><a href="#orgec8cd5d">Different Kinds of Knowledge</a></li>
+<li><a href="#org184c57b">Other kinds of epistemic state</a></li>
+<li><a href="#orgf680741">Can we have scientific knowledge of nature?</a></li>
+</ul>
+</li>
+<li><a href="#orgf3e878c">Leibniz</a>
+<ul>
+<li><a href="#org2d122ce">Against Matter</a></li>
+<li><a href="#org0a0069c">Leibniz's Idealism</a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-org05cc1a5" class="outline-2">
+<h2 id="org05cc1a5">Week 12 (4/2)</h2>
+<div class="outline-text-2" id="text-org05cc1a5">
+</div>
+<div id="outline-container-orgbd979a8" class="outline-3">
+<h3 id="orgbd979a8">Quiz</h3>
+<div class="outline-text-3" id="text-orgbd979a8">
+<ol class="org-ol">
+<li>T/F: Locke construes knowledge as a relation between an idea and the world
+<ul class="org-ul">
+<li>F</li>
+</ul></li>
+<li>T/F: Locke denies that knowledge must be certain
+<ul class="org-ul">
+<li>F</li>
+</ul></li>
+<li>T/F: Locke agrees with Descartes that we can achieve a demonstrative
+science of nature
+<ul class="org-ul">
+<li>F</li>
+</ul></li>
+<li>Describe what it is for the connection between the primary and
+secondary qualities of an object to be "inscrutable"
+<ul class="org-ul">
+<li>derivation of particular sensory "secondary" qualities from "primary"
+qualities is unintelligible (at least to us)</li>
+</ul></li>
+<li>T/F: Leibniz thinks that the existence of material atoms would be
+arbitrary and thus violate the PSR
+<ul class="org-ul">
+<li>T</li>
+</ul></li>
+</ol>
+</div>
+</div>
+<div id="outline-container-orgd608033" class="outline-3">
+<h3 id="orgd608033">Locke</h3>
+<div class="outline-text-3" id="text-orgd608033">
+</div>
+<div id="outline-container-orgb2fbdad" class="outline-4">
+<h4 id="orgb2fbdad">Three features of knowledge</h4>
+<div class="outline-text-4" id="text-orgb2fbdad">
+<ol class="org-ol">
+<li>Relation between ideas</li>
+<li>Subject must perceive agreement/disagreement between ideas</li>
+<li>Knowledge is certain</li>
+</ol>
+</div>
+</div>
+
+<div id="outline-container-orgec8cd5d" class="outline-4">
+<h4 id="orgec8cd5d">Different Kinds of Knowledge</h4>
+<div class="outline-text-4" id="text-orgec8cd5d">
+<ol class="org-ol">
+<li>Intuitive knowledge</li>
+<li>Demonstrative knowledge (anything arrived at via inference)</li>
+<li>Sensitive knowledge</li>
+</ol>
+</div>
+</div>
+
+<div id="outline-container-org184c57b" class="outline-4">
+<h4 id="org184c57b">Other kinds of epistemic state</h4>
+<div class="outline-text-4" id="text-org184c57b">
+</div>
+<ul class="org-ul">
+<li><a id="org785d1dc"></a>Belief<br />
+<div class="outline-text-5" id="text-org785d1dc">
+<p>
+Aims at knowledge but falls short in some way
+</p>
+</div>
+</li>
+<li><a id="org131273d"></a>Opinion<br />
+<div class="outline-text-5" id="text-org131273d">
+<p>
+Aims at knowledge but falls even further short of some evidential standard
+</p>
+</div>
+</li>
+</ul>
+</div>
+<div id="outline-container-orgf680741" class="outline-4">
+<h4 id="orgf680741">Can we have scientific knowledge of nature?</h4>
+<div class="outline-text-4" id="text-orgf680741">
+<ul class="org-ul">
+<li>Corpuscularian hypothesis + Mechanism
+<ul class="org-ul">
+<li>We can't know that the corpuscularian view is true
+<ul class="org-ul">
+<li>Obscurity of primary qualities of corpuscles: we can't have knowledge of
+the real essences of the minute material bodies</li>
+<li>Inscrutability: even if we could know the real essences of individual
+particles the connections between primary and secondary qualities are
+inscrutable to us</li>
+</ul></li>
+</ul></li>
+</ul>
+</div>
+</div>
+</div>
+
+
+<div id="outline-container-orgf3e878c" class="outline-3">
+<h3 id="orgf3e878c">Leibniz</h3>
+<div class="outline-text-3" id="text-orgf3e878c">
+</div>
+<div id="outline-container-org2d122ce" class="outline-4">
+<h4 id="org2d122ce">Against Matter</h4>
+<div class="outline-text-4" id="text-org2d122ce">
+</div>
+<ul class="org-ul">
+<li><a id="orgd750393"></a>Cartesian substance<br />
+<div class="outline-text-5" id="text-orgd750393">
+<ol class="org-ol">
+<li>Individuals (subjects of properties)</li>
+<li>Independent</li>
+</ol>
+</div>
+</li>
+<li><a id="orge896840"></a>Matter is not substantial<br />
+<div class="outline-text-5" id="text-orge896840">
+<ol class="org-ol">
+<li>All space is infinitely divisible</li>
+<li>All bodies are extended in space</li>
+<li>&there4; All bodies are infinitely divisible</li>
+<li>Bodies that are divisible are actually divided &#x2013; i.e. have parts</li>
+<li>What has parts depends for its existence on its parts</li>
+<li>&there4; All bodies depend for their existence on their parts</li>
+<li>Substance is that which does not depend on anything (except God) for its existence</li>
+<li>&there4; No material body is a substance</li>
+</ol>
+
+
+<ul class="org-ul">
+<li>What about atomism? Leibniz denies that there could be material atoms - why?
+<ol class="org-ol">
+<li>atoms are arbitrary &#x2013; the nature of materiality is such as to be
+infinitely divisible/divided. It would be contrary to reason (and PSR) to
+stop at some point in the division of matter</li>
+<li>atoms are irrelevant &#x2013; just because they haven't been divided by
+us doesn't mean that they don't have parts in the relevant sense</li>
+</ol></li>
+</ul>
+</div>
+</li>
+<li><a id="orgab35c31"></a>Matter is not fundamental (not fundamentally real)<br />
+<div class="outline-text-5" id="text-orgab35c31">
+<dl class="org-dl">
+<dt>Principle of Borrowed Reality (PBR)</dt><dd>every being derives its reality only
+from the reality of those beings of which it is composed</dd>
+</dl>
+
+
+<ol class="org-ol">
+<li>All bodies are aggregates &#x2014; they are composed of parts</li>
+<li>Aggregates borrow their reality from their component parts (PBR)</li>
+<li>There cannot be an infinite chain of borrowed realities</li>
+<li>&there4; The reality of material bodies cannot itself be explained in material terms</li>
+<li>&there4; There exists something else which is not itself material and which is
+responsible for the existence of body</li>
+
+<li>This argument, if sound, shows that the reality of matter is not something
+fundamental, but rather must explained in non-material terms.</li>
+<li>There are two possible readings of this conclusion, a 'liberal', and an
+'austere' reading.</li>
+</ol>
+</div>
+<ul class="org-ul">
+<li><a id="org7516fb2"></a>Liberal reading<br />
+<div class="outline-text-6" id="text-org7516fb2">
+<p>
+According to the liberal reading we can say that matter is real but not
+fundamental&#x2014;it is rather derived from the non-material in the sense in which
+the sound of an orchestra is derived from the sounds of the individual players
+in the orchestra. 
+</p>
+</div>
+</li>
+<li><a id="org8441ddb"></a>The austere reading<br />
+<div class="outline-text-6" id="text-org8441ddb">
+<p>
+The austere reading reserves the term 'real' for those things that are
+fundamental, so it denies that matter is real, understood as something existing
+over and above that of the fundamental non-material entities. The analogue here
+would be to deny the real existence of the sound of the orchestra because there
+is no sound that really exists over and above the existence of the sounds of
+each of the individual instruments.
+</p>
+
+<ul class="org-ul">
+<li>What about the importance of the arrangement of the parts making up any
+particular body? Wouldn't that be a potential source of reality which would
+end the 'reality regress'? 
+<ul class="org-ul">
+<li>No. Leibniz denies the ultimate reality of relations/relational
+properties. This means that we cannot find, in the relations that exist
+between the parts of a thing, some source of reality that might stop the
+regress.</li>
+</ul></li>
+</ul>
+</div>
+</li>
+</ul>
+</li>
+</ul>
+</div>
+
+
+
+<div id="outline-container-org0a0069c" class="outline-4">
+<h4 id="org0a0069c">Leibniz's Idealism</h4>
+<div class="outline-text-4" id="text-org0a0069c">
+</div>
+<ul class="org-ul">
+<li><a id="orga228b80"></a>The characteristics of substance:<br />
+<div class="outline-text-5" id="text-orga228b80">
+<ol class="org-ol">
+<li>Unity
+<ul class="org-ul">
+<li>does not have independent parts</li>
+</ul></li>
+<li>Independence
+<ul class="org-ul">
+<li>does not inhere in anything else</li>
+</ul></li>
+<li>Persistence
+<ul class="org-ul">
+<li>identity of being through change</li>
+</ul></li>
+<li>Activity
+<ul class="org-ul">
+<li>a substance is necessarily active or possesses principle of change (for
+some purpose - final causation)</li>
+</ul></li>
+<li>Individuation
+<ul class="org-ul">
+<li>a substance has a principle of individuation intrinsic to its nature</li>
+</ul></li>
+</ol>
+</div>
+</li>
+
+
+<li><a id="orgea72a98"></a>The characteristics of monads<br />
+<div class="outline-text-5" id="text-orgea72a98">
+<ol class="org-ol">
+<li>Simplicity
+<ul class="org-ul">
+<li>has no parts &#x2013; is a true unity</li>
+</ul></li>
+<li>Indestuctibility
+<ul class="org-ul">
+<li>possesses no parts</li>
+</ul></li>
+<li>Immateriality
+<ul class="org-ul">
+<li>has no parts so cannot be material</li>
+</ul></li>
+<li>Individuality
+<ul class="org-ul">
+<li>perception
+<ul class="org-ul">
+<li>various states of the monad, conscious or not</li>
+</ul></li>
+<li>appetite
+<ul class="org-ul">
+<li>principle of succession</li>
+</ul></li>
+</ul></li>
+<li><p>
+'Windowlessness' (causal isolation/independence)
+</p>
+<ul class="org-ul">
+<li>Why must monads be 'windowless'? Leibniz thinks there is no sense to be
+made of causal interaction between monads. Causal interaction would
+result either in (i) the rearrangement of parts, but monads don't have
+parts, or (ii) the transmission of an 'accident' from one thing to
+another, which Leibniz thinks is incoherent.</li>
+</ul>
+<blockquote>
+<p>
+There is also no way of explaining how a monad can be altered or changed
+internally by some other creature, since one cannot transpose anything in
+it, nor can one conceive of any internal motion that can be excited,
+directed, augmented, or diminished within it, as can be done in
+composites, where there can be change among the parts. The monads have no
+windows through which something can enter or leave. Accidents cannot be
+detached, nor can they go about outside of substances, as the sensible
+species of the Scholastics once did. Thus, neither substance nor accident
+can enter a monad from without. (§7, pp.213-14)
+</p>
+</blockquote></li>
+</ol>
+</div>
+</li>
+
+<li><a id="org6d67961"></a>The Ideality of Matter<br />
+<div class="outline-text-5" id="text-org6d67961">
+<ul class="org-ul">
+<li>Physical objects 'result' from monads
+<ul class="org-ul">
+<li>monads 'express' bodies via 'perception'</li>
+<li>physical bodies are a kinds of stable hallucination&#x2014;a 'well-founded phenomenon'</li>
+</ul></li>
+<li>Monads are not literal <i>parts</i> of bodies &#x2014; rather monads 'express' them.
+Matter is thus derivative from the perceptions of monads</li>
+</ul>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div id="postamble" class="status">
+<p class="author">Author: Colin McLear</p>
+<p class="date">Created: 2018-04-06 Fri 10:15</p>
+<p class="validation"><a href="http://validator.w3.org/check?uri=referer">Validate</a></p>
+</div>
+</body>
+</html>

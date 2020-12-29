@@ -1,0 +1,78 @@
+#+TITLE: Mid-Term Review
+#+DATE: February 23, 2017
+#+STATUS: hidden
+
+------
+
+* Mid-Term Structure
+1. Passage recognition
+2. Definitions
+3. Multiple choice
+4. Short essays
+   
+* Discourse on the Method
+1. Accept as true only that for which one has proper evidence—viz., clear
+   and distinct ideas;
+2. Resolve problems into their simplest parts; 
+3. Move from the simple and known to the complex; 
+4. Thoroughly review and check one’s work to be sure it is comprehensive and
+   complete
+
+* The Meditations
+** First Meditation
+*** The Project: develop a stable and lasting science
+- Develop a science that is "stable and likely to last"
+- Epistemic foundationalism :: All knowledge may be divided into two
+     classes---basic and derived. Knowledge of the basic truths is immediate
+     and non-inferential. All other knowledge is derived from this basic knowledge.
+*** The Method of doubt
+   - Discover a reliable method for acquiring knowledge
+     - the method of doubt
+       - turn us away from the senses as a reliable means of acquiring knowledge
+       - emphasis on the pure intellect as the organ by which we acquire knowledge
+   - Stages of doubt
+     1. illusion
+     2. dream argument
+     3. evil demon
+** Second Meditation               
+*** The cogito
+- What is the cogito?
+- Discuss 2 problems discussed in class
+  1. Begs the question
+  2. Invalid 
+*** The Wax Argument
+1. We know things (substances) via the intellect not the senses
+2. The mind is known better than any body
+** Third Meditation
+- The truth rule
+- Existence of God
+  1. Causal argument
+  2. Preservation argument
+
+** Fourth Mediation
+- Problem of error
+  - Error arises due to the combination of the will an intellect
+** Fifth Meditation
+*** Knowledge of essences via the intellect
+- Essence as feature of a thing that makes it the kind of thing that is is, without which it could not exist
+- Knowledge of essence of body
+  - claim that the conditions of intelligibility of a thing mirror conditions of being of a thing
+  - we have knowledge of both our own nature and the nature & existence of material bodies
+*** Ontological Argument 
+- Knowledge of the essence of God
+- God's essence includes its existence
+
+** Sixth Meditation
+- The real distinction argument
+- The argument for the external world
+
+* The Correspondence
+** Elisabeth's objection
+- If all motion requires impact then how could an unextended thing ever move
+  an extended thing and vice versa?
+** Descartes's reply
+- Mind, body, and mind-body unity from three "primitive" notions, and we
+  shouldn't understand any of the one in the terms set by the other(s)
+- Appeal to real quality of heaviness
+- Dualism
+- Cartesian dualism

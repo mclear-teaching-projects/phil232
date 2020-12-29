@@ -1,0 +1,43 @@
+* Quiz                                                             :noexport:
+ 1. We discussed two arguments of Leibniz's against matter. Briefly describe one.
+ 2. Name one of the characteristics of a monad
+ 3. T/F: Monads constitute physical reality by being parts of physical bodies
+ 4. T/F: Leibniz thinks everything happens for a reason
+ 5. Name one of the two characteristics of Cartesian substance
+
+* Hume's /Enquiry/
+- Wants us to burn books, specifically scholastic metaphysics 
+** Aims of the Enquiry
+- Articulate the nature of human understanding---i.e. the nature and
+  character of human cognitive powers
+- Pessimistic skepticism concerning the nature and reach of human
+  cognitive powers, especially the intellect (understanding and reason)
+
+* Hume's Mind
+- Wants to be the "Newton of the mind"
+  
+** Hume's empiricism 
+*** Two Kinds of Perception 
+1. Impressions - more vivid and forceful
+2. Ideas - less vivid and forceful
+
+- Where "force and vivacity" are understood in broadly
+  phenomenological/phenomenal terms 
+  
+- Ideas seem also to be distinguished from impressions by virtue of
+  their origin/etiology: they are brought about via some sort of
+  reflection or awareness of impressions
+
+*** The Copy Principle
+- All our ideas are copies of impressions
+  
+- Condition on meaning -- we can only think about what we have had an
+  impression of, or what can be derived from what we have had an
+  impression of
+  
+- Hume will ultimately criticize metaphysics based on its failure to
+  satisfy the copy principle 
+  
+*** The Missing Shade of Blue
+- Possible counterexample to the copy principle?
+- Denies that it is a genuine problem for the principle

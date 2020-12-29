@@ -1,0 +1,32 @@
+#+TITLE: Week 6 - Circles, Mind, & Matter
+#+DATE: February 12, 2018  
+#+SLUG: week6-world
+#+TAGS: descartes, real distinction, dualism, skepticism
+ 
+------
+
+This week we discuss the famous "Cartesian Circle" objection. We will also
+start to wrap up our discussion of the /Meditations/ with Descartes's argument
+for the difference between mental and material substance.
+
+In-class notes are [[file:{filename}/notes/notes_week6.html][here]]. 
+
+** Class 7 (2/13)
+- /Fifth Meditations/; emphasis on the "ontological proof" at AT 7:64-70
+- /Objections & Replies/, "Clear and Distinct Perception and the Cartesian
+  Circle", pp. 139-43
+- Hatfield, "[[file:{filename}/readings/hatfield_circle.pdf][God and the circle]]"
+
+
+** Class 8 (2/15)
+- /Sixth Meditation/
+- Notes on the [[http://notebook.colinmclear.net/sixth-meditation][Sixth Meditation]]. 
+
+
+** Reading Questions
+- What is the "Cartesian Circle"?
+- What is a "real" distinction?
+- What role does God play in Descartes's proof of the distinction between mind
+  and body?
+- Does Descartes think that God might deceive us about the existence of an
+  external world? Why or why not?

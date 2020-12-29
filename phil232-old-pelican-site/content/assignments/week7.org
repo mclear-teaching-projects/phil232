@@ -1,0 +1,32 @@
+#+TITLE: Week 7 - Bodies and Causation
+#+DATE: February 19, 2018
+#+SLUG: week7-external_world
+#+TAGS: descartes, dualism, causation, review, midterm
+
+------
+
+This week we finish our discussion of Descartes's /Meditations/. Whatever we
+don't get to we'll finish, along with review for the midterm, next Tuesday
+(2/27). The midterm is on Thursday, March 1st. 
+
+You can find the in-class notes [[file:{filename}/notes/notes_week7.html][here]].
+
+# You can find the review outline [[file:{filename}/pages/mid-term_review.org][here]].
+
+** Class 9 (2/20)
+- /Sixth Meditation/, with empahsis on Descartes's argument for the existence of the external world
+- Correspondence ([[file:{filename}/readings/mind-body.pdf][PDF]]) with Princess Elisabeth of Bohemia ([[https://plato.stanford.edu/entries/elisabeth-bohemia/][Stanford Encylopedia entry]]) 
+
+** No Class (2/22)
+- Review for Midterm
+- Midterm (Format):
+  - Passage recognition
+  - Short answer
+  - Multiple choice
+  - Short essay
+
+    
+** Reading Questions
+- If God were deceptive would Descartes's argument for the external world succeed?
+- In what way(s) do our ideas of material beings resemble those beings?
+- What does Elisabeth object to in Descartes's dualist account?

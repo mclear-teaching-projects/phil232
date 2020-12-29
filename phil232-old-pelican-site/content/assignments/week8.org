@@ -1,0 +1,23 @@
+#+TITLE: Week 8 - Review & Mid-Term
+#+DATE: February 26, 2018  
+#+SLUG: week8-midterm
+#+TAGS: descartes, midterm
+
+------
+
+The review notes for this week are [[file:{filename}/notes/notes_week8.html][here]].
+
+** Class 11 (2/27)
+- Descartes's argument for the external world
+- Review for Midterm
+  - Midterm (Format):
+    - Passage recognition
+    - Short answer
+    - Multiple choice
+    - Short essay
+
+** Class 12 (2/29)
+- Mid-Term
+  - No need to bring green books!
+
+

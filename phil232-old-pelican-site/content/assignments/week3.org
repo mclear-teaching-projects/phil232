@@ -1,0 +1,23 @@
+#+TITLE: Week 3 - God & Error
+#+DATE: January 22, 2018
+#+SLUG: week3-god
+#+TAGS: descartes, god, science, skepticism, truth 
+ 
+------
+
+** Class 5
+- /Second Meditation/, with special attention to the "wax argument" at pp.
+  84-6 (7:30-4).
+
+** Class 6 
+- /Third Meditation/
+- McLear, [[http://notebook.colinmclear.net/third-meditation][Notes]] on the /Third Meditation/
+
+
+In-class notes are [[file:{filename}/notes/notes_week3.html][here]]. 
+
+** Reading Questions
+1. In the wax argument Descartes is aiming to show that what two claims are true?
+2. Aside from his existence what else does Descartes learn about himself as subject in the second /Meditation/?
+3. What is the "truth rule"?
+4. What role do the proofs of God play in Descartes's overall argument in the /Meditations/?

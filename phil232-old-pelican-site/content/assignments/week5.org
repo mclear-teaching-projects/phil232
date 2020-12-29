@@ -1,0 +1,30 @@
+#+TITLE: Week 5 - Error & Essence
+#+DATE: February 5, 2018
+#+SLUG: week5-ontotheism
+#+TAGS: descartes, god, ideas, ontotheism 
+ 
+------
+
+This week we discuss Descartes's account of error, his views on the
+relationship between essence and existence, his ontological proof for God's
+existnce, and the so-called "Cartesian Circle" that may well undermine his
+entire argumentative strategy in the /Meditations/.
+
+In-class notes are [[file:{filename}/notes/notes_week5.html][here]]. 
+
+** Class 6 (2/6)
+- /Fourth/ (emph on problem of error) and /Fifth Meditations/ (emph on
+  knowledge of essence)
+- Notes on the [[http://notebook.colinmclear.net/fourth-meditation][Fourth]] and [[http://notebook.colinmclear.net/fifth-meditation][Fifth]] /Meditations/.
+  
+** Class 7 (2/8)
+- /Fifth Meditations/; emphasis on the "ontological proof" at AT 7:64-70
+- /Objections & Replies/, "Clear and Distinct Perception and the Cartesian
+  Circle", pp. 139-43
+- Hatfield, "[[file:{filename}/readings/hatfield_circle.pdf][God and the circle]]"
+
+** Reading Questions 
+1. What is the basis of error?
+2. What is the essence of matter?
+3. Does knowledge of the essence of thing require its existence?
+4. What is the "Cartesian Circle"?

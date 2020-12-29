@@ -1,0 +1,34 @@
+#+TITLE: Week 2 - Descartes's Doubts 
+#+DATE: January 15, 2018
+#+SLUG: week2-doubt
+#+TAGS: method, descartes, science, skepticism, cogito
+ 
+------
+
+This week we look at Descartes's ambitions for constructing a scientific body
+of knowledge, his criticism of aristotelian empiricism, and his skeptical
+challenge. We then focus our discussion on Descartes's famous "/cogito/"
+argument in response to the skeptical challenges presented in the /First Meditation/.
+
+The in-class notes are [[file:{filename}/notes/notes_week2.html][here]]. 
+
+
+** Class 3 (1/16)
+- Discussion of /Discourse on the Method/
+- Descartes,  Preface and Synopsis & /First Meditation/ ([[file:{filename}/readings/descartes_meditation1.pdf][PDF]]) 
+- McLear, [[http://notebook.colinmclear.net/first-meditation][Notes on the /First Meditation/]]
+ 
+** Class 4 (1/18)
+- Descartes, /Second Meditation/
+- McLear, [[http://notebook.colinmclear.net/second-meditation][Notes on the /Second Meditation/]]
+
+
+** Reading Questions
+While you read, think about how you might answer the following questions.
+We'll discuss these further in class.
+
+1. What does Descartes's foundationalist project in the /Meditations/ have to do
+   with scholastic conceptions of scientific knowledge?
+2. What is the basic problem, according to Descartes, with the traditional
+   empiricism of scholastic Aristotelianism?
+3. What is Descartes's "method of doubt"?
