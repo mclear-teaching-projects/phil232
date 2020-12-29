@@ -1,0 +1,153 @@
+#+TITLE: PHIL 232 Class Plan
+#+DATE: SPRING 2019 
+
+* Students
+
+* Assignments
+** Quizzes
+** Paper
+** Midterm
+** Final
+** Discussion
+* Module Plan
+** Dualism
+*** The Aristotelian Background
+*** M1: Skepticism & The Senses
+*** M2: The Cogito & The Intellect
+*** Quiz 1 
+1. What is content empiricism? 
+2. What is epistemic foundationalism?
+    - There is a class of privileged knowledge upon which all other knowledge depends
+3. (T/F) Descartes's method of doubt requires that we believe all of our beliefs
+   are false 
+    - One must suspend judgment concerning anything about which one cannot be completely certain
+4. Why does Descartes employ his method of doubt?
+    - To construct a science that is "stable and likely to last"
+5. Name one of the stages of doubt
+    - Sense deception
+    - Dreams
+    - The evil demon
+
+*** Med VI: The Real Distinction 
+*** Interaction
+- Correspondence w/Elisabeth, pp. 61-71
+*** Quiz 2
+1. What is the conclusion of the "cogito argument"?
+2. How does Lichtenberg think the cogito argument should be stated 
+3. What does Descartes assume is entailed by the existence of a thought?
+4. T/F: The Meditator claims that it can be certain that it is a "thinking thing"? 
+5. T/F: The wax argument shows that body is known via the senses only 
+
+*** Dualism & The Politics of Gender
+- Poullain de la Barre
+   + Preface
+   + pp. 52-61
+   + pp. 75-86
+- Mary Astell
+   + Part II §§3-4
+  
+*** Quiz 3
+1. T/F: If two substances are really distinct then they cannot exist independently of
+   one another
+2. T/F: Descartes denies that there is any causal interaction between material and
+   mental substances
+3. According to Descartes we have an idea of the mind-body union that is:
+    A. reducible to the ideas of mind and body
+    B. reducible to the idea of the mind
+    C. reducible to the idea of body
+    D. not reducible to any other idea
+4. One reason offered for sex equality is that
+    A. sex is a feature of bodies only
+    B. all minds have the same sex
+    C. there is no such thing as sex
+    D. all bodies have the same sex
+5. Astell argues for equal treatment of the sexes on the basis of
+    A. the clarity of our ideas
+    B. the morality of equality
+    C. the equal presence of reason in both sexes
+    D. the importance of being moral
+   
+       
+       
+   
+** Materialism
+*** Hobbes's Materialism
+- De Corpore ch. 25 §§1-7 /or/
+- Leviathan, chs. 1-3, ch. 46, §§15-39 (?)
+- More, IS p. 87
+- Leibniz, letter to Bayle
+    
+
+*** Materialism & Sensible Qualities
+- Galileo, /Assayer/ 
+- Locke, Primary vs. Secondary Qualities
+- Cavendish, either excerpt from letters or /Grounds of Natural Philosophy/, ch. 29
+  
+
+*** Quiz 4
+*** Nature & Divine Providence
+- More, IS ch. 12 (excerpts)
+- Cavendish, /Observations upon Experimental Philosophy/, XXXV Of Knowledge and
+  Perception in General
+- Hobbes, 
+  
+  
+*** Quiz 5
+** Idealism
+*** Leibniz's Idealism 
+**** Against the Possibility of Material Substance
+*** Quiz 6
+*** Freedom & Substance
+*** Quiz 7
+*** The Problem of Evil
+** Monism
+*** God, Substance, & Independence
+*** Quiz 8
+*** Subjectivity & Finitude
+*** Affect & Virtue
+*** Quiz 9
+*** Freedom & Necessity
+*** Quiz 10
+** Skepticism
+*** Hume's Model of The Mind
+*** Hume's Skeptical Naturalism
+*** Quiz 11
+*** On Knowing God's Existence
+*** On Miracles
+*** Quiz 12
+* Notes topics
+** DONE The Scholastic Background
+CLOSED: [2020-12-28 Mon 13:17]
+** DONE Skepticism & Empiricism: First Meditation
+CLOSED: [2020-12-28 Mon 13:17]
+** DONE The Cogito & the Intellect: Second Meditation
+CLOSED: [2020-12-28 Mon 13:17]
+** DONE The Real Distinction Argument: Sixth Meditation
+CLOSED: [2020-12-28 Mon 13:17]
+** DONE Dualism & Interaction: Pr. Elisabeth
+CLOSED: [2020-12-28 Mon 13:17]
+** Gender Equality: Poullain de la Barre & Mary Astell
+** Materialism: Hobbes
+** Primary & Secondary Qualities: Galileo & Locke
+** The Problem of Color: Hobbes, Galileo, & Cavendish
+** Panpsychism: Cavendish & Hobbes
+** Nature & Providence: Hobbes vs. More vs. Cavendish
+** Leibniz's Objections to Material Substance
+** Idealism: Leibniz's Monadology
+** Leibniz on Freedom: Correspondence with Arnauld
+** The Problem of Evil: Leibniz's Theodicy
+** How to Read the Ethics
+** Substance & Independence: Ethics I
+** God, Infinity, & Eternity: Ethics I
+** God as Nature: Ethics I
+** Finite Minds: Ethics II
+** Panpsychism & Body: Ethics II
+** Causation: Ethics II
+** Finitude & Passivity: Ethics III
+** Goodness & Living Well: Ethics IV
+** Freedom as Self-Determination: Ethics V
+** Intuitive Knowledge & Love of God: Ethics V
+** Hume's Naturalism
+** Hume's Theory of Mind
+** Skepticism About Proofs of God
+** Skepticism About Miracles
