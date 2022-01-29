@@ -1,0 +1,609 @@
+#+TITLE: PHIL 232 Class Plan
+#+DATE: SPRING 2022
+#+LATEX_COMPILER: xelatex
+#+OPTIONS: ':t prop:nil 
+#+LATEX_CLASS: org-notes
+
+* Calendar
+
+|----------+---------+----------------------------------------------------------|
+| Week \nbsp \nbsp | Date\nbsp\nbsp\nbsp | Topic                                                    |
+|----------+---------+----------------------------------------------------------|
+|        1 | 1/18    | *Descartes's Rationalism*: Scholastic background; Method   |
+|          | 1/20    |                                                          |
+|        2 | 1/25    | M 1-2                                                    |
+|          | 1/27    |                                                          |
+|        3 | 2/1     | M 3                                                      |
+|          | 2/3     |                                                          |
+|        4 | 2/8     | M 4-5                                                    |
+|          | 2/10    |                                                          |
+|        5 | 2/15    | M 6                                                      |
+|          | 2/17    |                                                          |
+|        6 | 2/22    | Problem of interaction; wrap up                          |
+|          | 2/24    |                                                          |
+|        7 | 3/1     | Review                                                   |
+|          | 3/3     | Mid-term                                                 |
+|        8 | 3/8     | *Problems w/Materialism*: Locke & Leibniz on Superaddition |
+|          | 3/10    |                                                          |
+|        9 | 3/22    | Leibniz against material substance                       |
+|          | 3/24    |                                                          |
+|       10 | 3/29    | *Monism*: Spinoza's Monism Argument                        |
+|          | 3/31    |                                                          |
+|       11 | 4/5     | Spinoza's mind                                           |
+|          | 4/7     | Start thinking about Paper thesis                        |
+|       12 | 4/12    | Spinoza on freedom                                       |
+|          | 4/14    |                                                          |
+|       13 | 4/19    | *Skepticism*: Hume's skeptical empiricism                  |
+|          | 4/21    | Paper thesis due 4/22                                    |
+|       14 | 4/26    | Hume, /Dialogues/ and /Of Miracles/ (from EHU ch. 10)        |
+|          | 4/28    |                                                          |
+|       15 | 5/3     | Final Exam                                               |
+|          | 5/5     | Final paper due 5/9                                      |
+|----------+---------+----------------------------------------------------------|
+* Module Plan
+** Descartes's Rationalist Project
+*** Overview: Descartes's Rationalism
+In this module we look at the philosophical system of Rene Descartes.  
+
+The objectives for this module are to:
+
+1. *Understand* Descartes's rationalist project
+2. *Explain* the various components of Descartes's philosophical system including:
+    - The nature and importance of method in science
+    - The role of skepticism in philosophy
+    - The rejection of scholasticism
+    - The relation between the intellect and the senses
+    - The relation between self-consciousness and certainty
+    - The nature of mind and body and their independence
+
+To satisfy these objectives I'm asking you to:
+
+A. *Read* the various assigned readings; I'll also include various optional readings,
+   as well as my notes for lecture
+B. *Watch* short video lectures 
+C. *Answer* short quizzes
+D. *Ask* questions in a weekly discussion board
+E. *Attend* a weekly synchonous zoom meeting on Thursdays
+
+All of the readings will either be posted here in Canvas or from one of your required
+books. Other notes and materials will all be posted here.
+*** The Scholastic Aristotelian Background
+
+*** Descartes's Background & Method
+*** Skepticism & Empiricism: First Meditation
+*** Quiz 1
+1. What are the four rules in Descartes's "method" for acquiring
+   knowledge? 
+   - Don't accept as true without evidence; Provide a standard of correctnesss
+   - Reduce complex problems to their simplest components
+   - Solve from the simple to the complex
+   - Review your work and leave no gaps
+2. What is epistemic foundationalism?
+   - There is a class of privileged knowledge upon which all other knowledge depends
+3. (T/F) Descartes's method of doubt requires that we believe all of our beliefs
+   are false 
+   - One must suspend judgment concerning anything about which one cannot be completely certain
+4. Why does Descartes employ his method of doubt?
+   - To construct a science that is "stable and likely to last"
+5. Name one of the stages of doubt
+   - Sense deception
+   - Dreams
+   - The evil demon
+
+*** The Cogito & the Intellect: Second Meditation
+*** Quiz 2
+1. What is the "cogito" argument? 
+2. Name one way in which the argument is problematic 
+3. What does Descartes assume is entailed by the existence of a thought?
+4. T/F: The Meditator claims that it can be certain that it is a "thinking thing"? 
+5. T/F: The wax argument shows that body is known via the senses only 
+
+*** God & Certainty: Third Meditation
+*** Quiz 3
+1. Name one source of our ideas that Descartes discusses
+   - adventitious
+   - invented
+   - innate
+2. T/F: Descartes needs to prove that God exists to be certain that the /cogito/
+   is true
+   - F
+3. T/F: The truth rule states that whenever one thinks, what one thinks is true
+   - F
+4. T/F: The Med 2 wax argument presupposes that bodies exist
+   - F
+5. What is the formal reality of an idea?
+   - its existence as a mode of the mind
+
+*** Freedom & Error: Fourth Meditation
+
+*** Quiz 4
+1. In Med 3 Descartes articulates 2 proofs of the existence of God. Name one.
+   - causal argument from idea of god
+   - from preservation/conservation of finite beings
+2. In his first proof of God’s existence D uses a metaphysical principle. Name
+   the principle & briefly describe its content
+   - causal principle: an effect cannot contain more reality than its efficient
+     and total cause
+3. T/F: Descartes explain the existence of error as arising because of the
+   relation between the imagination and the understanding
+   - F
+4. T/F: Descartes thinks that finite substances lack the power to persist
+   through time on their own 
+   - T
+5. T/F: Descartes thinks that the power to preserve is the same the as the power
+   to create
+   - T
+
+*** Esssence & Existence: Fifth Meditation
+*** The Real Distinction Argument: Sixth Meditation
+*** Quiz 5
+1. Name one of the three kinds of distinctness
+   - conceptual/modal/real
+2. What are the two "arcs" or claims of the Cartesian Circle?
+   - I can be certain of P only if I can be certain that Q/ I can be certain
+     of Q only if I can be certain that P
+   P=whatever I C&D perceive is true
+   Q=God exists and is not a deceiver
+3. T/F: According to Van Cleve's solution to the circle, Descartes must prove
+   that general epistemic principles hold before he can prove that we have
+   knowledge of particular truths. 
+   - F
+4. In the 5th med D argues that what controversial feature is part of God's essence?
+   - existence
+5. T/F: According to D in the 5th med the essence of matter is solidity
+   - F; extension
+
+
+*** The Problem of Interaction: Correspondence with Princess Elisabeth
+
+*** Quiz 6
+1. 
+   
+
+** Mid-Term (3/3)
+
+** Problems with Mechanism & Materialism
+
+*** Overview: Problems for Materialism
+In this module we look at the philosophical systems of John Locke and Gottfried
+Wilhelm Leibniz. 
+
+The objectives for this module are to:
+
+1. *Understand* the project of mechanical explanation
+2. Explain the difference between mechanism and materialism
+3. Explain Locke's doubts regarding the success of the mechanistic project
+4. Explain the dispute between Locke and Leibniz regarding the possibility of
+   thinking matter
+5. Understand and explain Leibniz's objections to material substance
+
+To satisfy these objectives I'm asking you to:
+
+A. *Read* the various assigned readings; I'll also include various optional readings,
+   as well as my notes for lecture
+B. *Watch* short video lectures 
+C. *Answer* short quizzes
+D. *Ask* questions in a weekly discussion board
+E. *Attend* a weekly synchonous zoom meeting on Thursdays
+
+
+All of the readings will be posted here in Canvas, as will other notes and materials.
+
+*** Mechanism & Materialism
+*** Locke vs. Leibniz on Superaddition
+*** Quiz 7
+*** Leibniz Against Material Substance
+*** Leibniz's Idealism
+*** Quiz 8
+** Spinoza's Monism
+*** Overview: Monism
+
+
+In this module we look at the philosophical system of Baruch Spinoza.
+
+The objectives for this module are to:
+
+-    *Understand* the project of the /Ethics/.
+-    *Explain* Spinoza's argument for monism
+-    Understand and *Explain* Spinoza's position regarding the identity of nature and God
+-    *Explain* Spinoza's conception of virtue
+-    *Explain* Spinoza's view of freedom
+
+To satisfy these objectives I’m asking you to:
+
+-    *Read* the various assigned readings; I may also include optional readings, as well as my notes for lecture
+-    *Watch* short video lectures
+-    *Answer* short quizzes
+-    *Ask* questions in a weekly discussion board
+-    *Attend* a weekly synchonous zoom meeting on Thursdays
+
+All of the readings will be from the required book A Spinoza /Reader/, or will be posted here in Canvas, as will other notes and materials.
+*** Method in the Ethics
+*** Spinoza & the PSR
+*** God, Substance, & Independence
+*** Monism
+*** Quiz 9
+*** Subjectivity & Finitude
+*** Spinoza on Mind & Body
+*** Quiz 10
+*** Spinoza on Freedom & Virtue
+*** Quiz 11
+
+** Hume's Skeptical Empiricism
+
+*** Overview: Skepticism
+
+In this module we look at the philosophical system of David Hume.
+
+The objectives for this module are to:
+
+- *Understand* Hume's conception of the mind
+- *Explain* Explain Hume's skeptical empiricism
+- *Explain* Hume's theory of association
+- *Explain* Hume's arguments against natural religion
+  
+
+To satisfy these objectives I’m asking you to:
+
+-    *Read* the various assigned readings; I may also include optional readings, as well as my notes for lecture
+-    *Watch* short video lectures
+-    *Answer* short quizzes
+-    *Ask* questions in a weekly discussion board
+-    *Attend* a weekly synchonous zoom meeting on Thursdays
+
+All of the readings will be from the required book /Dialogues Concerning Natural Religion/, or will be posted here in Canvas, as will other notes and materials.
+
+*** Hume on the Mind
+
+*** Quiz 12
+
+*** Hume on Natural Religion & Miracles
+
+*** Quiz 13
+
+** Final Exam (5/3)
+
+** Final Paper (5/9)
+
+* Week Plan
+
+** Week 1
+*** First meeting
+
+1. Introductions 
+2. Course overview
+    + [X] go through canvas page briefly (shared screen)
+    + [X] discuss layout and where to find everything
+3. Explanation of requirements 
+    - [X] discuss flow of assignments
+4. Discuss schedule and overall scope of course 
+5. Discussion of Medieval background (slides)
+6. Homework for Thursday:
+    + Read/Watch Medieval background & Method lectures
+    + Post on discussion board
+*** Second meeting
+1. Brief overview of Scholasticism
+    - Finish discussing science & cosmology
+    - Discuss questions about Galileo & heliocentrism (Andrew, Nathan)
+2. Brief intro to Descartes and his role in the period and the course
+    + Discuss his rationalism
+       - Every (properly developed) human mind has the capacity for purely rational thought
+       - The world as God created it is (in principle) intelligible to us
+       - We should accept no final authority or custom other than that of reason
+          + Mention point about part one of the Discourse emphasizing the value of life experience
+    + Talk about the connection between science and (natural) philosophy
+       - Distinguish between "science" as referring to a paricular sort of
+       empirical inquiry with which we are familiar today and "science" as
+       referring to the kind of "natural philosophy" practiced in the Early
+       Modern period.
+    + Discuss demonstrative science -- give one or two concrete examples. 
+    + What is the connection between mathematics and Descartes's philosophy? Did he
+      apply mathematical methods? If he had would his philosophy have been better or
+      more exact?
+    + The four rules
+       - (1) accepting as true only that for which one has proper
+         evidence---viz., clear and vivid ideas; (2) resolving problems into
+         their simplest parts; (3) moving from the simple (and known) to the
+         complex; and (4) thoroughly reviewing and checking one's work to be
+         sure it is comprehensive and complete
+3. Answer discussion questions
+    - Descartes on abandoning custom/tradition (Siqi, Nathan)
+    - Importance of the role of God in D's argument (Casey, Nathan, Cyrus)
+    - What counts as evidence for D? (Casey)
+4. Homework due by next thursday
+    - Read Medieval background, Descartes Method, and MED 1 - 2
+    - Watch related lectures 
+    - Take Quiz 1 & 2
+    - Posted on method discussion and med 1-2 discussion 
+** Week 2
+- [X] Discuss logistics (any questions about what to do, or where or when to do it?)
+- [X] Thanks & Remind everyone to post discussion questions prior to meeting
+- [X] Discuss structure of M1
+   + [X] Ask for student to summarize M1
+   + [X] What is foundationalism?
+   + [X] What is the method of doubt?
+      - [X] Does Descartes intend to prove that all his prior views were false?
+   + [X] What is the aim of the method of doubt
+   + [X] What are the stages of doubt?
+- [-] Address any questions about M1
+   + [X] Michael: what is the difference between suspending and denying? Which is
+     central for D's argument?
+   + [X] Casey: Why shouldn't we think Descartes's project insane?
+   + [ ] Ty: To what extent can any belief be absolutely proven true?
+      - [ ] To what extent can D prove that there is no external world?
+   + [ ] Ty, Michael: What about other minds? How does Descartes approach/perceive animals? Is it not logical to perceive all of one's peers as fictitious even despite the assumption that they are thinking, conscious beings as well?
+   + [X] Riley: Doesn't the possibility of lucid dreaming show that the dream
+     argument is unconvincing? 
+- [ ] Discuss structure of M2
+   + [ ] Search for an "archimedian point"
+   + [ ] Three different possible roles for the archimedian point
+      - [ ] foundational
+      - [ ] systematic
+      - [ ] methodological
+   + [ ] The cogito argument
+      - [ ] what's the conclusion?
+      - [ ] how is the conclusion established (e.g. via inference)?
+      - [ ] what is the importance of the cogito for Descartes's broader project
+        in the /Meditations/?
+   + [ ] Problems with the cogito arg
+      - [ ] Lichtenberg objection
+      - [ ] Substance objection (omitted premise) 
+- [ ] Student questions for M2
+   + [ ] Cyrus: Why can't we be deceived about our own existence?
+      - "why would this demon not be able to provide someone with a false sense of existence?  Could Descartes, his thoughts, and entire sense of self not be a thought within the mind of the evil demon?"
+   + [ ] Kendric: "The idea is: can this "self" or "I" that Descartes's lays out be divided? Could it be possible that there is a "thinking object" that is one's train of thought and an "observer" that just perceives the "thinking object", where the "observer" is the only part of the "self"? In this fashion, if "thinking object" is not part of the "self", then could it be controlled by the aforementioned evil demon in the first meditation, and result is a "self" that is a simple machine that only observes and does not do any thinking; only what seems like thinking?"
+   + [ ] Tadhg (and Matthew): "I don't understand the argument that there can be a thought all by itself. I can see an argument being made that we aren't beings or that we don't have physical form but are simply thoughts, but to me, even if I am just formless thoughts, I still exist"
+   + [ ] Riley, Muhammad, Alexander: What is going on with the wax argument? Why
+     is it impossible to "understand" [sic] the various ways in which the wax
+     can change (though see Kendric's answer)
+   + [ ] Zachery: Is D claiming that the the ONLY certainty was that "I exist" or if it's just a certainty? 
+** Week 3
+- [ ] Discuss any questions/logistics
+- [ ] Discuss wax argument
+- [ ] Summarize M2
+- [ ] Discuss truth rule
+- [ ] Discuss 3 sources of ideas
+** Week 4
+*** Participation
+*** Discussion
+
+- [ ] Remaining questions about truth rule 
+- [ ] M3 Arguments for God's existence
+   - [ ] Causal Principle
+   - [ ] Preservation Principle
+- [ ] The problem of evil/error
+- [ ] Descartes's solution to error
+- [ ] Issues about free will
+- [ ] Knowledge of essence
+
+  
+- Discussion questions
+     
+** Week 5
+*** Participation
+- 
+*** Discussion
+- [ ] The problem of evil/error
+- [ ] Descartes's solution to error
+- [ ] Issues about free will
+   + [ ] Freedom as indifference/leeway vs. freedom as spontaneity
+- [ ] Knowledge of essence
+- [ ] Ontological Argument
+- [ ] Cartesian Circle
+- [ ] M6 Summary
+
+- Discussion questions: 
+   
+** Week 6
+*** Announcements
+- finish up through q6
+- mid-term on thrusday
+- review on tuesday
+*** Discussion
+- [ ] Real distinction argument
+   + [ ] Varieties of distinctness
+   + [ ] modal argument
+   + [ ] Essence as excluding opposing modes
+- [ ] Elisabeth's objections
+   + [ ] movement
+   + [ ] the mind is understood merely negatively 
+- [ ] Descartes's replies
+   + [ ] the three primitive notions
+** Week 8
+- [ ] Paper topics
+   + start thinking about them; I'll post topics in the announcements this weekend
+- [ ] Leibniz on true unity
+** Week 9
+*** Comments on Spinoza
+- Before ending discussion I should briefly prepare the students concerning how to
+  read the /Ethics/ and how to approach the notes etc. This might overlap to a certain
+  extent with the recorded lectures
+** Week 10
+- [ ] Background
+- [ ] Geometric method
+- [ ] PSR
+- [ ] Spinoza's Monism argument
+
+
+*** Question about Spinoza's Monism
+- How is it that a single substance can have a plurality of attributes? Especially if
+  these attributes are radically different from one another (e.g. as are /thought/ and /extension/)?
+   + Another way to put this is how there can be a "true unity" that is or
+     nevertheless possesses a plurality of essences/natures/attributes
+     #+begin_quote
+     E1P10S: although two attributes may be conceived to be really distinct (i.e.,
+     one may be conceived without the aid of the other), we still cannot infer from
+     that that they constitute two beings, or two different substances. For it is of
+     the nature of a substance that each of its attributes is conceived through
+     itself, since all the attributes it has have always been in it together, and one
+     could not be produced by another, but each expresses the reality, or being of
+     substance. (90)
+     #+end_quote
+      - It seems like S's answer here depends on his view that substance is
+        absolutely infinite, that attributes cannot be shared, and that each attribute is conceived in and through itself
+        #+begin_quote
+        E1P10S: each being must be conceived under some attribute, and the more
+        reality, or being it has, the more it has attributes which express necessity,
+        or eternity, and infinity. And consequently there is also nothing clearer
+        than that a being absolutely infinite must be defined (as we taught in D6) as
+        a being that consists of infinite attributes, each of which expresses a
+        certain eternal and infinite essence. (90)
+        #+end_quote
+      - A problem is that while it is true that each attribute exists necessarily and
+        that none can exist without the others (because all are necessary), it is not
+        true that an attribute exists in virtue of any other, so there is no
+        connection between attributes that could unify them other than the fact that
+        a substance cannot share attributes. 
+     
+     
+ 
+
+** Week 11
+    # + Letter from/to Tschirnhaus (pp. 269-70)
+- Logistics
+   + [ ] Final paper page
+   + [ ] Send me your thesis
+   + [ ] Next week's reading (there is a bit more, and it is scattered)
+- Spinoza's mind & the human being 
+   - [ ] Minds as modes of God's intellect
+   - [ ] Parallelism 
+   - [ ] The essence of the human being as the idea of an actual body
+      + [ ] The corpse problem (Kathryn)
+      + [ ] What about animals? (Brandi)
+   - [ ] Avoiding Descartes's problematic dualism
+      + [ ] How is there an identity of mind and body? (Michael)
+   - [ ] The lack of personal immortality
+   - [ ] The eternity of the mind as ideas in God's intellect
+   
+  
+** Week 12
+- [ ] Adequate ideas
+- [ ] Three kinds of knowledge
+- [ ] Virtue
+   + Appendix to IV--1-13
+- [ ] Freedom (Freedom in Spinoza vs Descartes)
+   + I D7
+   + Appendix to Pt 1
+   + II P48-49
+   + IV Preface
+   + IVP68d
+   + Letter from/to Tschirnhaus (pp. 266-9)
+- Blessedness (?) 
+
+
+** Week 13 
+- [ ] Discuss final
+- [ ] Optional Review for final on Tues 27
+- [ ] Discuss paper
+- [ ] Spinoza wrap-up?
+- Hume's empiricism
+   + [ ] Impressions & Ideas
+   + [ ] Missing Shade
+   + [ ] Meaning & Metaphysics
+
+** Week 14 
+- [ ] Discuss exam
+- [ ] discuss final paper
+- Readings
+   + Dialogues
+      - Parts II, V-IX (we'll focus on arguments from II and IX)
+   + On Miracles
+- Dialogue structure
+   + the Dialogues, although ﬁrst drafted in 1751, was not published until 1779, three years after Hume’s death.
+   + 3 participants: Cleanthes, Demea, and Philo
+   + Phil seems to most closely map to Hume's views
+   + The Dialogues constitute a set of arguments against natural theology/religion
+   + Hume ends the Dialogues on a somewhat confusing note since he indicates that
+     the views of "Cleanthes approach still nearer to the truth"
+- Of Miracles
+   + Argues against revealed theology
+   + Relationship between evidence & probability
+   + 
+
+** Week 15 
+- Final review
+
+
+* PDF Notes
+** The Scholastic Aristotelian Background
+:PROPERTIES:
+:EXPORT_DATE: January 18, 2022
+:EXPORT_OPTIONS: author:t num:t 
+:EXPORT_AUTHOR: PHIL 232
+:EXPORT_FILE_NAME: /Users/Roambot/Dropbox/Work/projects/phil232/pdf-notes/1-notes-scholastic-background
+:END:
+
+#+toc: headlines 6
+
+
+#+INCLUDE: "~/Dropbox/Work/projects/notebook/content-org/lectures/medievalbackground.org" :lines "12-"
+
+*** References
+:PROPERTIES:
+:UNNUMBERED: t
+:END:
+
+#+print_bibliography:
+
+** Descartes's Background & Method
+:PROPERTIES:
+:EXPORT_DATE: January 20, 2022
+:EXPORT_OPTIONS: author:t num:t 
+:EXPORT_AUTHOR: PHIL 232
+:EXPORT_FILE_NAME: /Users/Roambot/Dropbox/Work/projects/phil232/pdf-notes/2-notes-descartes-method
+:END:
+
+#+toc: headlines 6
+
+
+#+INCLUDE: "~/Dropbox/Work/projects/notebook/content-org/lectures/method_meditations.org" :lines "12-"
+
+*** References
+:PROPERTIES:
+:UNNUMBERED: t
+:END:
+
+#+print_bibliography:
+
+** Skepticism & Empiricism: Meditation 1
+** The Cogito & the Intellect: Meditation 2
+** God & Certainty: Meditation 3
+** Freedom & Error: Meditation 4
+** Essence & Existence: Meditation 5
+** The Real Distinction Argument: Meditation 6
+** The Problem of Interaction: Correspondence with Princess Elisabeth
+** Locke & Leibniz on Superaddition
+:PROPERTIES:
+:EXPORT_DATE: January 25, 2022
+:EXPORT_OPTIONS: author:t num:t 
+:EXPORT_AUTHOR: PHIL 232
+:EXPORT_FILE_NAME: /Users/Roambot/Dropbox/Work/projects/phil232/pdf-notes/10-notes-superaddition
+:END:
+
+#+INCLUDE: "~/Dropbox/Work/projects/notebook/content-org/lectures/2021-0308-1232-materialism---mechanism.org" :lines "10-"
+
+#+INCLUDE: "~/Dropbox/Work/projects/notebook/content-org/lectures/2021-0110-0131-locke-leibniz-superaddition.org" :lines "10-"
+
+*** References
+:PROPERTIES:
+:UNNUMBERED: t
+:END:
+
+#+print_bibliography:
+
+** The Primary/Secondary Quality Distinction
+:PROPERTIES:
+:EXPORT_DATE: January 25, 2022
+:EXPORT_OPTIONS: author:t num:t 
+:EXPORT_AUTHOR: PHIL 232
+:EXPORT_FILE_NAME: /Users/Roambot/Dropbox/Work/projects/phil232/pdf-notes/9-notes-qualities
+:END:
+
+#+INCLUDE: "~/Dropbox/Work/projects/notebook/content-org/lectures/psqualities.org" :lines "10-"
+
+*** References
+:PROPERTIES:
+:UNNUMBERED: t
+:END:
+
+#+print_bibliography:
